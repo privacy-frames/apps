@@ -1,0 +1,4 @@
+{
+  "title": "Installed reference",
+  "text": "This JSON document and the illustration were downloaded with the notebook. Reloading the article reads the installed document through the application's ordinary fetch call."
+}

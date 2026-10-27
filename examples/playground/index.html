@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Playground</title>
+    <link rel="stylesheet" href="./app.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Code playground</h1>
+      <span id="mode">Unrestricted</span><button id="run">Run</button>
+    </header>
+    <main>
+      <section class="editors">
+        <label
+          >HTML<textarea id="html" spellcheck="false" aria-label="HTML"></textarea></label
+        ><label
+          >CSS<textarea id="css" spellcheck="false" aria-label="CSS"></textarea></label
+        ><label
+          >JavaScript<textarea
+            id="javascript"
+            spellcheck="false"
+            aria-label="JavaScript"
+          ></textarea>
+        </label>
+      </section>
+      <section class="result">
+        <h2>Preview</h2>
+        <div id="preview"></div>
+        <h2>Output</h2>
+        <pre id="output" aria-live="polite">Ready. Click Run.</pre>
+      </section>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>

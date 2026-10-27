@@ -1,0 +1,11 @@
+{
+  "name": "Generic imported document",
+  "short_name": "Document",
+  "description": "A generic base-URL installation fixture",
+  "start_url": "./index.html#section",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#111316",
+  "background_color": "#111316",
+  "shortcuts": [{ "name": "Section", "url": "./index.html#section" }]
+}

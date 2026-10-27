@@ -1,0 +1,8 @@
+{
+  "name": "Private notes",
+  "short_name": "Notebook",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f4eb",
+  "theme_color": "#264f3d"
+}

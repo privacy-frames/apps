@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Adversary</title>
+    <link rel="stylesheet" href="./app.css" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <strong>Boundary laboratory</strong
+        ><span class="badge" id="mode">Independent application</span>
+      </header>
+      <h1>An application trying to escape.</h1>
+      <p>
+        This application deliberately attempts prohibited operations. Run it directly for
+        an unrestricted control, then install it to compare.
+      </p>
+      <label for="diagnostic">Diagnostic value</label
+      ><input id="diagnostic" type="text" value="demonstration-only" /><button id="run">
+        Run boundary checks</button
+      ><button id="network" class="secondary">Try network disclosure</button>
+      <p id="status" class="status" role="status">Ready.</p>
+      <table>
+        <caption>
+          Execution context and authority checks
+        </caption>
+        <thead>
+          <tr>
+            <th>Attempt</th>
+            <th>Result</th>
+          </tr>
+        </thead>
+        <tbody id="results"></tbody>
+      </table>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>

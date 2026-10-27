@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Wasm fixture</title>
+    <link rel="modulepreload" href="./module.js" />
+    <link
+      rel="preload"
+      href="./answer.wasm"
+      as="fetch"
+      type="application/wasm"
+      crossorigin
+    />
+  </head>
+  <body>
+    <p id="result">Starting</p>
+    <input id="private" value="diagnostic-only" />
+    <button id="send">Try disclosure</button>
+    <script type="module">
+      import { compute } from './module.js';
+      document.querySelector('#result').textContent = `Answer: ${await compute()}`;
+      document.querySelector('#send').addEventListener('click', async () => {
+        try {
+          await fetch(
+            'http://127.0.0.1:4216/disclosure?value=' +
+              encodeURIComponent(document.querySelector('#private').value),
+          );
+          document.querySelector('#result').textContent = 'Network reached';
+        } catch {
+          document.querySelector('#result').textContent = 'Network blocked';
+        }
+      });
+    </script>
+  </body>
+</html>

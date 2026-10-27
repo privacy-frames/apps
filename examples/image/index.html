@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Image</title>
+    <link rel="stylesheet" href="./app.css" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <strong>Pixel workshop</strong
+        ><span class="badge" id="mode">Independent application</span>
+      </header>
+      <h1>Your image. Your pixels.</h1>
+      <p>
+        Open a local image and edit its pixels. The application receives the image buffer;
+        its network connection remains closed.
+      </p>
+      <div class="panel">
+        <label for="file">Choose an image </label
+        ><input id="file" type="file" accept="image/*" />
+        <div class="row">
+          <button id="sample">Use sample image</button
+          ><button id="invert" class="secondary">Invert pixels</button
+          ><button id="gray" class="secondary">Grayscale</button>
+        </div>
+      </div>
+      <canvas id="canvas" width="480" height="280"></canvas>
+      <p id="status" class="status" role="status">No image loaded.</p>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>

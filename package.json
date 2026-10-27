@@ -1,0 +1,14 @@
+{
+  "name": "privacy-frames-publishers",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.ts",
+    "build:examples": "node scripts/build-examples.ts",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write scripts examples *.json .github --ignore-unknown",
+    "format:check": "prettier --check scripts examples *.json .github --ignore-unknown"
+  },
+  "dependencies": { "react": "19.3.1", "react-dom": "19.3.1", "acorn": "8.15.0", "parse5": "8.0.1" },
+  "devDependencies": { "esbuild": "0.28.2", "typescript": "6.0.3", "prettier": "3.9.10", "@types/node": "26.6.5", "@types/react": "19.3.0", "@types/react-dom": "19.3.0" }
+}

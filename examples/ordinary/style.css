@@ -1,0 +1,13 @@
+:root {
+  color-scheme: dark;
+  font: 16px system-ui;
+}
+body {
+  max-width: 46rem;
+  margin: 3rem auto;
+}
+input,
+button {
+  font: inherit;
+  padding: 0.6rem;
+}

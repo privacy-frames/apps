@@ -1,0 +1,9 @@
+{
+  "name": "Ordinary offline app",
+  "short_name": "Offline app",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111316",
+  "theme_color": "#111316"
+}

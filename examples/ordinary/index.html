@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="An ordinary offline application, without a Privacy Frames manifest."
+    />
+    <title>Ordinary</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="/style.css" />
+    <script type="module" src="./main.js"></script>
+  </head>
+  <body>
+    <h1>Ordinary offline app</h1>
+    <p id="phase">Starting…</p>
+    <label>Private input <input id="private" /></label
+    ><button id="send">Try to send</button>
+    <p id="result"></p>
+  </body>
+</html>
