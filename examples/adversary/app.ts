@@ -73,12 +73,16 @@ const probes: Record<string, () => unknown | Promise<unknown>> = {
       await audio.close();
     }
   },
-  Worker: () => new Worker('./app.js'),
+  'Uninstalled Worker': () =>
+    new Worker(new URL('uninstalled-worker.js?probe=' + Date.now(), location.href)),
   SharedWorker: () => new SharedWorker('./app.js'),
   WebSocket: () => new WebSocket('ws://127.0.0.1:4216/socket'),
   WebRTC: () => new RTCPeerConnection(),
   'window.open': () => window.open('about:blank'),
-  'service worker authority': () => navigator.serviceWorker,
+  'service worker authority': () =>
+    navigator.serviceWorker.register(
+      new URL('unprepared-worker.js?probe=' + Date.now(), location.href),
+    ),
   'Native storage prototype recovery': () =>
     Storage.prototype.getItem.call(localStorage, 'manager-secret'),
   'Storage access handle': () =>
