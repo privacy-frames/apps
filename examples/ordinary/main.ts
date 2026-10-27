@@ -1,6 +1,6 @@
 import { message } from './dependency.js';
 const registration = await navigator.serviceWorker.register(
-  new URL('/sw.js', document.baseURI),
+  new URL('./sw.js', document.baseURI),
 );
 await navigator.serviceWorker.ready;
 const receipt = await (await fetch(new URL('/phase.json', document.baseURI))).json();

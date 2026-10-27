@@ -1,0 +1,734 @@
+{
+  "captured": "2026-10-27T03:38:37.520Z",
+  "id": "squoosh",
+  "entry": "https://squoosh.app/",
+  "license": "Apache-2.0",
+  "repository": "GoogleChromeLabs/squoosh",
+  "ref": "dev",
+  "bytes": 26022698,
+  "files": [
+    {
+      "url": "https://squoosh.app/c/avif_dec-61445e6d.js",
+      "path": "c/avif_dec-61445e6d.js",
+      "bytes": 19369,
+      "sha256": "ccbdafcf4437c4b88a964f25f87ac38e24a038dbb9cfd80b5bf5a59f18e92870",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_dec-d634d9c0.wasm",
+      "path": "c/avif_dec-d634d9c0.wasm",
+      "bytes": 1210729,
+      "sha256": "d4bbbab574c4c141484430a6616781d3575b3183c594eb3f83d0c10be3fea736",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_enc_mt-5e0d2ff0.js",
+      "path": "c/avif_enc_mt-5e0d2ff0.js",
+      "bytes": 40077,
+      "sha256": "3cfe7361e3cc498f8a71c25065c8376fd3654eae0660778b4299fe17cb33a19b",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_enc_mt-9d34100e.wasm",
+      "path": "c/avif_enc_mt-9d34100e.wasm",
+      "bytes": 2872027,
+      "sha256": "dac5d3f38109abf1a61a14b25382a6f541242c7477bdb596e6b5650c20d2dea8",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_enc_mt.worker-c129884d.js",
+      "path": "c/avif_enc_mt.worker-c129884d.js",
+      "bytes": 2525,
+      "sha256": "f5ceeb2625c7f8335ef7ac7980edf9d79fda04102ee2ce98f6996a7f3b08d490",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_enc-04767266.js",
+      "path": "c/avif_enc-04767266.js",
+      "bytes": 22169,
+      "sha256": "0fd29b89986c6a7e29783aae1a2fab641cca44a16dcade86c5ced2dbe2e70ad5",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_enc-90ce2a03.wasm",
+      "path": "c/avif_enc-90ce2a03.wasm",
+      "bytes": 2818173,
+      "sha256": "99efb708ff44288a9b0b0d4864b5d6aec02b26f6574161dc31b60a8df6ba5651",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/blob-anim-97c315b2.js",
+      "path": "c/blob-anim-97c315b2.js",
+      "bytes": 4251,
+      "sha256": "a995b9ee1ed1367b6db6d049c832879482dfbdddfd0fafe9adf25f7d8183ec8a",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/Compress-5b50107e.js",
+      "path": "c/Compress-5b50107e.js",
+      "bytes": 106336,
+      "sha256": "a88ab717485202caa135d325f6b65491378a6babe73b2594aeca4a849d9147a8",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/demo-artwork-c444f915.jpg",
+      "path": "c/demo-artwork-c444f915.jpg",
+      "bytes": 2922539,
+      "sha256": "e88e88d8856a396789980cfd433f5b32194ee3bf00c8bf15ceff59ee60463bf3",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://squoosh.app/c/demo-device-screen-b9d088e8.png",
+      "path": "c/demo-device-screen-b9d088e8.png",
+      "bytes": 1622142,
+      "sha256": "7ff5dc1ebd47f6d03d82bb4ec5d055576591e3325ef10b03b01e805661983c69",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://squoosh.app/c/demo-large-photo-a6b23f7b.jpg",
+      "path": "c/demo-large-photo-a6b23f7b.jpg",
+      "bytes": 2790013,
+      "sha256": "9a6612975904ba0d1f0ee99f6522b442439e5b493ac656f2ef8836d94da6f181",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://squoosh.app/c/favicon-c9cf50ef.ico",
+      "path": "c/favicon-c9cf50ef.ico",
+      "bytes": 15086,
+      "sha256": "6562dee4fd04e79264f0b74a020d724ea700ff7d93624f509202ea2fc728aa99",
+      "contentType": "image/vnd.microsoft.icon"
+    },
+    {
+      "url": "https://squoosh.app/c/features-worker-d71077a2.js",
+      "path": "c/features-worker-d71077a2.js",
+      "bytes": 120928,
+      "sha256": "0f02925084d42859a401dc3a189950fc009e0ff3a153a78bfaebdd6749ab233c",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/github-logo-bc05494c.svg",
+      "path": "c/github-logo-bc05494c.svg",
+      "bytes": 588,
+      "sha256": "636b2cd7dcfc2013befb0c23907924d0780a2ae26bf2e069ef697ad8bd75058d",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://squoosh.app/c/icon-demo-artwork-9eba1655.jpg",
+      "path": "c/icon-demo-artwork-9eba1655.jpg",
+      "bytes": 3411,
+      "sha256": "7aecc3ac29a967cecfbfd9ef823ae2003cfd06ce60f0705da3693cd76420f5b8",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://squoosh.app/c/icon-demo-device-screen-5d52d8b9.jpg",
+      "path": "c/icon-demo-device-screen-5d52d8b9.jpg",
+      "bytes": 4226,
+      "sha256": "5189f36a51c4c54a6fc5ebcc930b586596ac6405a63cdf52892fb082e6a7c043",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://squoosh.app/c/icon-demo-large-photo-18da387a.jpg",
+      "path": "c/icon-demo-large-photo-18da387a.jpg",
+      "bytes": 3666,
+      "sha256": "5cceec43363fe1a822234b377c8d804126e6c2389392729dc095be1d6f492179",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://squoosh.app/c/icon-demo-logo-326ed9b6.png",
+      "path": "c/icon-demo-logo-326ed9b6.png",
+      "bytes": 4800,
+      "sha256": "94702030806e9ea440b226bb7bb0fce37986c6c3e19a5b5f2ec015ed9e3e9bff",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://squoosh.app/c/icon-large-cb438cac.png",
+      "path": "c/icon-large-cb438cac.png",
+      "bytes": 26322,
+      "sha256": "9dc273a02d15dc84ae1734556183dd093d90a53ec97404b7b281327b011df787",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://squoosh.app/c/icon-large-maskable-c2078ced.png",
+      "path": "c/icon-large-maskable-c2078ced.png",
+      "bytes": 34541,
+      "sha256": "333f8909fbc77e83824c4aeba04697dda38428d1628508e0eca7c9631202822e",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://squoosh.app/c/idb-keyval-c33d3116.js",
+      "path": "c/idb-keyval-c33d3116.js",
+      "bytes": 727,
+      "sha256": "1d016bf4095d8323b245bf3118dbc6ea8f48cd0b2b11cde5be1a2e7662327546",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/imagequant-a10bbe1a.wasm",
+      "path": "c/imagequant-a10bbe1a.wasm",
+      "bytes": 66037,
+      "sha256": "92ae97683f196cbbc634a37117de3cd16218985e8356d4218524aefe5509d355",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/initial-app-af47d7fe.js",
+      "path": "c/initial-app-af47d7fe.js",
+      "bytes": 44824,
+      "sha256": "a7a3591fcd96aba978be7405a6d21c4ed46bb0351f762adff5c27b174bc517fd",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_dec-e90a5afa.wasm",
+      "path": "c/jxl_dec-e90a5afa.wasm",
+      "bytes": 840279,
+      "sha256": "83404414f2ec50f35f7530de6619b38fdaf026b18ca2d4a682e23fc2508301f5",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt_simd-99c0de1e.js",
+      "path": "c/jxl_enc_mt_simd-99c0de1e.js",
+      "bytes": 47276,
+      "sha256": "0b5da335ca0c2cca99acf446dcfdf574e1db69e941e8668233e5faff2e248f86",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt_simd-efe18ebf.wasm",
+      "path": "c/jxl_enc_mt_simd-efe18ebf.wasm",
+      "bytes": 1946500,
+      "sha256": "7ee6bd90ce8cabef00fbbf166d7556b632d8042d53d516bc88c189571f156e1f",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt_simd.worker-07966959.js",
+      "path": "c/jxl_enc_mt_simd.worker-07966959.js",
+      "bytes": 2629,
+      "sha256": "5a5775f35e7df3f3c9e449124c19bbae7c0f09afa12e88b80a94a5d9db0fc039",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt-388d6b22.js",
+      "path": "c/jxl_enc_mt-388d6b22.js",
+      "bytes": 47256,
+      "sha256": "6b85ab650da04724bc8a8ca980c1902a5f00ee7d1cecd2b08ad91e6ff8e4837f",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt-669d03c7.wasm",
+      "path": "c/jxl_enc_mt-669d03c7.wasm",
+      "bytes": 1357906,
+      "sha256": "ad9fd7e690c053a36668d7c0615596436217705ecee720ae335144f7e128ddbd",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt.worker-7d087419.js",
+      "path": "c/jxl_enc_mt.worker-7d087419.js",
+      "bytes": 2624,
+      "sha256": "76eca5df9cd0cc9fc135fa01b264d6182bf1a8991afbd0e6ff73a809d1593a3e",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc-68f8271f.wasm",
+      "path": "c/jxl_enc-68f8271f.wasm",
+      "bytes": 1345677,
+      "sha256": "98113980d99e49bdf5aba4bdc82eb5dd5ce4d3e34a90ac6e9fedcb3a84984223",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc-fe8a44c4.js",
+      "path": "c/jxl_enc-fe8a44c4.js",
+      "bytes": 26251,
+      "sha256": "33e743c922d8faf6e6cabaa12e702314d6052117f6df52ec0653ae5130493ae4",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/logo-bcc20dd5.svg",
+      "path": "c/logo-bcc20dd5.svg",
+      "bytes": 10677,
+      "sha256": "ec83faef510173ec820c117df8c4dba7dd71ce25ce693b140585c56373e6472e",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://squoosh.app/c/mozjpeg_enc-f6bf569c.wasm",
+      "path": "c/mozjpeg_enc-f6bf569c.wasm",
+      "bytes": 251948,
+      "sha256": "1d60d5a5e1a5be1b6527d624963c8fc9dc21bd3a7c13f0d3e30a2c8fb6b169e1",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/qoi_dec-3728a8ee.wasm",
+      "path": "c/qoi_dec-3728a8ee.wasm",
+      "bytes": 16485,
+      "sha256": "33d008d73e2c7457670d192f008fbfe6a34cc8fec784d5e3bf6acbe435d7693f",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/qoi_enc-9285b08c.wasm",
+      "path": "c/qoi_enc-9285b08c.wasm",
+      "bytes": 16577,
+      "sha256": "0b95d360603f29e41d88ee844332a4e5a4aaea69cceda0d336a1c3043c9847d9",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/rotate-e8fb6784.wasm",
+      "path": "c/rotate-e8fb6784.wasm",
+      "bytes": 1363,
+      "sha256": "e22650a83b8ec384e6097d9e7f4a2e94cb999f5a2325181819d3d95030ff1f0a",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/screenshot1-0ff68546.png",
+      "path": "c/screenshot1-0ff68546.png",
+      "bytes": 26717,
+      "sha256": "8974daf077f3bc0f85838d951b8630faf29b05f6d855cf7948198eac0438f780",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://squoosh.app/c/screenshot2-1f78c4db.jpg",
+      "path": "c/screenshot2-1f78c4db.jpg",
+      "bytes": 35295,
+      "sha256": "d0afd4f94a2f3a6497e7e6342832ba3b4468b9f439b483e261db262f2f21ab6b",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://squoosh.app/c/screenshot3-c1e02216.jpg",
+      "path": "c/screenshot3-c1e02216.jpg",
+      "bytes": 36672,
+      "sha256": "523a8e728d05d6fcbf7ba41c2a88f340f196a3f20ada306fb8d9602722426036",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://squoosh.app/c/screenshot4-3a706c3c.png",
+      "path": "c/screenshot4-3a706c3c.png",
+      "bytes": 27090,
+      "sha256": "27ec869ffb745eb76a49460e65918f5c25b9455f1d4394792e5c3f3f9eef89e7",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://squoosh.app/c/screenshot5-ea50826f.jpg",
+      "path": "c/screenshot5-ea50826f.jpg",
+      "bytes": 70242,
+      "sha256": "c600438430ec319f572dbe6a186deb9b71295fc2fe94c70e1b73b4431f96c542",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://squoosh.app/c/screenshot6-0168d284.jpg",
+      "path": "c/screenshot6-0168d284.jpg",
+      "bytes": 72082,
+      "sha256": "7262a38bfb27517883106881bdb1eae99d728b1571abd304f4f1f2a06f7a7f47",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://squoosh.app/c/secure-a66bbdfe.svg",
+      "path": "c/secure-a66bbdfe.svg",
+      "bytes": 991,
+      "sha256": "9506e3ab1477ddf64406f52d0e6fa7a931015056c816c8cb8f270aea5f7f727d",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://squoosh.app/c/simple-258b6ed5.svg",
+      "path": "c/simple-258b6ed5.svg",
+      "bytes": 5350,
+      "sha256": "9e02ee43f76775e7fd1f260d9ca066dab8d8327b6b302bb7dfb1d37d7c0c1e0b",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://squoosh.app/c/small-db1eae6f.svg",
+      "path": "c/small-db1eae6f.svg",
+      "bytes": 5509,
+      "sha256": "67d46d09ef98b67fca26c7e14204d07be89d6a40fb89e87a77a1cd4df5016c39",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://squoosh.app/c/squoosh_oxipng_bg-5c8fadb7.wasm",
+      "path": "c/squoosh_oxipng_bg-5c8fadb7.wasm",
+      "bytes": 220161,
+      "sha256": "c6896517102a7d2f9afa74725603e8f094a44058de202b688f28b4cc737fccf1",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/squoosh_oxipng_bg-60d7d0b0.wasm",
+      "path": "c/squoosh_oxipng_bg-60d7d0b0.wasm",
+      "bytes": 147017,
+      "sha256": "897885c802d9f39ff1b29a7c30edfd3a735d72d48281f1ac504d94dc6e10bc61",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/squoosh_oxipng-75cbe656.js",
+      "path": "c/squoosh_oxipng-75cbe656.js",
+      "bytes": 3032,
+      "sha256": "f364a7e275a63a1452866aeb6d8243f81276283d6fbdef71224a6144e402a550",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/squoosh_oxipng-78efb8fb.js",
+      "path": "c/squoosh_oxipng-78efb8fb.js",
+      "bytes": 1813,
+      "sha256": "b8662992a38f6f43e4d7ede4299cee8570e3b3c2713aa447fd1c930a6836637d",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/squoosh_resize_bg-3d426466.wasm",
+      "path": "c/squoosh_resize_bg-3d426466.wasm",
+      "bytes": 37052,
+      "sha256": "b63e9f90187a9f5cec9a7a9cfc15e68e9330979ac39a29258282c020780cd6ec",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/squooshhqx_bg-6e04a330.wasm",
+      "path": "c/squooshhqx_bg-6e04a330.wasm",
+      "bytes": 152644,
+      "sha256": "53fc1b70ec7deaeb35e9ea1808c3b1bcb36101a3448e635d1fad04a7eda05ca4",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/supports-wasm-threads-b0989f01.js",
+      "path": "c/supports-wasm-threads-b0989f01.js",
+      "bytes": 586,
+      "sha256": "f72fcb7f71bf9578ed034364a775ac4a1aa2e05c71ddc5d0f27c6b40833aa5ce",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/sw-bridge-ceda69b8.js",
+      "path": "c/sw-bridge-ceda69b8.js",
+      "bytes": 1445,
+      "sha256": "65827e815c859805ae4503d89ca1927ba73c3dfdff577deec79086b894730d63",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/util-06ce6ead.js",
+      "path": "c/util-06ce6ead.js",
+      "bytes": 3303,
+      "sha256": "c2b8e6fee92c5d191b85998277c6c7a4f3acc7f39854cc916e7ff51f1e54ac71",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/webp_dec-12bed04a.wasm",
+      "path": "c/webp_dec-12bed04a.wasm",
+      "bytes": 148687,
+      "sha256": "5b8c98c0eaabc876b01f10d35edb5f384c53bc3a3a57fba9440d03c42fb41b43",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/webp_dec-318dc2b4.js",
+      "path": "c/webp_dec-318dc2b4.js",
+      "bytes": 17464,
+      "sha256": "4b8e7546746defbd0f9a8f3a2cdd055db0bf71c3fa3ddc84db56b3ce3b37ea17",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/webp_enc_simd-75acd924.wasm",
+      "path": "c/webp_enc_simd-75acd924.wasm",
+      "bytes": 371597,
+      "sha256": "7c5532437ca59b1fa82972bebe70b6c0a09c8d7895f31ff3539629fcda77bf6b",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/webp_enc_simd-ad66a6ff.js",
+      "path": "c/webp_enc_simd-ad66a6ff.js",
+      "bytes": 19452,
+      "sha256": "8e6e64f438fd4cd2091994534bd9b1afb6a615c32a14d681a8b0eaed311047d8",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/webp_enc-a8223a7d.wasm",
+      "path": "c/webp_enc-a8223a7d.wasm",
+      "bytes": 298327,
+      "sha256": "86ad63e3a82b3011a55779264042152bc37c99360ef9140dd8eed543b35c080a",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/webp_enc-de8661ab.js",
+      "path": "c/webp_enc-de8661ab.js",
+      "bytes": 19344,
+      "sha256": "d71e343454620cb44bcc8332d8ae0a655f0a4953ce1c40aa238343b46777d116",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/workerHelpers-1d8d9a86.js",
+      "path": "c/workerHelpers-1d8d9a86.js",
+      "bytes": 1605,
+      "sha256": "9254fd59db713fce8fc89b3aa8ec24c39ec3f1841632bf26682c82232a47eddb",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_dec-9a40adf1.wasm",
+      "path": "c/wp2_dec-9a40adf1.wasm",
+      "bytes": 459399,
+      "sha256": "14e649dad03e4de2c84abe16d492a73bb94b065487b6de187e5968c7ffa03cee",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt_simd-0b0595e9.wasm",
+      "path": "c/wp2_enc_mt_simd-0b0595e9.wasm",
+      "bytes": 1023119,
+      "sha256": "d8528807d146bf2fbb8cdf9847f6428f0eed0681f03d37357d9a836a0f5f54c9",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt_simd-b522b14c.js",
+      "path": "c/wp2_enc_mt_simd-b522b14c.js",
+      "bytes": 41143,
+      "sha256": "bd02fe90318fda05114ad075519ed93796b7dd2f51d0e9173c50e4abfb123b35",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt_simd.worker-678e27bc.js",
+      "path": "c/wp2_enc_mt_simd.worker-678e27bc.js",
+      "bytes": 2629,
+      "sha256": "480cff152227f122a0061ec43ed1e879b5db9e0b294e6c61545204fc83c57445",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt-1feb6658.wasm",
+      "path": "c/wp2_enc_mt-1feb6658.wasm",
+      "bytes": 981022,
+      "sha256": "af77d64c17eff40aa42f2da6e084fb099e65b565efc73f09832db6da908f61fc",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt-3032a41c.js",
+      "path": "c/wp2_enc_mt-3032a41c.js",
+      "bytes": 40955,
+      "sha256": "d95200f6941c66c2eec86f4c909dc1bdb476388d142e7f4001ae8e70d164be62",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt.worker-4f5bfb87.js",
+      "path": "c/wp2_enc_mt.worker-4f5bfb87.js",
+      "bytes": 2624,
+      "sha256": "6401b028ebc1f8fa54e5f62d03830a08da3458c3137bec5d41fafda67ae71350",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc-89317929.wasm",
+      "path": "c/wp2_enc-89317929.wasm",
+      "bytes": 972245,
+      "sha256": "6f4d984fbf9cb052e21435af8a435437d4a77e982ffee7c6707f624c16a03d04",
+      "contentType": "application/wasm"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc-f854d67c.js",
+      "path": "c/wp2_enc-f854d67c.js",
+      "bytes": 20325,
+      "sha256": "c749ac2c714e05b73d633fd8af16b378c5904335b4c65fceb3345871c29ef491",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/",
+      "path": "index.html",
+      "bytes": 75215,
+      "sha256": "9a6903b747deac75c992210173e5ce44d849ba7bd7f8fe7ce5ea2960d4e315da",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/manifest.json",
+      "path": "manifest.json",
+      "bytes": 1322,
+      "sha256": "34d556b93118e40c469bb55cdfb30f6ff6a2800fff42e0310d97cae409e41f59",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://squoosh.app/serviceworker.js",
+      "path": "serviceworker.js",
+      "bytes": 10080,
+      "sha256": "8d358107b27a55b6f56997cddf57080e2cb678c25dd5cd6474fa4a625fc81030",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://squoosh.app/sw.js",
+      "path": "sw.js",
+      "bytes": 189,
+      "sha256": "470d9f1b9be025622e0debd5ef8feec8bb0423f4ff59bbbb8f58d4ab9aa7a3d4",
+      "contentType": "application/javascript; charset=UTF-8"
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://squoosh.app/blob-anim-97c315b2.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/sw-bridge-ceda69b8.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/Compress-5b50107e.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/photo.jpg",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/art.jpg",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/pixel3.png",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/squoosh.svg",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/location.href",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/data%3Afont%2Fwoff%3Bbase64%2Cd09GMgABAAAAAASoAA4AAAAACOQAAARUAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgnYcgXAGYABkEQwKhHiEFgsUAAE2AiQDJAQgBYJaByAbeQfIxId%2FN%2F1zb0JJk7qwVQyoSyhM6qJf2zN3wnP5MyX%2Fc6mabKKFAVwk4QDd%2B3f7Z41FoYvttryoVK6NsWls0wJjfeO38YjNiCJjtHr%2F1Q8CwAqDCAUBr2QweT2PEoyA1elzSuDRPDnUg8D2odZuRPU0jvQhDaxz5rMh0dmYGFMJs4nu1qE%2BeGjM%2FweALmNBwUEBOxTgRXxFMYpg%2F%2Fe8Ci0oLAD5Z%2Fl7jALyz0eIk0p5wwIKMGmoUVDk%2BI2Voc2UQOpf%2BV8SHykzsc2YglhhpAxij4qYCCDLLiZGpIxaxGLgdEfA8VXagNHBPOEGN4kdxIwSYCOPFjwtuDxUnqS%2BIGdGuWtrAgUsQYZRHpDu7Qiw6ukb7cWFrWzAQoFsxEIZPaFS7IAQDQ4cvEx4DjEL%2BW8XY9w93bi6CVjaTB8XOUO3aIVhv7jXI3UoIVGDVOAYRkFZmv6lSiyebcjPN%2BBqWJ91Zp43fwUwPxAfFchViYiY6etaTAWH6kKIhE7SgEaAL0DMDnZmf6FCMTrQj0EMY1SW726Rv5Tvki%2FJp%2FKJfCwf5XNoQXWWGi%2FLsNXQcgvxSnnJ8wFi43KUbaZAdno0JKEudnYudkHOvy6ZysqvkYTtt8jiu2VxJhNZfP99YVuKLLnyTX7rdSy8cT5WkrBgNPL1AkqEuyzOB%2BWZxXf5LSMoLzmnXHS9%2F9b7ZNHk7wAjFqQ3hMZy%2FnbFtQXbNAIRWP4jQ8kUVX7FG8L2Y4VH4%2FQvOjyltORefuthLJSWBnyUZCKMQBfeEbbfP3h5MvqPEuA12%2F1Or4a5yB8MYpzmv%2BDgZ3O9ntK5NjZdTEis7owRG%2FurcsYir%2B4JU2%2BcUdUY36zxbeoo1RsaBsJTkP7a8gPKCq64OCyytqmvKXVZE5mtjskqTmWW8Y3ttF43lZujm57W5%2BdN63XTObm6qWl9XsDErwGiVhMg%2FhoY%2BGugqNEE6n4NxH280sBFFITFZA%2FoMqby8zKmB3TZMfnqDC5tyrRUm%2FF7gKhWB4i%2FBfj%2FFiCq1QHi7%2F643nboYs9I1K%2FXB%2Fn%2F4eH%2B8COPf1aYl6yOya4KiL8ypq8%2FQso6O%2BHoL9pfsL%2FokJObGJlwoSkkBZds6wfb4pYDYzxCEjIL09ll83QG11IUGgUAAJrLVRQvuOTOlNTbpvzOCcwPZllp%2BcGK%2FbUffKT%2BwRxg%2FtrKyDwPAmVzJTtUmnnR%2FCa2bGU0B5hvtjI2u3ZLmoci%2FIQP0Fz40ipk0Hb402H4k7%2FhScuRQrJj7rXEg%2BBR85QaWsDzADqVUNUxBLbRYp0JnCMELkwBnsiOEWgYqDGjYaHCzRoFPPDyyy3gg68goh8DmMQQOtGODoxAhShEIBKx9DgD%2BtGPdvSgFSrkIAcitEolEz3oIVeRDxy%2B4lvVSiuGMEbLtUDr97BiNKIPw8hCvzLeYjOefMW4mq5hUSguFWNZnL3D6EQ%2F%2BtLPa3ktEYgO08G8O9bbQgkWAA%3D%3D",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/art.jpg",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/pixel3.png",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/photo.jpg",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/squoosh.svg",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/location.href",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/data%3Afont%2Fwoff%3Bbase64%2Cd09GMgABAAAAAASoAA4AAAAACOQAAARUAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgnYcgXAGYABkEQwKhHiEFgsUAAE2AiQDJAQgBYJaByAbeQfIxId%2FN%2F1zb0JJk7qwVQyoSyhM6qJf2zN3wnP5MyX%2Fc6mabKKFAVwk4QDd%2B3f7Z41FoYvttryoVK6NsWls0wJjfeO38YjNiCJjtHr%2F1Q8CwAqDCAUBr2QweT2PEoyA1elzSuDRPDnUg8D2odZuRPU0jvQhDaxz5rMh0dmYGFMJs4nu1qE%2BeGjM%2FweALmNBwUEBOxTgRXxFMYpg%2F%2Fe8Ci0oLAD5Z%2Fl7jALyz0eIk0p5wwIKMGmoUVDk%2BI2Voc2UQOpf%2BV8SHykzsc2YglhhpAxij4qYCCDLLiZGpIxaxGLgdEfA8VXagNHBPOEGN4kdxIwSYCOPFjwtuDxUnqS%2BIGdGuWtrAgUsQYZRHpDu7Qiw6ukb7cWFrWzAQoFsxEIZPaFS7IAQDQ4cvEx4DjEL%2BW8XY9w93bi6CVjaTB8XOUO3aIVhv7jXI3UoIVGDVOAYRkFZmv6lSiyebcjPN%2BBqWJ91Zp43fwUwPxAfFchViYiY6etaTAWH6kKIhE7SgEaAL0DMDnZmf6FCMTrQj0EMY1SW726Rv5Tvki%2FJp%2FKJfCwf5XNoQXWWGi%2FLsNXQcgvxSnnJ8wFi43KUbaZAdno0JKEudnYudkHOvy6ZysqvkYTtt8jiu2VxJhNZfP99YVuKLLnyTX7rdSy8cT5WkrBgNPL1AkqEuyzOB%2BWZxXf5LSMoLzmnXHS9%2F9b7ZNHk7wAjFqQ3hMZy%2FnbFtQXbNAIRWP4jQ8kUVX7FG8L2Y4VH4%2FQvOjyltORefuthLJSWBnyUZCKMQBfeEbbfP3h5MvqPEuA12%2F1Or4a5yB8MYpzmv%2BDgZ3O9ntK5NjZdTEis7owRG%2FurcsYir%2B4JU2%2BcUdUY36zxbeoo1RsaBsJTkP7a8gPKCq64OCyytqmvKXVZE5mtjskqTmWW8Y3ttF43lZujm57W5%2BdN63XTObm6qWl9XsDErwGiVhMg%2FhoY%2BGugqNEE6n4NxH280sBFFITFZA%2FoMqby8zKmB3TZMfnqDC5tyrRUm%2FF7gKhWB4i%2FBfj%2FFiCq1QHi7%2F643nboYs9I1K%2FXB%2Fn%2F4eH%2B8COPf1aYl6yOya4KiL8ypq8%2FQso6O%2BHoL9pfsL%2FokJObGJlwoSkkBZds6wfb4pYDYzxCEjIL09ll83QG11IUGgUAAJrLVRQvuOTOlNTbpvzOCcwPZllp%2BcGK%2FbUffKT%2BwRxg%2FtrKyDwPAmVzJTtUmnnR%2FCa2bGU0B5hvtjI2u3ZLmoci%2FIQP0Fz40ipk0Hb402H4k7%2FhScuRQrJj7rXEg%2BBR85QaWsDzADqVUNUxBLbRYp0JnCMELkwBnsiOEWgYqDGjYaHCzRoFPPDyyy3gg68goh8DmMQQOtGODoxAhShEIBKx9DgD%2BtGPdvSgFSrkIAcitEolEz3oIVeRDxy%2B4lvVSiuGMEbLtUDr97BiNKIPw8hCvzLeYjOefMW4mq5hUSguFWNZnL3D6EQ%2F%2BtLPa3ktEYgO08G8O9bbQgkWAA%3D%3D",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/s.file",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/t.downloadUrl",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/e",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/t,i",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/s",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/t",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_dec.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_dec.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/qoi_dec.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/mozjpeg_enc.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/qoi_enc.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/imagequant.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_enc_mt.worker.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_enc_mt.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt_simd.worker.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt.worker.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt_simd.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/jxl_enc_mt.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_enc.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/webp_enc_simd.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt_simd.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt_simd.worker.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/webp_enc.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt.worker.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/webp_dec.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/wp2_enc_mt.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/c/avif_dec.wasm",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/A.url",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://squoosh.app/e.request.url",
+      "reason": "HTTP 404"
+    }
+  ],
+  "downloadedBytes": 26022698
+}

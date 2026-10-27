@@ -1,22 +1,15 @@
-# Examples and security fixtures
+# Maintained examples
 
-The examples are ordinary websites. Install their webpage URLs in Privacy Frames;
-none uses a host-specific installation manifest.
+- `notes`: React notebook with local persistence, JSON and image resources, and a
+  conventional precache worker.
+- `adversary`: direct API and browser-event disclosure attempts.
+- `playground`: editable HTML, CSS and JavaScript with a default disclosure attempt.
+- `image`: private file/pixel fixture used by security tests.
+- `ordinary`: small import, document, service-worker preparation and Wasm fixtures.
 
-- **notes** combines local note editing with an installed JSON article and image.
-  It uses React and standard service-worker precaching.
-- **playground** provides editable HTML, CSS and JavaScript with a default network
-  disclosure attempt.
-- **adversary** keeps focused browser escape probes and unrestricted controls.
-- **image** is a small native canvas fixture for private pixels and file input.
-- **ordinary** is a minimal precache compatibility fixture. Its `document/`
-  directory checks generic document import, CSS dependencies and PWA metadata.
+Run `npm run build:examples` to write `dist-examples/`, or pass `--output /path`.
+The Pages build includes these directories beside the licensed application mirrors.
 
-`npm run build:examples` compiles TypeScript and React into `dist-examples/`.
-Publisher assets must be served on an origin separate from both trusted host
-origins. The configurations in `deployment/examples/` preserve the independent
-static publisher domains. The playground is also included in the adversary
-publisher at `/playground/`.
-
-Opening a fixture directly runs it outside confinement. Use diagnostic values
-when running the hostile probes.
+Opening these URLs directly runs application code outside confinement. Install an
+application through the trusted host to evaluate its confined behavior. Use
+synthetic values for hostile probes.

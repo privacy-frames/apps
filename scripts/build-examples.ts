@@ -1,4 +1,4 @@
-import { cp, mkdir, readdir, rm, writeFile } from 'node:fs/promises';
+import { cp, mkdir, readdir, rm } from 'node:fs/promises';
 import { dirname, extname, resolve } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { build } from 'esbuild';
@@ -40,20 +40,6 @@ export async function buildExamples(output = defaultOutput) {
     filter: (path) => !/\.(?:tsx?|md)$/.test(path),
   });
   await compileDirectory(source, output);
-  await cp(resolve(output, 'playground'), resolve(output, 'adversary/playground'), {
-    recursive: true,
-  });
-  for (const name of ['notes', 'image', 'adversary', 'playground', 'ordinary']) {
-    await writeFile(
-      resolve(output, name, '_headers'),
-      '/*\n  Access-Control-Allow-Origin: *\n  X-Content-Type-Options: nosniff\n  Cache-Control: no-cache\n',
-    );
-    await writeFile(
-      resolve(output, name, '_redirects'),
-      '/ /index.html 200\n' +
-        (name === 'adversary' ? '/playground/ /playground/index.html 200\n' : ''),
-    );
-  }
   console.log(`Built independent publisher websites in ${output}.`);
 }
 

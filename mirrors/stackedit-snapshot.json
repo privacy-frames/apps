@@ -1,0 +1,1363 @@
+{
+  "captured": "2026-10-27T03:36:33.709Z",
+  "id": "stackedit",
+  "entry": "https://stackedit.io/app",
+  "license": "Apache-2.0",
+  "repository": "benweet/stackedit",
+  "ref": "master",
+  "bytes": 7642973,
+  "files": [
+    {
+      "url": "https://stackedit.io/4465ef46f616032afa20.worker.js",
+      "path": "4465ef46f616032afa20.worker.js",
+      "bytes": 83892,
+      "sha256": "111674b655ed734344db912fd3eafd14ae7dec5881ebf839d505b6594d6e7cf1",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://stackedit.io/app",
+      "path": "app",
+      "bytes": 4868,
+      "sha256": "8b8c4211fa6cb5314d6835312618da1635c91af2c0901f4f60a1e345a95536ec",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://stackedit.io/icon_128x128.43ad56ce3535a3ffe333a76a05c13267.png",
+      "path": "icon_128x128.43ad56ce3535a3ffe333a76a05c13267.png",
+      "bytes": 4469,
+      "sha256": "b705c52481acc6aa00541a68927dad6374c55cd10f9b2f62886f4b04aaa242ec",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icon_192x192.eec0feaecc5bef1a499b3de11bde6b27.png",
+      "path": "icon_192x192.eec0feaecc5bef1a499b3de11bde6b27.png",
+      "bytes": 7882,
+      "sha256": "f3e382e2015fec7f7928ed763c78f4623780e525a694a244a415d6c85e842d83",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icon_256x256.f406288343ae34c5c7bd1543700c2ac0.png",
+      "path": "icon_256x256.f406288343ae34c5c7bd1543700c2ac0.png",
+      "bytes": 11359,
+      "sha256": "f076acfac0564285dedf7d5fedbeb05e990f9a6d1af3a82f3fab6d9fd1997044",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icon_384x384.3f55b77300c8b37b4aa380c8460ee0a2.png",
+      "path": "icon_384x384.3f55b77300c8b37b4aa380c8460ee0a2.png",
+      "bytes": 21424,
+      "sha256": "9388883e835e20401084d32a977b784c780655fbc8535af2cab3d8545b4917e3",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icon_512x512.bc1452c3b77b59eb0d8c449de1c77310.png",
+      "path": "icon_512x512.bc1452c3b77b59eb0d8c449de1c77310.png",
+      "bytes": 31897,
+      "sha256": "dd31f87ecb7bdb4176a9154284dee376e9b5ccd63364723b539c538a63b0bbcd",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icon_96x96.1d93fc90dc62ceec6c921786ddab3f69.png",
+      "path": "icon_96x96.1d93fc90dc62ceec6c921786ddab3f69.png",
+      "bytes": 3238,
+      "sha256": "b52be8dd7fc0f70befc1e529d6e0272ba831595609b370d9cfd593adde431860",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-144x144.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-144x144.png",
+      "bytes": 5397,
+      "sha256": "d76dee3ec4b63c5db6e9c4ceabd6c3f61dffc6dc2553dc04a7b34430c29fbd78",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-192x192.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-192x192.png",
+      "bytes": 7878,
+      "sha256": "ec4bf020028d4bc7cec768a7cf1f5e5190a00b61c7385ab828ad1a5bc9cee501",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-256x256.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-256x256.png",
+      "bytes": 11381,
+      "sha256": "0e82dff0a0638c3e145cb6d00b5c943acbffdad37a4405a5e54ed9d744cebb86",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-36x36.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-36x36.png",
+      "bytes": 1204,
+      "sha256": "bc14dd0c0736a57bc63ea4deeba9564862b507382c1a0470905bebdce8eae775",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-384x384.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-384x384.png",
+      "bytes": 21424,
+      "sha256": "cfde1628ae08fb12cbfe8a4a0a797a5f555bfb0f5ef5e959d4c009e27018a56f",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-48x48.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-48x48.png",
+      "bytes": 1526,
+      "sha256": "cdcf083724ceda9c74210cd1dc8749351d83b025a6f28def9d6d493f6a780048",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-512x512.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-512x512.png",
+      "bytes": 31922,
+      "sha256": "285ee3fa847236153ebf364d3a7532fadf7c9392f0d0c529c8c2b723866d97f3",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-72x72.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-72x72.png",
+      "bytes": 2374,
+      "sha256": "3f5cc4e1153844416c465c3370a5506e2a48f636bd271a90b9769e979126fda7",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-96x96.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/android-chrome-96x96.png",
+      "bytes": 3238,
+      "sha256": "e9dbe94534ef0af1461df123c9c2332cbeef54ed6687e9e8c81f7870687f9dd9",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-114x114.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-114x114.png",
+      "bytes": 4318,
+      "sha256": "769bf195f5838605ebc81ddeef3aef1ff54a54d594de306ecc19e7442539a4c0",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-120x120.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-120x120.png",
+      "bytes": 4531,
+      "sha256": "9ebbdbe57d65b79bf902c697dbf4dd236211dc002a398cbb1ef70242ab5f7453",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-144x144.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-144x144.png",
+      "bytes": 5712,
+      "sha256": "2a6fceec2a23cf9a72c1a242dbe86ef3d447d82171e6ae18bdfe258016da3282",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-152x152.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-152x152.png",
+      "bytes": 6191,
+      "sha256": "241ed98e0d218bfea76bb0095186c4fbe57f25c80ee47897747ef3021fd0ba50",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-180x180.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-180x180.png",
+      "bytes": 7772,
+      "sha256": "a5b5c1b089630df590ca2db1860177e0231506b5f251370a9e7a46457f66dc6f",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-57x57.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-57x57.png",
+      "bytes": 1892,
+      "sha256": "1ceed7c965cdc8d8446f717d5b4c6c764e8ec52873b2af463f29338746fba7f3",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-60x60.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-60x60.png",
+      "bytes": 1957,
+      "sha256": "2c0e1857611778bf13b75cd84c6f68d929a5acef56e00d46d46ef81401fa8e5d",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-72x72.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-72x72.png",
+      "bytes": 2474,
+      "sha256": "539dbd6a0fa7e316ae03d686811d37daba7e4ca625e29f627fb396fd007f36fa",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-76x76.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-76x76.png",
+      "bytes": 2570,
+      "sha256": "b84067bc4b50bfb33db75803486977b8ce2717292c4bd0a0596041a5cd02c3a9",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-1182x2208.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-1182x2208.png",
+      "bytes": 135885,
+      "sha256": "b48eb770155ecdfea099913e73a8a261352ba2761a847e1b85332e28ea08679a",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-1242x2148.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-1242x2148.png",
+      "bytes": 143312,
+      "sha256": "cdfda29ba2964df8220cfdb5178b1437605b7c92060d2f73a2fab0fe515a2c14",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-1496x2048.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-1496x2048.png",
+      "bytes": 189900,
+      "sha256": "a135fa9d996df7a9bc71d44b308dbbde317eda758eb6e7160f7ef8020ddb217e",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-1536x2008.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-1536x2008.png",
+      "bytes": 190552,
+      "sha256": "e3b30f046a07746907ec7d1de07c3666884df4fef6ed421d79e054c57a2a492b",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-320x460.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-320x460.png",
+      "bytes": 18212,
+      "sha256": "2df8cf919f6bfe441a393b9e7789cd026d326e585fdcc8c1b8bbb1a10845ac5f",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-640x1096.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-640x1096.png",
+      "bytes": 53729,
+      "sha256": "37942243549f0e96c834cfe00a85cd01c45d45b38e958d6ffb627fa735a0d676",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-640x920.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-640x920.png",
+      "bytes": 53238,
+      "sha256": "ce5b319684e63728595e5bcf36d4d2fc61ab70315527ba89ac15e539fd45a163",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-748x1024.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-748x1024.png",
+      "bytes": 67069,
+      "sha256": "f1f0d0af91c0078e4c2481336e1f18a3a5e7f87996837fd8d366d0b8c318b12d",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-750x1294.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-750x1294.png",
+      "bytes": 68183,
+      "sha256": "08d64abc755b3cba99bb163697fe7a825525e85de4f3e9cb93f2edab8c6c68c9",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-768x1004.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-768x1004.png",
+      "bytes": 67267,
+      "sha256": "7eaf5f7b63e6afef4cc5539329486cb7c57d659227f73f24d9f2da1784b7c8a7",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/favicon-16x16.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/favicon-16x16.png",
+      "bytes": 469,
+      "sha256": "5d83583f3cde90beddc20364fc446bd4ebe417b4b1ff68486899fe2d809c76fe",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/favicon-32x32.png",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/favicon-32x32.png",
+      "bytes": 997,
+      "sha256": "963c6596f0e0e55e5d0b6862c71442c5f29924cd8f874b3c97206f59a98c55a9",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/favicon.ico",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/favicon.ico",
+      "bytes": 33310,
+      "sha256": "ee6639b216e5b29bb7605140ec59c2926a3257b85e41d1c01f9e82514b1449da",
+      "contentType": "image/x-icon"
+    },
+    {
+      "url": "https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/manifest.json",
+      "path": "icons-c75a9472175cc17394ba6428d867fbcf/manifest.json",
+      "bytes": 1200,
+      "sha256": "9267eec3c20db8531b561c36ed619ba0001762f72d579ac472d704b5f6ede2b5",
+      "contentType": "application/json; charset=UTF-8"
+    },
+    {
+      "url": "https://stackedit.io/manifest.c9128ce574e7548a3b0d3bcd8bfa212c.json",
+      "path": "manifest.c9128ce574e7548a3b0d3bcd8bfa212c.json",
+      "bytes": 1028,
+      "sha256": "b34f1f06989560d6b4ee468b792392e19b3491b1065dee894ac3009bc3ed6b46",
+      "contentType": "application/json; charset=UTF-8"
+    },
+    {
+      "url": "https://stackedit.io/static/css/app.0f559a71b94c52a61c5e8a24d7f9e56d.css",
+      "path": "static/css/app.0f559a71b94c52a61c5e8a24d7f9e56d.css",
+      "bytes": 107947,
+      "sha256": "ac2e30b6e0e7d56bcf8e6c734efdec166886e4bb78dbcccdd6f36e28ea740c35",
+      "contentType": "text/css; charset=UTF-8"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_AMS-Regular.2dbe16b.ttf",
+      "path": "static/fonts/KaTeX_AMS-Regular.2dbe16b.ttf",
+      "bytes": 70936,
+      "sha256": "479c8788e05d188c708214c72d2b1d03a0834b035cf621fd26ecc2a048e97d9b",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_AMS-Regular.38a68f7.woff2",
+      "path": "static/fonts/KaTeX_AMS-Regular.38a68f7.woff2",
+      "bytes": 31136,
+      "sha256": "15df487e2d49d960851524efb8c1fcca6b1197890cf4309f05c29d5010adcf32",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_AMS-Regular.7d307e8.woff",
+      "path": "static/fonts/KaTeX_AMS-Regular.7d307e8.woff",
+      "bytes": 36912,
+      "sha256": "f5b0e1ff158f892d45bbd24799d83b3f046ea492b248674a7d2e26787ff9f5bd",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Caligraphic-Bold.33d2688.ttf",
+      "path": "static/fonts/KaTeX_Caligraphic-Bold.33d2688.ttf",
+      "bytes": 15416,
+      "sha256": "697b1c9f6e11e42800664b58d06173e96548f87ad8b96a37cb01fa4b897dff9b",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Caligraphic-Bold.342b296.woff2",
+      "path": "static/fonts/KaTeX_Caligraphic-Bold.342b296.woff2",
+      "bytes": 8392,
+      "sha256": "4b4d0fa429e52f14c25e781e6dc8651e60e2c27a610ab07ca81aa49217250cd5",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Caligraphic-Bold.9634168.woff",
+      "path": "static/fonts/KaTeX_Caligraphic-Bold.9634168.woff",
+      "bytes": 9376,
+      "sha256": "3cc9328f43e5092aaaebd6b32902e53b6d770b4ff17e8b2c47708d7b2c83a2ce",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Caligraphic-Regular.00029fb.woff",
+      "path": "static/fonts/KaTeX_Caligraphic-Regular.00029fb.woff",
+      "bytes": 9148,
+      "sha256": "283580ac91c54b6fa655842bfccf5ca0b5406e187d4f81c3b59ef2fd1dd31366",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Caligraphic-Regular.5e7940b.ttf",
+      "path": "static/fonts/KaTeX_Caligraphic-Regular.5e7940b.ttf",
+      "bytes": 14908,
+      "sha256": "b40a2796e46b2f558dcb5158bc76ffd7d5a7cbe35c0662a7599c9e1a88ae4e3c",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Caligraphic-Regular.b500497.woff2",
+      "path": "static/fonts/KaTeX_Caligraphic-Regular.b500497.woff2",
+      "bytes": 8248,
+      "sha256": "86f923f6b2ba9aa499e76a8e85c9516a19fa824b5f19b0279bb7079a4dac672c",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Fraktur-Bold.4de87d4.woff",
+      "path": "static/fonts/KaTeX_Fraktur-Bold.4de87d4.woff",
+      "bytes": 16208,
+      "sha256": "cb6b7776d09864b2dc99c1ae5ee3659a7115db75b6ed660def2161968a2437c2",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Fraktur-Bold.7a3757c.woff2",
+      "path": "static/fonts/KaTeX_Fraktur-Bold.7a3757c.woff2",
+      "bytes": 13912,
+      "sha256": "f1527a373f9e2f3b9b9a44d5a9f4fcc225fe15b9c64735b434de8a5d93fcdf12",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Fraktur-Bold.ed33012.ttf",
+      "path": "static/fonts/KaTeX_Fraktur-Bold.ed33012.ttf",
+      "bytes": 24400,
+      "sha256": "f7184e0f0eb9ebd69d81acbd01bbd2519b82f4a4701530d40e47154680d07a02",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Fraktur-Regular.450cc4d.woff2",
+      "path": "static/fonts/KaTeX_Fraktur-Regular.450cc4d.woff2",
+      "bytes": 13668,
+      "sha256": "df5e2dff7ff874a1c50566b93ea32bdf9b219fb1646240ad61ad332c950cfa9d",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Fraktur-Regular.82d05fe.ttf",
+      "path": "static/fonts/KaTeX_Fraktur-Regular.82d05fe.ttf",
+      "bytes": 23904,
+      "sha256": "ae44802f0b88aca9a5b0150990c7dbd2c51bcf725da05cfb71f878c476017711",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Fraktur-Regular.dc4e330.woff",
+      "path": "static/fonts/KaTeX_Fraktur-Regular.dc4e330.woff",
+      "bytes": 15880,
+      "sha256": "10914c41ecc86f46941584f301555614fe8c59463e0452bef84dfd999a56adcc",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-Bold.2e1915b.ttf",
+      "path": "static/fonts/KaTeX_Main-Bold.2e1915b.ttf",
+      "bytes": 59972,
+      "sha256": "deba64bdc3911c01e7bee8c1c9c736d3f5859eaea0d91d5a793a140b21d6b1c6",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-Bold.62c6975.woff",
+      "path": "static/fonts/KaTeX_Main-Bold.62c6975.woff",
+      "bytes": 35056,
+      "sha256": "eebf6eacab4b4238f927271da3bc942970ba7dcdeb6226a0b893dba3f73801ef",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-Bold.78b0124.woff2",
+      "path": "static/fonts/KaTeX_Main-Bold.78b0124.woff2",
+      "bytes": 29932,
+      "sha256": "2eb5660215fd2009a794b550df1b19df65acda11f4dff65d91a684f061214b55",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-BoldItalic.0d817b4.ttf",
+      "path": "static/fonts/KaTeX_Main-BoldItalic.0d817b4.ttf",
+      "bytes": 42872,
+      "sha256": "a70a4daf27a074dbc86ca6b186306b852792929da734394fbc62ad3b788aefe5",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-BoldItalic.a2e3dcd.woff",
+      "path": "static/fonts/KaTeX_Main-BoldItalic.a2e3dcd.woff",
+      "bytes": 24500,
+      "sha256": "120253ea1310e3b80891610430105b0226766a4fa3d2c80f22c2cf887d84fd79",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-BoldItalic.c7213ce.woff2",
+      "path": "static/fonts/KaTeX_Main-BoldItalic.c7213ce.woff2",
+      "bytes": 21244,
+      "sha256": "27fccaf740860a615575c6af8549677fdb33401266cab7caa1765f16e0d57a42",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-Italic.081073f.woff",
+      "path": "static/fonts/KaTeX_Main-Italic.081073f.woff",
+      "bytes": 25352,
+      "sha256": "a4f24d9b4244d4341ba0214cac621ec5727218df842af6de8e228aae985b5512",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-Italic.767e06e.ttf",
+      "path": "static/fonts/KaTeX_Main-Italic.767e06e.ttf",
+      "bytes": 46028,
+      "sha256": "06af0fba8798a625f89e5c605569a3a44828e2677fa9481fe06205d2062c7ba9",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-Italic.eea3267.woff2",
+      "path": "static/fonts/KaTeX_Main-Italic.eea3267.woff2",
+      "bytes": 22076,
+      "sha256": "e5d73a831c38e3782f1698d94716025e26a59d34272bcf9ac7ab188d2cc9af16",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-Regular.689bbe6.ttf",
+      "path": "static/fonts/KaTeX_Main-Regular.689bbe6.ttf",
+      "bytes": 68880,
+      "sha256": "eab76eab40c7dd342bc38c05d008b96a3a603f6c0bf635701ed1c6b2f0c12fcd",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-Regular.756fad0.woff",
+      "path": "static/fonts/KaTeX_Main-Regular.756fad0.woff",
+      "bytes": 37856,
+      "sha256": "0b9f6662c0c07fbd4c68949975aa6cb8d3881a86f9e6375af5b3bc3742f25273",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Main-Regular.f30e3b2.woff2",
+      "path": "static/fonts/KaTeX_Main-Regular.f30e3b2.woff2",
+      "bytes": 32312,
+      "sha256": "7b7be7af132561e043a429328fcde231634bfeace1c9e3024887fc4a6f09b6bf",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Math-BoldItalic.753ca3d.woff2",
+      "path": "static/fonts/KaTeX_Math-BoldItalic.753ca3d.woff2",
+      "bytes": 21192,
+      "sha256": "3467e032f722c3b5e0254862103bd24182049cd8781b86ffe2a9c8d77511e43f",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Math-BoldItalic.b3e80ff.woff",
+      "path": "static/fonts/KaTeX_Math-BoldItalic.b3e80ff.woff",
+      "bytes": 23980,
+      "sha256": "82880d882256c6098e5c4a8bdb8f67fbbccb42bf33a5b68e3662bd9bf1f34448",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Math-BoldItalic.d9377b5.ttf",
+      "path": "static/fonts/KaTeX_Math-BoldItalic.d9377b5.ttf",
+      "bytes": 42300,
+      "sha256": "23d872b2185ce3c530e32c25bbad141de622dcc3171e939f33b2b1b55086396e",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Math-Italic.0343f93.ttf",
+      "path": "static/fonts/KaTeX_Math-Italic.0343f93.ttf",
+      "bytes": 44484,
+      "sha256": "517b4b11866ae3d18e74168ebb179f88cb56668de40ea1e23fff0a61f78ef04a",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Math-Italic.2a39f38.woff2",
+      "path": "static/fonts/KaTeX_Math-Italic.2a39f38.woff2",
+      "bytes": 21668,
+      "sha256": "9339484861f622622c4d4fecffcb05da810407cc23305e8799bc1100329223b9",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Math-Italic.67710bb.woff",
+      "path": "static/fonts/KaTeX_Math-Italic.67710bb.woff",
+      "bytes": 24668,
+      "sha256": "252ec45ca7d1b70a8ee070ed0b8863f5554e2c5190cf409a6b3179a0ebe0cf26",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_SansSerif-Bold.59b3773.woff2",
+      "path": "static/fonts/KaTeX_SansSerif-Bold.59b3773.woff2",
+      "bytes": 15296,
+      "sha256": "f6f61cab7740ef34b23a8e941760bf54a5c3e8975d70d5cea3c244bbf699fad9",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_SansSerif-Bold.dfcc59a.ttf",
+      "path": "static/fonts/KaTeX_SansSerif-Bold.dfcc59a.ttf",
+      "bytes": 32588,
+      "sha256": "e818e3cd8065e949ca547607045e1cca24912d02f1b44d3efcac67ba6320f619",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_SansSerif-Bold.f28c4fa.woff",
+      "path": "static/fonts/KaTeX_SansSerif-Bold.f28c4fa.woff",
+      "bytes": 17988,
+      "sha256": "08f69ff860ef323f559c5a640b7ec5f3dc469a01b7159cddfa4286acb629c360",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_SansSerif-Italic.3ab5188.ttf",
+      "path": "static/fonts/KaTeX_SansSerif-Italic.3ab5188.ttf",
+      "bytes": 29860,
+      "sha256": "60b247213ad93691bcdb19438cb0b67c7ea2fb4b3a72e82078beb791dd2b941a",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_SansSerif-Italic.99ad93a.woff2",
+      "path": "static/fonts/KaTeX_SansSerif-Italic.99ad93a.woff2",
+      "bytes": 14484,
+      "sha256": "66034ad79f0f68739b7be69771748a1c61d524d4dbba570905318595151377ad",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_SansSerif-Italic.9d0fdf5.woff",
+      "path": "static/fonts/KaTeX_SansSerif-Italic.9d0fdf5.woff",
+      "bytes": 17044,
+      "sha256": "1182f7b49fead9d22f3f14541e71e3331977a0441643c56664806949b96bed5a",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_SansSerif-Regular.6c3bd5b.woff",
+      "path": "static/fonts/KaTeX_SansSerif-Regular.6c3bd5b.woff",
+      "bytes": 15712,
+      "sha256": "dc8093175e397ea58bed6a7bcc810e05e2125742763f1599babaa926461a32cb",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_SansSerif-Regular.badf359.woff2",
+      "path": "static/fonts/KaTeX_SansSerif-Regular.badf359.woff2",
+      "bytes": 13300,
+      "sha256": "2673b817a2a74139b1d9bd2f9d70148426346cbae579a5141abd839436126e2e",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_SansSerif-Regular.d511ebc.ttf",
+      "path": "static/fonts/KaTeX_SansSerif-Regular.d511ebc.ttf",
+      "bytes": 28708,
+      "sha256": "081f08cf7e0a8a68cdbb29977fb0bb10a1dc71f7ae9b53648f79e98532ee26fe",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Script-Regular.082640c.ttf",
+      "path": "static/fonts/KaTeX_Script-Regular.082640c.ttf",
+      "bytes": 23520,
+      "sha256": "cc796f5fea153a7134e5050fad1bcccadee89d52ace60d498f6fc1f1e069032e",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Script-Regular.4edf4e0.woff",
+      "path": "static/fonts/KaTeX_Script-Regular.4edf4e0.woff",
+      "bytes": 12992,
+      "sha256": "611edea9609d5b7728e2df2cb6034ea0aea459c7c06e6d8b8f83ca21a9f440d2",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Script-Regular.af7bc98.woff2",
+      "path": "static/fonts/KaTeX_Script-Regular.af7bc98.woff2",
+      "bytes": 11792,
+      "sha256": "2227c4c4953e65cbf7f67e83c12a27243478265619aae313353fda3b1458ed2c",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size1-Regular.10ec8be.woff2",
+      "path": "static/fonts/KaTeX_Size1-Regular.10ec8be.woff2",
+      "bytes": 5332,
+      "sha256": "01e074cc3dcd7140710315dc18102897bae0c0771841bc326bfe8f934276cb82",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size1-Regular.2c2dc3b.ttf",
+      "path": "static/fonts/KaTeX_Size1-Regular.2c2dc3b.ttf",
+      "bytes": 11932,
+      "sha256": "5293e7e9ac564ccd10deceec3a4cf3fa0754d3ce53ba3a4af21ae215686af001",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size1-Regular.35b9977.woff",
+      "path": "static/fonts/KaTeX_Size1-Regular.35b9977.woff",
+      "bytes": 6300,
+      "sha256": "41e4c13808366d1e102f771dd3efcad922395b52c23fd68c2e3a1adf417056e7",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size2-Regular.114ad19.ttf",
+      "path": "static/fonts/KaTeX_Size2-Regular.114ad19.ttf",
+      "bytes": 11080,
+      "sha256": "48c988b76e6f36614ca627c3c1ff550fa02da781a97364475374b5c02912f2a2",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size2-Regular.96a09bf.woff2",
+      "path": "static/fonts/KaTeX_Size2-Regular.96a09bf.woff2",
+      "bytes": 5080,
+      "sha256": "579306c793600772ef7171c2a304aec8d6de7bc30ab2b4598ace25699ee6d1e2",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size2-Regular.9932a08.woff",
+      "path": "static/fonts/KaTeX_Size2-Regular.9932a08.woff",
+      "bytes": 6012,
+      "sha256": "38e966e4ea4cc3f91f7044ec8cb4ff86808af096f74997c683b708f83e2a32d5",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size3-Regular.2afba15.woff",
+      "path": "static/fonts/KaTeX_Size3-Regular.2afba15.woff",
+      "bytes": 4148,
+      "sha256": "14c6e060c8735876e3cd66fc3c490856097cc149279656c53e54557bea47d5c3",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size3-Regular.2c2f0ef.woff2",
+      "path": "static/fonts/KaTeX_Size3-Regular.2c2f0ef.woff2",
+      "bytes": 3400,
+      "sha256": "325df4744e9e1c1e978c78242048eb5462e37d64db2e6da435a730befee8ccbc",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size3-Regular.a287c06.ttf",
+      "path": "static/fonts/KaTeX_Size3-Regular.a287c06.ttf",
+      "bytes": 7028,
+      "sha256": "230588b650d4d4d4e47127f7d6d6a0f88ae73dabc10948928eb20ea850f26ad9",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size4-Regular.70174da.ttf",
+      "path": "static/fonts/KaTeX_Size4-Regular.70174da.ttf",
+      "bytes": 10008,
+      "sha256": "114d46ba510a4d816884afcd2b98a4d6cebd5ea7afdeb6f849fe5abf9b727ee9",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size4-Regular.d5822f1.woff2",
+      "path": "static/fonts/KaTeX_Size4-Regular.d5822f1.woff2",
+      "bytes": 4720,
+      "sha256": "0b27467a453fa09303e015943b8869d9bf7ab8b97b437a95b8331fa4f8f2aab0",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Size4-Regular.f961545.woff",
+      "path": "static/fonts/KaTeX_Size4-Regular.f961545.woff",
+      "bytes": 5820,
+      "sha256": "9d4aa93853e15f82ea86daf02568c7bf32986f7af33bcb810b86da39b712f5a5",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Typewriter-Regular.35fe2cc.ttf",
+      "path": "static/fonts/KaTeX_Typewriter-Regular.35fe2cc.ttf",
+      "bytes": 34560,
+      "sha256": "c3d1c2c8c0455af0db352e704e4fd4c5ae692cb3b895b6be752f5a89bf3b93f5",
+      "contentType": "application/x-font-ttf"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Typewriter-Regular.53dcf86.woff",
+      "path": "static/fonts/KaTeX_Typewriter-Regular.53dcf86.woff",
+      "bytes": 19700,
+      "sha256": "15978c32403fa18a1843e66b0f0f5a9ca3c6a33aa128c6dfb4aa07251ab6990b",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/KaTeX_Typewriter-Regular.641339e.woff2",
+      "path": "static/fonts/KaTeX_Typewriter-Regular.641339e.woff2",
+      "bytes": 16868,
+      "sha256": "af1d60bcfc57febf32ab10cc5467219f76117ef82fa663f92db22194f376b424",
+      "contentType": "application/font-woff2"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/lato-black-italic.798eafd.woff",
+      "path": "static/fonts/lato-black-italic.798eafd.woff",
+      "bytes": 310776,
+      "sha256": "30fadf92363fd11db1e1c52cc982ff2e9f67be4a0f68c715dd7dd325d1f9c286",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/lato-black.f80bda6.woff",
+      "path": "static/fonts/lato-black.f80bda6.woff",
+      "bytes": 297272,
+      "sha256": "659bd5ede5d3ef9c2373704ddaab613313a6c323e631bb9c536f592f4a5092ce",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/lato-normal-italic.f28f2d6.woff",
+      "path": "static/fonts/lato-normal-italic.f28f2d6.woff",
+      "bytes": 328412,
+      "sha256": "26318a1467a5e5caf10b04cfa942d079632560cd7a29cec565fd1dc9f7ec5081",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/lato-normal.27bd77b.woff",
+      "path": "static/fonts/lato-normal.27bd77b.woff",
+      "bytes": 309192,
+      "sha256": "5b9025dda4d7688e3311b0c17eddc501133b807def33effaef6593843cf5416e",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/RobotoMono-Bold.819f3b2.woff",
+      "path": "static/fonts/RobotoMono-Bold.819f3b2.woff",
+      "bytes": 19572,
+      "sha256": "a04ce8e147b6d299e27cee0f1d8b9dd2c5743e7757ba392f568c1523e4574718",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/fonts/RobotoMono-Regular.0b6a547.woff",
+      "path": "static/fonts/RobotoMono-Regular.0b6a547.woff",
+      "bytes": 19592,
+      "sha256": "f352620ad39e6ac588bbb4c505611295d971da5fdf65c8c0dbbc06b754070b2f",
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://stackedit.io/static/js/app.4a860d498cf8c210e5e8.js",
+      "path": "static/js/app.4a860d498cf8c210e5e8.js",
+      "bytes": 747934,
+      "sha256": "22b7592066be7e4319e43acdf34a15ab46982faf24d002150153b8e40a18d6ae",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://stackedit.io/static/js/manifest.9841283e03f435423068.js",
+      "path": "static/js/manifest.9841283e03f435423068.js",
+      "bytes": 1511,
+      "sha256": "5cdecfc2ccb5b97b4e4a8e735cc334015bcea7141785e990634205c95d017f67",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://stackedit.io/static/js/vendor.bc2ba2c5746645190c07.js",
+      "path": "static/js/vendor.bc2ba2c5746645190c07.js",
+      "bytes": 2526348,
+      "sha256": "a0e61379993dac0c83c3d186e6d82b31d2ec4227e4fe507b99531f042ad95572",
+      "contentType": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/abc.png",
+      "path": "static/landing/abc.png",
+      "bytes": 19878,
+      "sha256": "400667b71968ff5fe472dc9e02fecff6cc5e2dc544b15e4b1f6cc89aea05b11f",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/discussion.png",
+      "path": "static/landing/discussion.png",
+      "bytes": 36410,
+      "sha256": "4721436173b7a3a37d452f1e7e1e3429e0e6d88b81ee0c4c81b0a798c56320db",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/favicon.ico",
+      "path": "static/landing/favicon.ico",
+      "bytes": 33310,
+      "sha256": "ee6639b216e5b29bb7605140ec59c2926a3257b85e41d1c01f9e82514b1449da",
+      "contentType": "image/x-icon"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/gfm.png",
+      "path": "static/landing/gfm.png",
+      "bytes": 16128,
+      "sha256": "a314cb627df94c4082b753339a71eaa152ef557db5144753779fdc3702699f9f",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/katex.gif",
+      "path": "static/landing/katex.gif",
+      "bytes": 5812,
+      "sha256": "ae36ceed54262e739e1c99f8080a7df7eed47cdeeddd9994564b0185de1e6bf9",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/logo.svg",
+      "path": "static/landing/logo.svg",
+      "bytes": 9155,
+      "sha256": "927b2792de89cbbd69875b815301f730fab7d618857c79645f4238c88d3e0c98",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/mermaid.gif",
+      "path": "static/landing/mermaid.gif",
+      "bytes": 13545,
+      "sha256": "d259f8f16bb9863ad6985b030ec6617825603242924044bfa2c3189676400ee7",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/navigation-bar.png",
+      "path": "static/landing/navigation-bar.png",
+      "bytes": 4425,
+      "sha256": "fd216ab888cefe1cb41336cadb09947474d0a779194b7ad76dadb4043c333d9b",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/providers.png",
+      "path": "static/landing/providers.png",
+      "bytes": 36047,
+      "sha256": "007f4b4db044b8295ab0ce493f71d4751e10e25233ca27896c0738ec8e152d01",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/scroll-sync.gif",
+      "path": "static/landing/scroll-sync.gif",
+      "bytes": 57425,
+      "sha256": "50043f04958cd484acc167e0a4f393adfc9e169f97923a1330540cfec45450e5",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/smart-layout.png",
+      "path": "static/landing/smart-layout.png",
+      "bytes": 9013,
+      "sha256": "04c2315d4e9a8f91c2ce9db77911cb9b2997d84ab2716e8490c987bee3cd99de",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/syntax-highlighting.gif",
+      "path": "static/landing/syntax-highlighting.gif",
+      "bytes": 19260,
+      "sha256": "0178227b6fe33efa8a042090f3f0a6cdd0d67841be2ff41a4ea5b9c4f6657266",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/twemoji.png",
+      "path": "static/landing/twemoji.png",
+      "bytes": 12872,
+      "sha256": "fc42f760297795a851d5eac534e21b9b91fcd9d376b9828a12b7e7c94f65e268",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/static/landing/workspace.png",
+      "path": "static/landing/workspace.png",
+      "bytes": 16056,
+      "sha256": "8a76f3c28d479df5255a4d5e954519922ec6de8e28f35cd9bb349078c2512a75",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://stackedit.io/style.css",
+      "path": "style.css",
+      "bytes": 32380,
+      "sha256": "d6d8fe2fc7f3e59d5c229ad5afdd26516ce18df866b7df02937b8534d0c8a168",
+      "contentType": "text/css; charset=UTF-8"
+    },
+    {
+      "url": "https://stackedit.io/sw.js",
+      "path": "sw.js",
+      "bytes": 13472,
+      "sha256": "e562f75a00ab420e96916af8a881323bed466748427348a084ccb94dcae2b9cb",
+      "contentType": "application/javascript; charset=UTF-8"
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://stackedit.io/manifest.json",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/M,location",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/e,location",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/e.url",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/e.request.url",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/b[n],location",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/n",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/manifest.c9128ce574e7548a3b0d3bcd8bfa212c.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/articles.json",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/.zendesk.com/api/v2/users/me.json",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/gif.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/tiff.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/webp.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/svg.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/psd.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/bmp.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/png.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/jpg.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/this.repoUrl",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/this.currentWorkspace",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/4465ef46f616032afa20.worker.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/locale.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/e",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/node_modules/path-browserify/index.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/node_modules/node-libs-browser/mock/empty.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/mermaid.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/s",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/s,l",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/+l(this.config.url,320",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/**/parser/*.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/cypress/**/*.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/node_modules/process/browser.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/dist/mermaid.core.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/dist/**/*.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/package.json",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/node_modules/webpack/buildin/module.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/clusters.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/config.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/logger.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/defaultConfig.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/themes/index.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/utils.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/**/*.css",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/intersect/intersect-rect.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/edges.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/createLabel.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/index.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/mermaid-graphlib.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/nodes.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/shapes/util.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/markers.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/intersect/intersect-node.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/intersect/intersect-ellipse.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/intersect/intersect-polygon.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/intersect/intersect-circle.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/intersect/index.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/intersect/intersect-line.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/dagre-wrapper/shapes/note.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/class/svgDraw.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/class/classDb.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/common/common.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/class/classRenderer-v2.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/mermaidAPI.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/class/classRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/class/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/er/erDb.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/er/erMarkers.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/er/erRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/er/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/flowchart/flowDb.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/flowchart/flowChartShapes.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/dagre-d3/lib/label/add-html-label.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/flowchart/flowRenderer-v2.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/flowchart/flowRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/flowchart/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/gantt/ganttDb.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/gantt/ganttRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/gantt/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/git/gitGraphAst.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/git/gitGraphRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/git/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/info/infoRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/info/infoDb.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/pie/pieDb.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/info/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/pie/pieRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/pie/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/sequence/sequenceDb.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/sequence/sequenceRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/sequence/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/sequence/svgDraw.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/state/shapes.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/state/id-cache.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/state/stateDb.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/state/stateRenderer-v2.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/state/stateRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/user-journey/journeyRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/user-journey/svgDraw.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/state/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/user-journey/journeyDb.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/errorRenderer.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/diagrams/user-journey/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/styles.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/themes/theme-neutral.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/themes/theme-forest.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/themes/theme-helpers.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/themes/theme-default.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/themes/theme-base.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/src/themes/theme-dark.js",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/t",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/vendor.bc2ba2c5746645190c07.js?=\\(",
+      "reason": "Snapshot query needs distinct route"
+    },
+    {
+      "url": "https://stackedit.io/static/js/e,b",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/t.url",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/e,r",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://stackedit.io/static/js/+i(location.href,n.arrowheadId",
+      "reason": "HTTP 404"
+    }
+  ],
+  "downloadedBytes": 10169321
+}

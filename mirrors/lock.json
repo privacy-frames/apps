@@ -1,0 +1,62 @@
+{
+  "release": "snapshots-2026-10-27",
+  "mirrors": [
+    {
+      "name": "squoosh",
+      "entry": "index.html",
+      "origin": "https://squoosh.app",
+      "license": "Apache-2.0 application; GPL-3.0-or-later ImageQuant; codec notices retained",
+      "archive": {
+        "name": "squoosh-snapshot.tar.gz",
+        "url": "https://github.com/privacy-frames/apps/releases/download/snapshots-2026-10-27/squoosh-snapshot.tar.gz",
+        "sha256": "1b51595497144a8fe0a96727ed8d2c7fce2b92586003afbb56da3a8df400e20b"
+      },
+      "additionalPaths": ["/editor"]
+    },
+    {
+      "name": "excalidraw",
+      "entry": "index.html",
+      "origin": "https://excalidraw.com",
+      "license": "MIT",
+      "archive": {
+        "name": "excalidraw-snapshot.tar.gz",
+        "url": "https://github.com/privacy-frames/apps/releases/download/snapshots-2026-10-27/excalidraw-snapshot.tar.gz",
+        "sha256": "9cd3de2cf2f3931dc4b56ab4317932d21dcad6c3a1b4618709f3abfbbf86bb4c"
+      }
+    },
+    {
+      "name": "stackedit",
+      "entry": "app",
+      "origin": "https://stackedit.io",
+      "license": "Apache-2.0",
+      "archive": {
+        "name": "stackedit-snapshot-notices.tar.gz",
+        "url": "https://github.com/privacy-frames/apps/releases/download/snapshots-2026-10-27/stackedit-snapshot-notices.tar.gz",
+        "sha256": "2e0b12d6e83c154506093d22b0646ff3777c888751db8ecd531d282f1c54954d"
+      }
+    },
+    {
+      "name": "drawio",
+      "entry": "index.html",
+      "origin": "https://app.diagrams.net",
+      "license": "Apache-2.0 code; bundled icon/stencil restrictions; CC-BY-4.0 templates",
+      "archive": {
+        "name": "drawio-snapshot.tar.gz",
+        "url": "https://github.com/privacy-frames/apps/releases/download/snapshots-2026-10-27/drawio-snapshot.tar.gz",
+        "sha256": "18ba8a2f6af92d432404b3490b1894ce909c3573655784e9984dfd16f1d4c170"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "libimagequant-2.12.1.tar.gz",
+      "url": "https://github.com/privacy-frames/apps/releases/download/snapshots-2026-10-27/libimagequant-2.12.1.tar.gz",
+      "sha256": "7035eb281bc9a49cf36db8db807b713d03a0ffe8c5abfbb17a9ea8a038f21d5e"
+    },
+    {
+      "name": "squoosh-e8d35e0fb66eb16eff6fe8fc773eabcbb7128de3.tar.gz",
+      "url": "https://github.com/privacy-frames/apps/releases/download/snapshots-2026-10-27/squoosh-e8d35e0fb66eb16eff6fe8fc773eabcbb7128de3.tar.gz",
+      "sha256": "8a4caf8744066d08005ce32034ba654d8114aa6875ff3267b56a68a9021d1c08"
+    }
+  ]
+}

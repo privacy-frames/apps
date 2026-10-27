@@ -1,0 +1,3583 @@
+{
+  "captured": "2026-10-27T03:36:22.022Z",
+  "id": "excalidraw",
+  "entry": "https://excalidraw.com/",
+  "license": "MIT",
+  "repository": "excalidraw/excalidraw",
+  "ref": "master",
+  "bytes": 23141204,
+  "files": [
+    {
+      "url": "https://excalidraw.com/android-chrome-192x192.png",
+      "path": "android-chrome-192x192.png",
+      "bytes": 5091,
+      "sha256": "f80ad42c0c9cfd52ef853b32c2389520e94e8445b038726f6ed22f14ba6f023f",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://excalidraw.com/apple-touch-icon.png",
+      "path": "apple-touch-icon.png",
+      "bytes": 4182,
+      "sha256": "b6a6c4464319a3b1faeb310bcb8ac24061b2301ce19ddc81453675bbd461ed8f",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://excalidraw.com/assets/_basePickBy-ZfSBwMAc.js",
+      "path": "assets/_basePickBy-ZfSBwMAc.js",
+      "bytes": 2640,
+      "sha256": "f3a4c054188fce89768b2fd722cd044b6709d703ad20e4278141e42c92a1a36b",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/_baseUniq-BrAtqm7r.js",
+      "path": "assets/_baseUniq-BrAtqm7r.js",
+      "bytes": 11960,
+      "sha256": "45da7d40a214dd9693ad91ed764ee7b322cf2ca6df9d877d4ba20b06dfda1ebd",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/@sentry_browser.js",
+      "path": "assets/@sentry_browser.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/**/parser/*.js",
+      "path": "assets/**/parser/*.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/+this.href+",
+      "path": "assets/+this.href+",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/$%7Bf%7D.js",
+      "path": "assets/$%7Bf%7D.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/$%7Bi%7D",
+      "path": "assets/$%7Bi%7D",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/$%7BJke(s",
+      "path": "assets/$%7BJke(s",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/$%7Bo%7D",
+      "path": "assets/$%7Bo%7D",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/$%7Br%7D",
+      "path": "assets/$%7Br%7D",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/$%7Bthis.eraserPreviewDataURL%7D",
+      "path": "assets/$%7Bthis.eraserPreviewDataURL%7D",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/a,l",
+      "path": "assets/a,l",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/a,this.config",
+      "path": "assets/a,this.config",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/A.blob",
+      "path": "assets/A.blob",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/A.image_url",
+      "path": "assets/A.image_url",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/architectureDiagram-VXUJARFQ-CM5vRAuo.js",
+      "path": "assets/architectureDiagram-VXUJARFQ-CM5vRAuo.js",
+      "bytes": 148798,
+      "sha256": "5d5282b8f0ce47abcd94ce5d80d5c5d925b2e6fbe5787efd6e921adff4fb946f",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/_basePickBy-ZfSBwMAc.js",
+      "path": "assets/assets/_basePickBy-ZfSBwMAc.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/_baseUniq-BrAtqm7r.js",
+      "path": "assets/assets/_baseUniq-BrAtqm7r.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/architectureDiagram-VXUJARFQ-CM5vRAuo.js",
+      "path": "assets/assets/architectureDiagram-VXUJARFQ-CM5vRAuo.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/blockDiagram-VD42YOAC-B1Z6hTXo.js",
+      "path": "assets/assets/blockDiagram-VD42YOAC-B1Z6hTXo.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/c4Diagram-YG6GDRKO-Cv9Zizqx.js",
+      "path": "assets/assets/c4Diagram-YG6GDRKO-Cv9Zizqx.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/chunk-4BX2VUAB-Bb3u24_X.js",
+      "path": "assets/assets/chunk-4BX2VUAB-Bb3u24_X.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/chunk-55IACEB6-91xqgfYx.js",
+      "path": "assets/assets/chunk-55IACEB6-91xqgfYx.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/chunk-B4BG7PRW-CQKyBsz0.js",
+      "path": "assets/assets/chunk-B4BG7PRW-CQKyBsz0.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/chunk-DI55MBZ5-BY2TlPT6.js",
+      "path": "assets/assets/chunk-DI55MBZ5-BY2TlPT6.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/chunk-FMBD7UC4-B2zhnDqu.js",
+      "path": "assets/assets/chunk-FMBD7UC4-B2zhnDqu.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/chunk-QN33PNHL-CkKTlLkk.js",
+      "path": "assets/assets/chunk-QN33PNHL-CkKTlLkk.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/chunk-QZHKN3VN-CD9rwyT-.js",
+      "path": "assets/assets/chunk-QZHKN3VN-CD9rwyT-.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/chunk-TZMSLE5B-CGEL2dZG.js",
+      "path": "assets/assets/chunk-TZMSLE5B-CGEL2dZG.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/classDiagram-2ON5EDUG-OE1zz8Rb.js",
+      "path": "assets/assets/classDiagram-2ON5EDUG-OE1zz8Rb.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/classDiagram-v2-WZHVMYZB-OE1zz8Rb.js",
+      "path": "assets/assets/classDiagram-v2-WZHVMYZB-OE1zz8Rb.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/clone-DKsuYKPC.js",
+      "path": "assets/assets/clone-DKsuYKPC.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/codemirror.chunk-CLhMQAUm.js",
+      "path": "assets/assets/codemirror.chunk-CLhMQAUm.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/CodeMirrorEditor-DSDsAYbn.js",
+      "path": "assets/assets/CodeMirrorEditor-DSDsAYbn.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/cose-bilkent-S5V4N54A-BOimuZ77.js",
+      "path": "assets/assets/cose-bilkent-S5V4N54A-BOimuZ77.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/cytoscape.esm-CyJtwmzi.js",
+      "path": "assets/assets/cytoscape.esm-CyJtwmzi.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/dagre-6UL2VRFP-DYyliwSQ.js",
+      "path": "assets/assets/dagre-6UL2VRFP-DYyliwSQ.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/diagram-PSM6KHXK-BLc04vxi.js",
+      "path": "assets/assets/diagram-PSM6KHXK-BLc04vxi.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/diagram-QEK2KX5R-ukB6kMmO.js",
+      "path": "assets/assets/diagram-QEK2KX5R-ukB6kMmO.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/diagram-S2PKOQOG-DaX2mZca.js",
+      "path": "assets/assets/diagram-S2PKOQOG-DaX2mZca.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/erDiagram-Q2GNP2WA-DL9LpaEF.js",
+      "path": "assets/assets/erDiagram-Q2GNP2WA-DL9LpaEF.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/flowDiagram-NV44I4VS-CIstAb2z.js",
+      "path": "assets/assets/flowDiagram-NV44I4VS-CIstAb2z.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/gitGraphDiagram-NY62KEGX-DxG2NOZV.js",
+      "path": "assets/assets/gitGraphDiagram-NY62KEGX-DxG2NOZV.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/graph-CDNE6afq.js",
+      "path": "assets/assets/graph-CDNE6afq.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/infoDiagram-WHAUD3N6-B_GahSu_.js",
+      "path": "assets/assets/infoDiagram-WHAUD3N6-B_GahSu_.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/journeyDiagram-XKPGCS4Q-BpcUsKNT.js",
+      "path": "assets/assets/journeyDiagram-XKPGCS4Q-BpcUsKNT.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/kanban-definition-3W4ZIXB7-BbuWO2gE.js",
+      "path": "assets/assets/kanban-definition-3W4ZIXB7-BbuWO2gE.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/layout-DQkrSs1j.js",
+      "path": "assets/assets/layout-DQkrSs1j.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/mermaid-to-excalidraw-D-aVQaad.js",
+      "path": "assets/assets/mermaid-to-excalidraw-D-aVQaad.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/mindmap-definition-VGOIOE7T-mFLCToYA.js",
+      "path": "assets/assets/mindmap-definition-VGOIOE7T-mFLCToYA.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/pica-fTKOVOgy.js",
+      "path": "assets/assets/pica-fTKOVOgy.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/pieDiagram-ADFJNKIX-tDTRGJE3.js",
+      "path": "assets/assets/pieDiagram-ADFJNKIX-tDTRGJE3.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/requirementDiagram-UZGBJVZJ-D7lgxClk.js",
+      "path": "assets/assets/requirementDiagram-UZGBJVZJ-D7lgxClk.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/sequenceDiagram-WL72ISMW-A2jXBx54.js",
+      "path": "assets/assets/sequenceDiagram-WL72ISMW-A2jXBx54.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/stateDiagram-FKZM4ZOC-tI2s18Rq.js",
+      "path": "assets/assets/stateDiagram-FKZM4ZOC-tI2s18Rq.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/stateDiagram-v2-4FDKWEC3-BxhL9Cgi.js",
+      "path": "assets/assets/stateDiagram-v2-4FDKWEC3-BxhL9Cgi.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/subset-shared.chunk-D3ioWSie.js",
+      "path": "assets/assets/subset-shared.chunk-D3ioWSie.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/subset-worker.chunk-CVR6pt27.js",
+      "path": "assets/assets/subset-worker.chunk-CVR6pt27.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/assets/treemap-KMMF4GRG-CNTnVawn.js",
+      "path": "assets/assets/treemap-KMMF4GRG-CNTnVawn.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/Assistant-Bold.woff2",
+      "path": "assets/Assistant-Bold.woff2",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/Assistant-Medium.woff2",
+      "path": "assets/Assistant-Medium.woff2",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/Assistant-Regular.woff2",
+      "path": "assets/Assistant-Regular.woff2",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/Assistant-SemiBold.woff2",
+      "path": "assets/Assistant-SemiBold.woff2",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/b",
+      "path": "assets/b",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/blockDiagram-VD42YOAC-B1Z6hTXo.js",
+      "path": "assets/blockDiagram-VD42YOAC-B1Z6hTXo.js",
+      "bytes": 73160,
+      "sha256": "6315d185dea4440b3295c4b6113cf3ae8c3f3dd1aa743a35c2cc56f0f1f21c13",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/bug-issue-template-BID_ABWq.js",
+      "path": "assets/bug-issue-template-BID_ABWq.js",
+      "bytes": 178,
+      "sha256": "1a83b48bbd70d97726e9d301a728e8fa613661f6152ebbf66107383a4752850f",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/c4Diagram-YG6GDRKO-Cv9Zizqx.js",
+      "path": "assets/c4Diagram-YG6GDRKO-Cv9Zizqx.js",
+      "bytes": 70181,
+      "sha256": "82e8072255b373793e4e36d847525a98aea4bc70121cd61c13145f506e561eb8",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/ca4036b82666a504/script.js",
+      "path": "assets/ca4036b82666a504/script.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/chunk-4BX2VUAB-Bb3u24_X.js",
+      "path": "assets/chunk-4BX2VUAB-Bb3u24_X.js",
+      "bytes": 358,
+      "sha256": "31da6abf86d86675948d2ac50506307046df6dc321e02375f85aea0aeaabf7b4",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/chunk-55IACEB6-91xqgfYx.js",
+      "path": "assets/chunk-55IACEB6-91xqgfYx.js",
+      "bytes": 296,
+      "sha256": "34e398da42278186c2d42b0dc3e7c0cf6f2518dc882856842a1174f192afeb44",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/chunk-B4BG7PRW-CQKyBsz0.js",
+      "path": "assets/chunk-B4BG7PRW-CQKyBsz0.js",
+      "bytes": 45463,
+      "sha256": "d4e1d297f4d1d17f37eef3d70d92a641001b0c466648312fec5d02d789a392a9",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/chunk-DI55MBZ5-BY2TlPT6.js",
+      "path": "assets/chunk-DI55MBZ5-BY2TlPT6.js",
+      "bytes": 36860,
+      "sha256": "50bc34d145b80cff493959ac6f01385524c31765284a69590b55ccad1a0ac30b",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/chunk-FMBD7UC4-B2zhnDqu.js",
+      "path": "assets/chunk-FMBD7UC4-B2zhnDqu.js",
+      "bytes": 427,
+      "sha256": "83346760911ee2d0e5009f4eb28bda924395d8bf54e9f0c7ba6c6eafec2e48c4",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/chunk-QN33PNHL-CkKTlLkk.js",
+      "path": "assets/chunk-QN33PNHL-CkKTlLkk.js",
+      "bytes": 593,
+      "sha256": "46a92faa38a162bf104152387b014faa9523f321d2964604751ca62ffe4882f8",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/chunk-QZHKN3VN-CD9rwyT-.js",
+      "path": "assets/chunk-QZHKN3VN-CD9rwyT-.js",
+      "bytes": 254,
+      "sha256": "7681c0769ca062e20f0096ca76041157b0436090014f68c8eda25e465c7154d2",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/chunk-TZMSLE5B-CGEL2dZG.js",
+      "path": "assets/chunk-TZMSLE5B-CGEL2dZG.js",
+      "bytes": 1474,
+      "sha256": "a60e2943aac1801a2cbc1e46d320b99aad0346878c7b3238330ada3ce18857c4",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/classDiagram-2ON5EDUG-OE1zz8Rb.js",
+      "path": "assets/classDiagram-2ON5EDUG-OE1zz8Rb.js",
+      "bytes": 470,
+      "sha256": "5e7dd4aa73a0250b6bb356735f3b76173b3486fbc0f841773c3c234560a5a15c",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/classDiagram-v2-WZHVMYZB-OE1zz8Rb.js",
+      "path": "assets/classDiagram-v2-WZHVMYZB-OE1zz8Rb.js",
+      "bytes": 473,
+      "sha256": "1e3a2c57657c471a8719ffe8bd60592f0199589600ac3bba37623ecbbd6214ff",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/clone-DKsuYKPC.js",
+      "path": "assets/clone-DKsuYKPC.js",
+      "bytes": 139,
+      "sha256": "59aa75237ed725d568050ca0b35d9e7f8a9fa00b48667c5f6c4a7228b89d2aa6",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/codemirror.chunk-CLhMQAUm.js",
+      "path": "assets/codemirror.chunk-CLhMQAUm.js",
+      "bytes": 289177,
+      "sha256": "825ffd00e0366e6a417c3dc8c3cf9c4647f553bcd2c066ed9d4980f7831f5adf",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/CodeMirrorEditor-DSDsAYbn.js",
+      "path": "assets/CodeMirrorEditor-DSDsAYbn.js",
+      "bytes": 3703,
+      "sha256": "63847c7c0852be231b0784b886e56cd5ff7e5e275baf4e2bcc8a4c23f8ee4b4e",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/cose-bilkent-S5V4N54A-BOimuZ77.js",
+      "path": "assets/cose-bilkent-S5V4N54A-BOimuZ77.js",
+      "bytes": 81583,
+      "sha256": "f5e0f52c4edfbbf06abd0c5ddccc18b64c0a560f8651c20149bd0f451f674a26",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/cypress/**/*.js",
+      "path": "assets/cypress/**/*.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/cytoscape.esm-CyJtwmzi.js",
+      "path": "assets/cytoscape.esm-CyJtwmzi.js",
+      "bytes": 442464,
+      "sha256": "1889373a0be2c07824a387bb22cd2efc72d3803600047214f18e841d88176804",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/dagre-6UL2VRFP-DYyliwSQ.js",
+      "path": "assets/dagre-6UL2VRFP-DYyliwSQ.js",
+      "bytes": 11302,
+      "sha256": "d40b13e265203e53b279afaa7bdd61258ab9647b37f0b0c342a4a47a06451c10",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/diagram-PSM6KHXK-BLc04vxi.js",
+      "path": "assets/diagram-PSM6KHXK-BLc04vxi.js",
+      "bytes": 11156,
+      "sha256": "fc23e0cafba0084d37cb8825b11e3e56ad98384aec8b0932a5111ddd0b3f5207",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/diagram-QEK2KX5R-ukB6kMmO.js",
+      "path": "assets/diagram-QEK2KX5R-ukB6kMmO.js",
+      "bytes": 6093,
+      "sha256": "8e80d75bd028bf3d02b31aabf4fc356be7c7d92985b69fe6dbe4832bb07c494a",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/diagram-S2PKOQOG-DaX2mZca.js",
+      "path": "assets/diagram-S2PKOQOG-DaX2mZca.js",
+      "bytes": 4373,
+      "sha256": "9b9bb7d92cec90791f0d405e58953ec92d7563a27659c02f1d0c4db187bbdc21",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/dist/**/*.js",
+      "path": "assets/dist/**/*.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/dist/mermaid.core.mjs",
+      "path": "assets/dist/mermaid.core.mjs",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/document.referrer",
+      "path": "assets/document.referrer",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/e",
+      "path": "assets/e",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/E",
+      "path": "assets/E",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/e.url",
+      "path": "assets/e.url",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/erDiagram-Q2GNP2WA-DL9LpaEF.js",
+      "path": "assets/erDiagram-Q2GNP2WA-DL9LpaEF.js",
+      "bytes": 25340,
+      "sha256": "10e68b5831854153b148a3793e22f9e0f9ad50e23253b7f97a6e731a755a511c",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/excalidraw.png",
+      "path": "assets/excalidraw.png",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/excalidraw.svg",
+      "path": "assets/excalidraw.svg",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/f,s",
+      "path": "assets/f,s",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/fa1cf892849611ca/script.js",
+      "path": "assets/fa1cf892849611ca/script.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/file.png",
+      "path": "assets/file.png",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/flowDiagram-NV44I4VS-CIstAb2z.js",
+      "path": "assets/flowDiagram-NV44I4VS-CIstAb2z.js",
+      "bytes": 61114,
+      "sha256": "44098d60b81ff5a090b422837229d46f643d1351b91d61fe3035a918d24a52bb",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/ganttDiagram-JELNMOA3-CNSqBTtR.js",
+      "path": "assets/ganttDiagram-JELNMOA3-CNSqBTtR.js",
+      "bytes": 48166,
+      "sha256": "ff288af187f2e10dc56362dbd3866fe3a276cfca63fa642bdceca1477252cbde",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/gitGraphDiagram-NY62KEGX-DxG2NOZV.js",
+      "path": "assets/gitGraphDiagram-NY62KEGX-DxG2NOZV.js",
+      "bytes": 24772,
+      "sha256": "70823ce50740756999970b19d0466c3ddc7b900cc70fb6bdaa43748b2d823500",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/graph-CDNE6afq.js",
+      "path": "assets/graph-CDNE6afq.js",
+      "bytes": 5972,
+      "sha256": "5c9a4cf0cf224e31a0b34ae11cdfe1e86dce901fac4073841f1252b2e16ed7fd",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/image-blob-reduce.esm-B6b2_-a4.js",
+      "path": "assets/image-blob-reduce.esm-B6b2_-a4.js",
+      "bytes": 45992,
+      "sha256": "1efe4db84d96a37cf61f9af36c0398dc8addc4a4bf07f006deb7824f90673a68",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/import.meta.url",
+      "path": "assets/import.meta.url",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/index-BboF1hDf.js",
+      "path": "assets/index-BboF1hDf.js",
+      "bytes": 2245115,
+      "sha256": "cb894c15050937925a5f98dc87fe06de895597cb2773f85d4f005409753d471b",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/index-ChGp7972.js",
+      "path": "assets/index-ChGp7972.js",
+      "bytes": 40057,
+      "sha256": "7e9b094c28eb9d7870f32699717f24d0e3b96e6554089d29cee8d9af36dec7fd",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/index-D0I-IbtP.css",
+      "path": "assets/index-D0I-IbtP.css",
+      "bytes": 209332,
+      "sha256": "60c78cd45004b4547419fec856aa2c225657ab0b0f0faeb9eeb2bd4f07338c40",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/infoDiagram-WHAUD3N6-B_GahSu_.js",
+      "path": "assets/infoDiagram-WHAUD3N6-B_GahSu_.js",
+      "bytes": 730,
+      "sha256": "308d2a4b0e50425207eafefcedb23eb4dfd986ef64341f1918787ce0a65d5076",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/journeyDiagram-XKPGCS4Q-BpcUsKNT.js",
+      "path": "assets/journeyDiagram-XKPGCS4Q-BpcUsKNT.js",
+      "bytes": 23566,
+      "sha256": "b3889607fed0028ca833391bad560fe2f93cc142be3d803ec3e2f4d3a60b22b2",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/kanban-definition-3W4ZIXB7-BbuWO2gE.js",
+      "path": "assets/kanban-definition-3W4ZIXB7-BbuWO2gE.js",
+      "bytes": 20648,
+      "sha256": "d79ea2893ea5e40a576c97ffd4203977ed8217cfe629874fbe7c469a82746b3d",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/katex-Cu_Erd72.js",
+      "path": "assets/katex-Cu_Erd72.js",
+      "bytes": 265476,
+      "sha256": "b698deb89545820b6e6f21bbac1662ef802646fb3ff26e472f4c2a70bae0efb3",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/l.src",
+      "path": "assets/l.src",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/layout-DQkrSs1j.js",
+      "path": "assets/layout-DQkrSs1j.js",
+      "bytes": 27439,
+      "sha256": "12f847299d667258dbd7b239c38d9533157e7b9cbcb266d200d38eb4711e61c1",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/Le.svg",
+      "path": "assets/Le.svg",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/$%7BCg.code%7D.json",
+      "path": "assets/locales/$%7BCg.code%7D.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ar-SA.json",
+      "path": "assets/locales/ar-SA.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ar-SA.json-C_3OfhwP.js",
+      "path": "assets/locales/ar-SA.json-C_3OfhwP.js",
+      "bytes": 32502,
+      "sha256": "4427c2ab4b98f7fb46e4af3cbe7a758a77186eb2e3d1f11ef20c725db2535610",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/az-AZ.json",
+      "path": "assets/locales/az-AZ.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/az-AZ.json-B66SPiLd.js",
+      "path": "assets/locales/az-AZ.json-B66SPiLd.js",
+      "bytes": 13924,
+      "sha256": "b349456ada356d7aa18809af9c583b2261719783f26a5d6d824e233c5e6e9a7c",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/bg-BG.json",
+      "path": "assets/locales/bg-BG.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/bg-BG.json-Dh5YdxU_.js",
+      "path": "assets/locales/bg-BG.json-Dh5YdxU_.js",
+      "bytes": 26935,
+      "sha256": "daa967a05f0ac6f776ec45f4ebf71d1c8eae76d5431f7872198393420b66682b",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/bn-BD.json",
+      "path": "assets/locales/bn-BD.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/bn-BD.json-Do1Dizr8.js",
+      "path": "assets/locales/bn-BD.json-Do1Dizr8.js",
+      "bytes": 24873,
+      "sha256": "13d914de091790cd45831e800b78becdcc20b53e425eb130e4231a5f9bbcd8cd",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/bn-IN.json",
+      "path": "assets/locales/bn-IN.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/bn-IN.json-BzkOElTe.js",
+      "path": "assets/locales/bn-IN.json-BzkOElTe.js",
+      "bytes": 24873,
+      "sha256": "2f900dce2351d6712cc8252de604db8f916418c9bc371f9a418809d94f15896f",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ca-ES.json",
+      "path": "assets/locales/ca-ES.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ca-ES.json-DHcJnGlF.js",
+      "path": "assets/locales/ca-ES.json-DHcJnGlF.js",
+      "bytes": 26192,
+      "sha256": "516318633f4a559aba1c303188ceaf26b73ffc48c80f3203a636ca5fccb7d113",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/cs-CZ.json",
+      "path": "assets/locales/cs-CZ.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/cs-CZ.json-C-9gQH-I.js",
+      "path": "assets/locales/cs-CZ.json-C-9gQH-I.js",
+      "bytes": 23132,
+      "sha256": "d168b9088932bd334e8cc6b6b46f8359020b5f6e2faa9ef8a9e5250d47b4be88",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/da-DK.json",
+      "path": "assets/locales/da-DK.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/da-DK.json-BV0lj8ZC.js",
+      "path": "assets/locales/da-DK.json-BV0lj8ZC.js",
+      "bytes": 13499,
+      "sha256": "19acad0dc085a31e15d161b70f15d353c9af0ccfe254cc0fc74e2d77b41ce3a8",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/de-CH.json",
+      "path": "assets/locales/de-CH.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/de-CH.json-D1VGX01-.js",
+      "path": "assets/locales/de-CH.json-D1VGX01-.js",
+      "bytes": 30880,
+      "sha256": "b22877c99dc54926846c27f8230c5c23b151934056f5c0a57d44b3e92a770756",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/de-DE.json",
+      "path": "assets/locales/de-DE.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/de-DE.json-CktmeeHs.js",
+      "path": "assets/locales/de-DE.json-CktmeeHs.js",
+      "bytes": 30880,
+      "sha256": "48dd8115a873a811a69592d85f9a6d6a6315fc9ea355f0ab77f3e04c44b18f62",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/el-GR.json",
+      "path": "assets/locales/el-GR.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/el-GR.json-C0tUEWau.js",
+      "path": "assets/locales/el-GR.json-C0tUEWau.js",
+      "bytes": 38727,
+      "sha256": "28f523f449251054585111e8bc56c2ccb4a748b08e171ac1783b76d8623153b7",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/en.json",
+      "path": "assets/locales/en.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/es-ES.json",
+      "path": "assets/locales/es-ES.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/es-ES.json-Bp3ZJYm4.js",
+      "path": "assets/locales/es-ES.json-Bp3ZJYm4.js",
+      "bytes": 30424,
+      "sha256": "ccb133a860b6880745c3153907e73683b666d32ade6b17690f359f4e50704d30",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/eu-ES.json",
+      "path": "assets/locales/eu-ES.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/eu-ES.json-DLFyqHoF.js",
+      "path": "assets/locales/eu-ES.json-DLFyqHoF.js",
+      "bytes": 28943,
+      "sha256": "63db4dfe85d37afa5992019af1d58fd48d619d5485567cf4efeda9ecb435b4c1",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/fa-IR.json",
+      "path": "assets/locales/fa-IR.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/fa-IR.json-Bp26kTi7.js",
+      "path": "assets/locales/fa-IR.json-Bp26kTi7.js",
+      "bytes": 33680,
+      "sha256": "7bbb41902ed2525686b09cfba9200cadc4fa40dd943ae4417c52b6af154b6391",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/fi-FI.json",
+      "path": "assets/locales/fi-FI.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/fi-FI.json-xpzHrUn1.js",
+      "path": "assets/locales/fi-FI.json-xpzHrUn1.js",
+      "bytes": 20923,
+      "sha256": "a18e8f754ba283b96c815b2ed5233cd4305e22299b21fa7055a4d42919846e38",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/fr-FR.json",
+      "path": "assets/locales/fr-FR.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/fr-FR.json-CzAs2G34.js",
+      "path": "assets/locales/fr-FR.json-CzAs2G34.js",
+      "bytes": 32415,
+      "sha256": "c3ec7627c9c077e5b95470c49b7b0c3a045fb0650076f42d8c233367f20e92a3",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/gl-ES.json",
+      "path": "assets/locales/gl-ES.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/gl-ES.json-BlQFfDxp.js",
+      "path": "assets/locales/gl-ES.json-BlQFfDxp.js",
+      "bytes": 21694,
+      "sha256": "a6079e778bcc08b6a69846b5db544eec2e76d6782f162bc26577d8e4a890f3c9",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/he-IL.json",
+      "path": "assets/locales/he-IL.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/he-IL.json-CeI47FXj.js",
+      "path": "assets/locales/he-IL.json-CeI47FXj.js",
+      "bytes": 35567,
+      "sha256": "672c37206758497be6593372670f0cbc79f50e0854b3618ecd65f010ff31c6a2",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/hi-IN.json",
+      "path": "assets/locales/hi-IN.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/hi-IN.json-43l6ZJCS.js",
+      "path": "assets/locales/hi-IN.json-43l6ZJCS.js",
+      "bytes": 47341,
+      "sha256": "6d64d23c86e15641b32f92d6cf4f0dcfe1c62d0402922455f06db3d9332641f0",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/hu-HU.json",
+      "path": "assets/locales/hu-HU.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/hu-HU.json-CnVfheph.js",
+      "path": "assets/locales/hu-HU.json-CnVfheph.js",
+      "bytes": 21325,
+      "sha256": "7e58d6131dde4f4fc6245787e9807767b78f94a0ab1552a928cc6055ada40d6a",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/id-ID.json",
+      "path": "assets/locales/id-ID.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/id-ID.json-DSwPcG6y.js",
+      "path": "assets/locales/id-ID.json-DSwPcG6y.js",
+      "bytes": 28886,
+      "sha256": "0aef5a7db537a28c5591c96293fe0219369ec3f3fc0bc7ece21327dce8ed12b8",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/it-IT.json",
+      "path": "assets/locales/it-IT.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/it-IT.json-D3S60WEu.js",
+      "path": "assets/locales/it-IT.json-D3S60WEu.js",
+      "bytes": 30853,
+      "sha256": "f68161eb794333370093ba56043bd3774a50ae78da5b899fdf2323c1b2551478",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ja-JP.json",
+      "path": "assets/locales/ja-JP.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ja-JP.json-BUdCYAJM.js",
+      "path": "assets/locales/ja-JP.json-BUdCYAJM.js",
+      "bytes": 33737,
+      "sha256": "d89466f32e0db4d2ffdcb460387a633132562fe450ac271bfde0743ab29dca07",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/kaa.json",
+      "path": "assets/locales/kaa.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/kaa.json-BLLasIBU.js",
+      "path": "assets/locales/kaa.json-BLLasIBU.js",
+      "bytes": 12931,
+      "sha256": "2c9df5dbd9ecd232dc5b863001daf59386936ec7073ce047c915c168f865c3d9",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/kab-KAB.json",
+      "path": "assets/locales/kab-KAB.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/kab-KAB.json-Cv0U1FA9.js",
+      "path": "assets/locales/kab-KAB.json-Cv0U1FA9.js",
+      "bytes": 20556,
+      "sha256": "483d554c174c08a0233b93db541dda7c3d5026f0dbc58039eb313cdea59fe65b",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/kk-KZ.json",
+      "path": "assets/locales/kk-KZ.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/kk-KZ.json-D-e4begV.js",
+      "path": "assets/locales/kk-KZ.json-D-e4begV.js",
+      "bytes": 13486,
+      "sha256": "4f562daf2f54dfe93e87d66f311901a100f653d70dc8c690ee81f838f4764e3b",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/km-KH.json",
+      "path": "assets/locales/km-KH.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/km-KH.json-KQpz5gtA.js",
+      "path": "assets/locales/km-KH.json-KQpz5gtA.js",
+      "bytes": 36223,
+      "sha256": "af718ab8b8eadf1e30f613373d462f39565f9403c8adc60b795954b904431228",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ko-KR.json",
+      "path": "assets/locales/ko-KR.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ko-KR.json-BD_cqbAC.js",
+      "path": "assets/locales/ko-KR.json-BD_cqbAC.js",
+      "bytes": 29464,
+      "sha256": "f8ae40d98b0e34f9dc4994271f5579a71605a00145b42ae8279d4db701f14900",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ku-TR.json",
+      "path": "assets/locales/ku-TR.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ku-TR.json-DtSVYCRu.js",
+      "path": "assets/locales/ku-TR.json-DtSVYCRu.js",
+      "bytes": 29846,
+      "sha256": "dac36fd98b81a278bddd68b8f77d8974ca08c1aed1d3351db7da5636f2d609bf",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/lt-LT.json",
+      "path": "assets/locales/lt-LT.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/lt-LT.json-DfPALQtd.js",
+      "path": "assets/locales/lt-LT.json-DfPALQtd.js",
+      "bytes": 15753,
+      "sha256": "af148dcd41f39cacf625fbdc8ab7b7f4b5cba638c1fec66cf793695fdf64576d",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/lv-LV.json",
+      "path": "assets/locales/lv-LV.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/lv-LV.json-Bh9Gl053.js",
+      "path": "assets/locales/lv-LV.json-Bh9Gl053.js",
+      "bytes": 20754,
+      "sha256": "8275086c402d76e4fd1f459ad646c4953ba7ed1129e96998a017c9b4e83205e4",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/mr-IN.json",
+      "path": "assets/locales/mr-IN.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/mr-IN.json-CMloh6w7.js",
+      "path": "assets/locales/mr-IN.json-CMloh6w7.js",
+      "bytes": 46832,
+      "sha256": "90362ec2fc7ce4f0939cc7fad91f9bde94bc19aa159a3cc88bd985e6a5a20511",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/my-MM.json",
+      "path": "assets/locales/my-MM.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/my-MM.json-WXG_2Z19.js",
+      "path": "assets/locales/my-MM.json-WXG_2Z19.js",
+      "bytes": 19766,
+      "sha256": "e1f3b09bc9fd7cda7a481e0f668a9050c88b864f572ad306be4359af80c54bd8",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/nb-NO.json",
+      "path": "assets/locales/nb-NO.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/nb-NO.json-uTl3z3i9.js",
+      "path": "assets/locales/nb-NO.json-uTl3z3i9.js",
+      "bytes": 24413,
+      "sha256": "603eb46ec6ca11d99e1e3ce64b5bcffa4a965e5046cda6083134bac0b4d8225a",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/nl-NL.json",
+      "path": "assets/locales/nl-NL.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/nl-NL.json-CUCg1KjX.js",
+      "path": "assets/locales/nl-NL.json-CUCg1KjX.js",
+      "bytes": 28909,
+      "sha256": "1b1b6d9a1b327369c8486b0a0072f4fd3e2e0a7538ca7fcae8127cfc2d3e4a3d",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/nn-NO.json",
+      "path": "assets/locales/nn-NO.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/nn-NO.json-BZRLEPOa.js",
+      "path": "assets/locales/nn-NO.json-BZRLEPOa.js",
+      "bytes": 18020,
+      "sha256": "2f49f42dc8e35f6a75b02ca860ebf78e2ffe466f63d4814b151d01d9bbaf95e0",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/oc-FR.json",
+      "path": "assets/locales/oc-FR.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/oc-FR.json-BT5oEH_z.js",
+      "path": "assets/locales/oc-FR.json-BT5oEH_z.js",
+      "bytes": 24464,
+      "sha256": "533a2302337bfc92e979fc3a5e42cfc87b02a24719aacb23b8000241c57fb4f0",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/pa-IN.json",
+      "path": "assets/locales/pa-IN.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/pa-IN.json-RgYUY6GG.js",
+      "path": "assets/locales/pa-IN.json-RgYUY6GG.js",
+      "bytes": 29338,
+      "sha256": "0d32fea555cb3eef3d833aefbc2a9174719603a718729e609ec66f8d7fef1abb",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/percentages.json",
+      "path": "assets/locales/percentages.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/pl-PL.json",
+      "path": "assets/locales/pl-PL.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/pl-PL.json-QkRZaXXz.js",
+      "path": "assets/locales/pl-PL.json-QkRZaXXz.js",
+      "bytes": 28209,
+      "sha256": "0c5e040bdf0921dcb2bebf8583900fb52d10d1bb86c42a3af60ef4309665182a",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/pt-BR.json",
+      "path": "assets/locales/pt-BR.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/pt-BR.json-COimuEej.js",
+      "path": "assets/locales/pt-BR.json-COimuEej.js",
+      "bytes": 30285,
+      "sha256": "b7af85e26e6b3e563be337d41e3cd93e3a54dba0c8e66eb25e040a85a3a54150",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/pt-PT.json",
+      "path": "assets/locales/pt-PT.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/pt-PT.json-aDMkHHOa.js",
+      "path": "assets/locales/pt-PT.json-aDMkHHOa.js",
+      "bytes": 31172,
+      "sha256": "20cfa668ce9193a032d02cbddff09950519fc209216a34bed29c091c2d19bce6",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ro-RO.json",
+      "path": "assets/locales/ro-RO.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ro-RO.json-BR1q4T8H.js",
+      "path": "assets/locales/ro-RO.json-BR1q4T8H.js",
+      "bytes": 31860,
+      "sha256": "62ae54c8f178024381eb95f8c03eb5f02c433dd19ec332de41122f0295e341ca",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ru-RU.json",
+      "path": "assets/locales/ru-RU.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ru-RU.json-CCWdKmrX.js",
+      "path": "assets/locales/ru-RU.json-CCWdKmrX.js",
+      "bytes": 44438,
+      "sha256": "ba119b31246ff273aba8afa767a43101479f0c8e2f2a6e373f969e5cf189d2e3",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/si-LK.json",
+      "path": "assets/locales/si-LK.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/si-LK.json-CxQDr7x2.js",
+      "path": "assets/locales/si-LK.json-CxQDr7x2.js",
+      "bytes": 28151,
+      "sha256": "fa51c7c34922207792ab997d2c09c25b73c95c4895ddd2a25653bc72b955d6d8",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/sk-SK.json",
+      "path": "assets/locales/sk-SK.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/sk-SK.json-K2OBo4zq.js",
+      "path": "assets/locales/sk-SK.json-K2OBo4zq.js",
+      "bytes": 30121,
+      "sha256": "7cbac54b08d1a624ea203461aa93be7fa100b1eb5d85cd8e0e5d413b79dc5b63",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/sl-SI.json",
+      "path": "assets/locales/sl-SI.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/sl-SI.json-CHgOKoNt.js",
+      "path": "assets/locales/sl-SI.json-CHgOKoNt.js",
+      "bytes": 29523,
+      "sha256": "a6d77790a3e8440dc103f20ac4487ee8f17edd652db140804189190670005702",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/sv-SE.json",
+      "path": "assets/locales/sv-SE.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/sv-SE.json-CkMqCEdU.js",
+      "path": "assets/locales/sv-SE.json-CkMqCEdU.js",
+      "bytes": 29457,
+      "sha256": "f68bc38d3e1b80a2de97c2412b47885b1ac1dd223c6f9f80e86ec5b904a5bc4a",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ta-IN.json",
+      "path": "assets/locales/ta-IN.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/ta-IN.json-Be_X1UcN.js",
+      "path": "assets/locales/ta-IN.json-Be_X1UcN.js",
+      "bytes": 45592,
+      "sha256": "c249bd530c737892c6411860f448120d9cdfc841c709f41c197698887ed270af",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/th-TH.json",
+      "path": "assets/locales/th-TH.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/th-TH.json-CgbtlUWN.js",
+      "path": "assets/locales/th-TH.json-CgbtlUWN.js",
+      "bytes": 26690,
+      "sha256": "1c04b72e4cb4e4b459679b552c3398de1d8b7dd8c0e1a1abe19823fc71efb708",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/tr-TR.json",
+      "path": "assets/locales/tr-TR.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/tr-TR.json-B2dYerS_.js",
+      "path": "assets/locales/tr-TR.json-B2dYerS_.js",
+      "bytes": 29964,
+      "sha256": "12bac18165d169b4816da689437ea1d1b80afc93ccae80ca09700ab77a862675",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/uk-UA.json",
+      "path": "assets/locales/uk-UA.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/uk-UA.json-DNa6oz2i.js",
+      "path": "assets/locales/uk-UA.json-DNa6oz2i.js",
+      "bytes": 40263,
+      "sha256": "208e5415ac789b16d82086bb8805dd45a72f648a683f81cf8b0bf035bccc8a20",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/uz-UZ.json",
+      "path": "assets/locales/uz-UZ.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/uz-UZ.json-BtHvIecr.js",
+      "path": "assets/locales/uz-UZ.json-BtHvIecr.js",
+      "bytes": 11048,
+      "sha256": "fa2f16d2dc95c97edc4f06f64bfbd9fee55774823ba621c12ddc7c95fe7c9c80",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/vi-VN.json",
+      "path": "assets/locales/vi-VN.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/vi-VN.json-Bslih59-.js",
+      "path": "assets/locales/vi-VN.json-Bslih59-.js",
+      "bytes": 25069,
+      "sha256": "755fef78d593e77adaf9a9a12ef1f9ca7b011e2838cffa0e65d329f619f39506",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/zh-CN.json",
+      "path": "assets/locales/zh-CN.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/zh-CN.json-4Man5Bck.js",
+      "path": "assets/locales/zh-CN.json-4Man5Bck.js",
+      "bytes": 25864,
+      "sha256": "df0194140c932ce439d00a2658629d9380290c694d218bd41b78295d3afca450",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/zh-HK.json",
+      "path": "assets/locales/zh-HK.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/zh-HK.json-C8tRjMaj.js",
+      "path": "assets/locales/zh-HK.json-C8tRjMaj.js",
+      "bytes": 12466,
+      "sha256": "e6c03611b49819727bef7b590170fdc0c39a1e3a77066ff1852381abbf5ac42e",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/zh-TW.json",
+      "path": "assets/locales/zh-TW.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/locales/zh-TW.json-DFBDH5kG.js",
+      "path": "assets/locales/zh-TW.json-DFBDH5kG.js",
+      "bytes": 26473,
+      "sha256": "7a91e3df74430530b32f9d4c0dc8f93ce9d00bb8522b902d0e25c4bb4213c562",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/mermaid-to-excalidraw-D-aVQaad.js",
+      "path": "assets/mermaid-to-excalidraw-D-aVQaad.js",
+      "bytes": 594914,
+      "sha256": "8fe940bcfe1c196fafe41a5c35cd9dbff94d9e3f7d76e76ac31f5f62584ffdcc",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/mindmap-definition-VGOIOE7T-mFLCToYA.js",
+      "path": "assets/mindmap-definition-VGOIOE7T-mFLCToYA.js",
+      "bytes": 21086,
+      "sha256": "0f20d8c278550f9d115114da82f528e70f0dc29330f3793670f58f13282c285a",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/n",
+      "path": "assets/n",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/n,Mg.ASSETS_FALLBACK_URL",
+      "path": "assets/n,Mg.ASSETS_FALLBACK_URL",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/n,r",
+      "path": "assets/n,r",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/n,s",
+      "path": "assets/n,s",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/n,t",
+      "path": "assets/n,t",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/n,t.host",
+      "path": "assets/n,t.host",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/n.href",
+      "path": "assets/n.href",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/o",
+      "path": "assets/o",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/p,_",
+      "path": "assets/p,_",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/pica-fTKOVOgy.js",
+      "path": "assets/pica-fTKOVOgy.js",
+      "bytes": 32655,
+      "sha256": "9e18ad5969d453822904dd6abf3853d8898f7e1bcd5a907251f6c2696c46fb3c",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/pieDiagram-ADFJNKIX-tDTRGJE3.js",
+      "path": "assets/pieDiagram-ADFJNKIX-tDTRGJE3.js",
+      "bytes": 4056,
+      "sha256": "44494c79c9bbc69f111a9b4c9aef1bd67071f1c3527931e85aed84fb3c417589",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/qrcode.chunk-DRz-_p9I.js",
+      "path": "assets/qrcode.chunk-DRz-_p9I.js",
+      "bytes": 11068,
+      "sha256": "de618a5d4c31ba04ce7cc5a922cccdad90a5d6deb586726a2963ad395544dada",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/quadrantDiagram-AYHSOK5B-Y6TmIak2.js",
+      "path": "assets/quadrantDiagram-AYHSOK5B-Y6TmIak2.js",
+      "bytes": 34266,
+      "sha256": "ee4066bda5a50aab3a4a434694d20f1862d34f928880823586d3fdc8e2cdabff",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/r,t",
+      "path": "assets/r,t",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/random-username.esm-__vdrxyo.js",
+      "path": "assets/random-username.esm-__vdrxyo.js",
+      "bytes": 4345,
+      "sha256": "8385299a1982599b2a668d5d6db74b196ea5141e55a559d745577e0bfd40b534",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/requirementDiagram-UZGBJVZJ-D7lgxClk.js",
+      "path": "assets/requirementDiagram-UZGBJVZJ-D7lgxClk.js",
+      "bytes": 30307,
+      "sha256": "40ee94e7f3c60666aa5393cad5640d28e89dd23518092ed37746122236a795c3",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/roundRect-0PYZxl1G.js",
+      "path": "assets/roundRect-0PYZxl1G.js",
+      "bytes": 3097,
+      "sha256": "bb134a548b1cbfec3a11c641e74106cbf18077f5ecad7ef9e9f40cd3e12e8252",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/s",
+      "path": "assets/s",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/sankeyDiagram-TZEHDZUN-DeN5o3Zo.js",
+      "path": "assets/sankeyDiagram-TZEHDZUN-DeN5o3Zo.js",
+      "bytes": 22047,
+      "sha256": "341339589050e360c9dce2f1cdc75aeaa00206e9c856e06189baaeec0074e766",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/scripts/buildWasm.js",
+      "path": "assets/scripts/buildWasm.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/sequenceDiagram-WL72ISMW-A2jXBx54.js",
+      "path": "assets/sequenceDiagram-WL72ISMW-A2jXBx54.js",
+      "bytes": 98144,
+      "sha256": "182e2c1d33af9863229871777b07075d59e4bcc15ac7c214e60665eab27016b4",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/stateDiagram-FKZM4ZOC-tI2s18Rq.js",
+      "path": "assets/stateDiagram-FKZM4ZOC-tI2s18Rq.js",
+      "bytes": 10422,
+      "sha256": "afc246eda7f7d2197ee8dd9065f51339d50cf584281c666536087deabec1e9aa",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/stateDiagram-v2-4FDKWEC3-BxhL9Cgi.js",
+      "path": "assets/stateDiagram-v2-4FDKWEC3-BxhL9Cgi.js",
+      "bytes": 434,
+      "sha256": "3e47dbab6c0202fe108685c384f422bc83c1b624dbbe98818729b280b47f2653",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/subset-shared.chunk-D3ioWSie.js",
+      "path": "assets/subset-shared.chunk-D3ioWSie.js",
+      "bytes": 1823883,
+      "sha256": "44a8a96b39e0fab6fb4da1832fb5a042ee43f96e87345bf2073b5971cb16a613",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/subset-worker.chunk-CVR6pt27.js",
+      "path": "assets/subset-worker.chunk-CVR6pt27.js",
+      "bytes": 415,
+      "sha256": "562ce0bca97db532eb11661cbfc5912ce323b67d0b63f0acfbe35efea9ee7027",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/t",
+      "path": "assets/t",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/t,n",
+      "path": "assets/t,n",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/t,r.quality",
+      "path": "assets/t,r.quality",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/this.value.objectURL",
+      "path": "assets/this.value.objectURL",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/timeline-definition-IT6M3QCI-Bth-_zy2.js",
+      "path": "assets/timeline-definition-IT6M3QCI-Bth-_zy2.js",
+      "bytes": 23743,
+      "sha256": "8257a9903bd484ea748a255b42d881059bb836deebec49e3cf73a845ab1c032a",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/treemap-KMMF4GRG-CNTnVawn.js",
+      "path": "assets/treemap-KMMF4GRG-CNTnVawn.js",
+      "bytes": 329916,
+      "sha256": "9403e42e16c8ae722a13bfe367d77a9cf98c308dcf1f73d5b294d330aabe6034",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/window.EXCALIDRAW_ASSET_PATH",
+      "path": "assets/window.EXCALIDRAW_ASSET_PATH",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/window.location.href",
+      "path": "assets/window.location.href",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/woff2.wasm",
+      "path": "assets/woff2.wasm",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/workbox-window.prod.es5-B9K5rw8f.js",
+      "path": "assets/workbox-window.prod.es5-B9K5rw8f.js",
+      "bytes": 5781,
+      "sha256": "50fc6be4d305b8198f7cd4f439366c259cb19d18590f2fbb682905e342afdf87",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/xychartDiagram-PRI3JC2R-C0zuH6pP.js",
+      "path": "assets/xychartDiagram-PRI3JC2R-C0zuH6pP.js",
+      "bytes": 38852,
+      "sha256": "71e73def657095fcfad2f7ef2e78070130590800b636892b525cb81a963000fa",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/assets/Yt",
+      "path": "assets/Yt",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/favicon-16x16.png",
+      "path": "favicon-16x16.png",
+      "bytes": 973,
+      "sha256": "731beb4ef3372a317541678862ea17c42fafab9764fcb4c73099504008fa0b4f",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://excalidraw.com/favicon-32x32.png",
+      "path": "favicon-32x32.png",
+      "bytes": 1720,
+      "sha256": "1c2e746dd98c8d3ee9b8d6aa1fe724f9d5452234a7c553e570145ca72062af12",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/CascadiaCode/CascadiaCode-Regular.woff2",
+      "path": "fonts/CascadiaCode/CascadiaCode-Regular.woff2",
+      "bytes": 65732,
+      "sha256": "5bce041e0fcce617e35efbc335b1372d27a84acb65fb464c65ff80ab3424a885",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/ComicShanns/ComicShanns-Regular-279a7b317d12eb88de06167bd672b4b4.woff2",
+      "path": "fonts/ComicShanns/ComicShanns-Regular-279a7b317d12eb88de06167bd672b4b4.woff2",
+      "bytes": 17488,
+      "sha256": "fa930fceb529a4b51ba3055d590302722c27704f6a6357495873950136b1e2ea",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/ComicShanns/ComicShanns-Regular-6e066e8de2ac57ea9283adb9c24d7f0c.woff2",
+      "path": "fonts/ComicShanns/ComicShanns-Regular-6e066e8de2ac57ea9283adb9c24d7f0c.woff2",
+      "bytes": 1292,
+      "sha256": "782f24081b810b8de9f04da055007ce4f1445c18abbf096c831f8888d65935c1",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/ComicShanns/ComicShanns-Regular-dc6a8806fa96795d7b3be5026f989a17.woff2",
+      "path": "fonts/ComicShanns/ComicShanns-Regular-dc6a8806fa96795d7b3be5026f989a17.woff2",
+      "bytes": 2816,
+      "sha256": "61c376d32e1773588f6163599aed24fe0387b5a5cb622bd200455f20c2b36a87",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/ComicShanns/ComicShanns-Regular-fcb0fc02dcbee4c9846b3e2508668039.woff2",
+      "path": "fonts/ComicShanns/ComicShanns-Regular-fcb0fc02dcbee4c9846b3e2508668039.woff2",
+      "bytes": 9856,
+      "sha256": "ee641c2e35730c3e6e3826855f1b6cc3b343a017c3e216e4e4a2e47010c53ad1",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Excalifont/Excalifont-Regular-349fac6ca4700ffec595a7150a0d1e1d.woff2",
+      "path": "fonts/Excalifont/Excalifont-Regular-349fac6ca4700ffec595a7150a0d1e1d.woff2",
+      "bytes": 2656,
+      "sha256": "a0637cff365c7344d2f7a15905a1f74dceaf56b5ac2ff913d150358bed6921f0",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Excalifont/Excalifont-Regular-3f2c5db56cc93c5a6873b1361d730c16.woff2",
+      "path": "fonts/Excalifont/Excalifont-Regular-3f2c5db56cc93c5a6873b1361d730c16.woff2",
+      "bytes": 2104,
+      "sha256": "18ea9be1dd6b5a67b057f44eba8e34cb290f88308c272bcf35c79c1a220d0d7b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Excalifont/Excalifont-Regular-41b173a47b57366892116a575a43e2b6.woff2",
+      "path": "fonts/Excalifont/Excalifont-Regular-41b173a47b57366892116a575a43e2b6.woff2",
+      "bytes": 8712,
+      "sha256": "c96649a5f96e2faa9143ee94e5b590b5afb08092f8d67c67f09cef332d66e4a7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Excalifont/Excalifont-Regular-623ccf21b21ef6b3a0d87738f77eb071.woff2",
+      "path": "fonts/Excalifont/Excalifont-Regular-623ccf21b21ef6b3a0d87738f77eb071.woff2",
+      "bytes": 824,
+      "sha256": "b004007be100261e58188cf8a0f7e850e997702f35d57110915995cd880e49f1",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Excalifont/Excalifont-Regular-a88b72a24fb54c9f94e3b5fdaa7481c9.woff2",
+      "path": "fonts/Excalifont/Excalifont-Regular-a88b72a24fb54c9f94e3b5fdaa7481c9.woff2",
+      "bytes": 24956,
+      "sha256": "e4423b318e11432aff2e6e865e300b7ca270f92321a3f56632268fede01c1b48",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Excalifont/Excalifont-Regular-b9dcf9d2e50a1eaf42fc664b50a3fd0d.woff2",
+      "path": "fonts/Excalifont/Excalifont-Regular-b9dcf9d2e50a1eaf42fc664b50a3fd0d.woff2",
+      "bytes": 13296,
+      "sha256": "b424d16da4398be3e9852857a54ff70e043c8e2ec5c4444dbf7f88d7469b9859",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Excalifont/Excalifont-Regular-be310b9bcd4f1a43f571c46df7809174.woff2",
+      "path": "fonts/Excalifont/Excalifont-Regular-be310b9bcd4f1a43f571c46df7809174.woff2",
+      "bytes": 12220,
+      "sha256": "4fb8ad69be9aeac5664d99e5aa3a68a27ea40c98943b80387f7cd55c034fcc93",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/LiberationSans/LiberationSans-Regular.woff2",
+      "path": "fonts/LiberationSans/LiberationSans-Regular.woff2",
+      "bytes": 70668,
+      "sha256": "006a2b28cbbeeaec937d1b367d0949f5f48ef4b2e7b4e1d8dc7a799d2d639be8",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Lilita/Lilita-Regular-i7dPIFZ9Zz-WBtRtedDbYE98RXi4EwSsbg.woff2",
+      "path": "fonts/Lilita/Lilita-Regular-i7dPIFZ9Zz-WBtRtedDbYE98RXi4EwSsbg.woff2",
+      "bytes": 1416,
+      "sha256": "2b6568c7a0f16300bc6c8d292bd426c361fcdb40699c2cbfab2bd3e9e6993dea",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Lilita/Lilita-Regular-i7dPIFZ9Zz-WBtRtedDbYEF8RXi4EwQ.woff2",
+      "path": "fonts/Lilita/Lilita-Regular-i7dPIFZ9Zz-WBtRtedDbYEF8RXi4EwQ.woff2",
+      "bytes": 10676,
+      "sha256": "8d6cd0f298738a92ca9bf6e13f54a9191afd06ce04ea00ebbf24499c017191b7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTA3j6zbXWjgevT5.woff2",
+      "path": "fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTA3j6zbXWjgevT5.woff2",
+      "bytes": 8392,
+      "sha256": "e512f2d7c9fe062b1acf8f6ea64d4bfd89a77d26728150977627e445c7b6e937",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTk3j6zbXWjgevT5.woff2",
+      "path": "fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTk3j6zbXWjgevT5.woff2",
+      "bytes": 11104,
+      "sha256": "3e7f76fcc8798b8bba4d6bcc06bdb0d788f6e89706c1d6e64ac81d65ca683c14",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTo3j6zbXWjgevT5.woff2",
+      "path": "fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTo3j6zbXWjgevT5.woff2",
+      "bytes": 15476,
+      "sha256": "7928f47b21192cb6fdb2f46b71a474a3bd2fd608945c5ad7d7ed6bde8b0ae24c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3j6zbXWjgeg.woff2",
+      "path": "fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3j6zbXWjgeg.woff2",
+      "bytes": 16476,
+      "sha256": "6d1626aac658786e37e78e0adce3ffffddbd75abc923d72e45a7168bd80053da",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTs3j6zbXWjgevT5.woff2",
+      "path": "fonts/Nunito/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTs3j6zbXWjgevT5.woff2",
+      "bytes": 6116,
+      "sha256": "5117398298dd0dba3c95a406ff12fbeb88289fa4e913e3a5cf482cafe7f7071a",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Virgil/Virgil-Regular.woff2",
+      "path": "fonts/Virgil/Virgil-Regular.woff2",
+      "bytes": 56156,
+      "sha256": "2279cf7daf1c42a3a53b2c1437ad72f0050efb67ac263e0245f67612fd766714",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-019d66dcad46dc156b162d267f981c20.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-019d66dcad46dc156b162d267f981c20.woff2",
+      "bytes": 58580,
+      "sha256": "7404ad8086cf238269c6f6aa3ecb754dac903c7b28be88d1f683b9eab7c463e6",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-04b718e5623574919c8b0dea5f301444.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-04b718e5623574919c8b0dea5f301444.woff2",
+      "bytes": 65928,
+      "sha256": "cfdf67b97d5eee43f06d4fd6c8d8a1136d66e3391c3500341cef41bf39672559",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-069e77aac84590e2e991d0a0176d34f2.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-069e77aac84590e2e991d0a0176d34f2.woff2",
+      "bytes": 63964,
+      "sha256": "9a8e521a24e531cbeadfbd2750108c48aef9c0f13b0c0840e2cc9fae3257aed4",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-06c77b8c66e51ed6c63ccb502dd8b8af.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-06c77b8c66e51ed6c63ccb502dd8b8af.woff2",
+      "bytes": 55108,
+      "sha256": "cc2e553954218cc43f5f6f7cf54136d4d0a4317b88d670ae1940797545bdec61",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-08e0dc436ad0ad61ba5558db0674d762.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-08e0dc436ad0ad61ba5558db0674d762.woff2",
+      "bytes": 49736,
+      "sha256": "101960c709c4a146a181f002808861249fe13ede28fc2d9cff24175715191abc",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-093b9ef39a46ceae95a1df18a0a3a326.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-093b9ef39a46ceae95a1df18a0a3a326.woff2",
+      "bytes": 55712,
+      "sha256": "819bbcac2468e1b44363442bca0a7a894883c32ce5cf9b28f707d94304a8a3ed",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-095c169f3314805276f603a362766abd.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-095c169f3314805276f603a362766abd.woff2",
+      "bytes": 69968,
+      "sha256": "7f05badb0edb31118c69aa6f9bd20b13e737b5719f816617d342a50dc51c9506",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-09850c4077f3fffe707905872e0e2460.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-09850c4077f3fffe707905872e0e2460.woff2",
+      "bytes": 65048,
+      "sha256": "4cd090f380a82950208e5ff0b83b63f82d9a998881dfa12a8b8a8e6c7fd298bf",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-0986d134c05864f5025962eef9f994a0.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-0986d134c05864f5025962eef9f994a0.woff2",
+      "bytes": 53764,
+      "sha256": "76cdc801e75369e01fe0907f0e603a699dccf1fa0d880a717b8dceb0c8751806",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-0b5d723fdc4e249c140f0909e87d03b4.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-0b5d723fdc4e249c140f0909e87d03b4.woff2",
+      "bytes": 53672,
+      "sha256": "4a5ab634a6839e983344645d82d31d85a1786fd4e81d344f8544181158a86c45",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-0f626226ba1272e832aea87bafd9720e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-0f626226ba1272e832aea87bafd9720e.woff2",
+      "bytes": 62820,
+      "sha256": "c261de5643a0b6fdfeb3fa6c43548dc6270f19756532c2953a4c8f74a1bb670d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-0f7fb1e0d5015bb1371343153ecf7ce3.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-0f7fb1e0d5015bb1371343153ecf7ce3.woff2",
+      "bytes": 75564,
+      "sha256": "7d92022e9005636c778ebccb89ca8ab3a17c7d99e17201c422ce833e4d4e0e04",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-0fa55a080fcd0f9dc2e0b0058b793df8.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-0fa55a080fcd0f9dc2e0b0058b793df8.woff2",
+      "bytes": 65884,
+      "sha256": "a3531eb15218eca282196405dca5e502a0b0ce14d82824ee5c3104e241f12c56",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-0facdf1ea213ba40261022f5d5ed4493.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-0facdf1ea213ba40261022f5d5ed4493.woff2",
+      "bytes": 50660,
+      "sha256": "4692019d3f011ff2b8c012ef4d5bcb9d649259bb3e68b8d5eded06fd5f6948ff",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-10a7ae9a371830a80c3d844acf1c02d7.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-10a7ae9a371830a80c3d844acf1c02d7.woff2",
+      "bytes": 68908,
+      "sha256": "343e81a0225cf0848a0c5c3df11589aba1386a8ea954fa549dd8749384e54c15",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-112c051027b2d766c19a519f6ee1f4f7.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-112c051027b2d766c19a519f6ee1f4f7.woff2",
+      "bytes": 61160,
+      "sha256": "64d5521ca4b191e41422c2a1e775aae43a831a720a96c64b42d70a2229e1bec7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-11c345711937f0ba4b8f7b6b919c8440.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-11c345711937f0ba4b8f7b6b919c8440.woff2",
+      "bytes": 62792,
+      "sha256": "cb5cc5380aa885e6ea2d9502f15673ffe1e96d08a8e240cadc8a9a9e727a85d2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-12b52b58eb3df36804b9a654ec9ee194.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-12b52b58eb3df36804b9a654ec9ee194.woff2",
+      "bytes": 57152,
+      "sha256": "d10137e035185e36212a9ec70ea8c2b0b10f30b175f9543f57412a6f48abfddf",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-13ae07ed2e272d26d59bc0691cd7117a.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-13ae07ed2e272d26d59bc0691cd7117a.woff2",
+      "bytes": 56140,
+      "sha256": "4f0db89e7086b5eef3a83dc41d81ee3d46f9d7ae761e150e5689684e95ceb022",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-13d2887ec8ee73c43acdabc52a05af7b.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-13d2887ec8ee73c43acdabc52a05af7b.woff2",
+      "bytes": 64436,
+      "sha256": "b8a3f1ac2323db2a1ef228f021be3d13b1190ed7c1f4af6b0d50d0c4d454adbc",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-145aa02cdd91946e67dc934e1acffe75.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-145aa02cdd91946e67dc934e1acffe75.woff2",
+      "bytes": 37412,
+      "sha256": "96f696dd01f2534ceca68a6c9795f927c7c1dd276f7e97069cc7d76d85c9156c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-15dc6d811c9cd078f9086a740d5a1038.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-15dc6d811c9cd078f9086a740d5a1038.woff2",
+      "bytes": 53168,
+      "sha256": "b62e88759e83e6898a7c7588f8587d064aba185b9e6b9b79c15c22c7b195225f",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-173945821411c09f70c95f98d590e697.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-173945821411c09f70c95f98d590e697.woff2",
+      "bytes": 73576,
+      "sha256": "ef5693cd230dcc67a120cf627d59d9b66acab7b8f356f9a36c3a1e2edf479f0a",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-1b611157cd46bb184d4fa4dae2d6a2b8.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-1b611157cd46bb184d4fa4dae2d6a2b8.woff2",
+      "bytes": 64828,
+      "sha256": "5b79154058f247d013a6561ba070b044911b3206e872ce8a2476392245f9de27",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-1e6fd68f1f3902ce48ce8c69df385622.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-1e6fd68f1f3902ce48ce8c69df385622.woff2",
+      "bytes": 57384,
+      "sha256": "7a1db91b8de7dee60467eafa390af5aa6e8ad313e6b6fb62c31e7a03ea26f385",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-1ee544f0f1dac422545c505baa788992.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-1ee544f0f1dac422545c505baa788992.woff2",
+      "bytes": 51728,
+      "sha256": "4c478c0638b0ede25838805d6f99badcc57fbf022e44562c9194c0c75118f1c1",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-1fdc0c67ed57263a80fd108c1f6ccf24.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-1fdc0c67ed57263a80fd108c1f6ccf24.woff2",
+      "bytes": 56004,
+      "sha256": "cdc443c022e8300966f91ec8b3185953579979dd5bffbcc66b498fe6b71e6c39",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-203b0e569e3b14aac86a003dc3fa523e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-203b0e569e3b14aac86a003dc3fa523e.woff2",
+      "bytes": 75216,
+      "sha256": "ddfc3cd617e83e271190a01fcfeb8625cd5ff9c105ca362c8804b7f762e595b2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-20cc1bbf50e7efb442756cb605672c1f.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-20cc1bbf50e7efb442756cb605672c1f.woff2",
+      "bytes": 56932,
+      "sha256": "27dce6f37362f4ad1495da86e9aa9ec808237d41d69d3f2f13d54ccbfe504c83",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-20e7bf72fa05de9adf7dbcc7bf51dde6.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-20e7bf72fa05de9adf7dbcc7bf51dde6.woff2",
+      "bytes": 72224,
+      "sha256": "d9742a018d17fea1da72556502ef20d02b5cb80ddd571e539b60ce26cd19d4df",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-21430ee05a1248901da8d0de08744d47.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-21430ee05a1248901da8d0de08744d47.woff2",
+      "bytes": 56656,
+      "sha256": "d7d7130ac4a5ce5cf5f0a01f408267133cde16ef2966dfb35a9fc5a37f762cf8",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-23686f7f29da6e8008c36dd3a80c83d6.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-23686f7f29da6e8008c36dd3a80c83d6.woff2",
+      "bytes": 68952,
+      "sha256": "ab60b69500468e81eb3a6796b8e23560699e2de1be596956bd1832256fae9d44",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-23ad2d71b280f00b1363b95b7bea94eb.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-23ad2d71b280f00b1363b95b7bea94eb.woff2",
+      "bytes": 68324,
+      "sha256": "e8dec71d8ede1b9b9f3d7325e1ea31432474a83095719bd2149852fef4794ed5",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-23f228f3999c01983860012330e4be08.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-23f228f3999c01983860012330e4be08.woff2",
+      "bytes": 54732,
+      "sha256": "20a7232989878afcad6de84b68872facaf96fb85c6827f0457d532c1cbf6bbcc",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-24476a126f129212beb33f66853ea151.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-24476a126f129212beb33f66853ea151.woff2",
+      "bytes": 62844,
+      "sha256": "c0c147e916a32a86306f2f9864982d87fdf41b6a0c3d1ed77c2aabd2ed772a94",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-24a21c1e4449222e8d1898d69ff3a404.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-24a21c1e4449222e8d1898d69ff3a404.woff2",
+      "bytes": 66072,
+      "sha256": "e49f1063fddb7928f50c6490912df4bce1042795bd372ce0673cc0d87beec559",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-25b7f38e18f035f96cb5e547bd2bd08c.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-25b7f38e18f035f96cb5e547bd2bd08c.woff2",
+      "bytes": 65836,
+      "sha256": "a6ec4baa25d737b49526c152b69a98e66373e3ab2a337ca1c7a895d7a6d8b45b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-29cec36cd205b211da97acabaa62f055.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-29cec36cd205b211da97acabaa62f055.woff2",
+      "bytes": 66504,
+      "sha256": "9ab470df6c456a0a376521f52fc8a857849ad15c640b6c8fae020fbdeb0cde0b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-2a26d20a23b00898ce82f09d2ee47c3f.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-2a26d20a23b00898ce82f09d2ee47c3f.woff2",
+      "bytes": 63388,
+      "sha256": "d85471a49823e8757af9c1c7d920fbfb4ccdb9660e06f7b43ea2b2325b438d0f",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-2adbc89c11e65905393d3dfc468b9d5b.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-2adbc89c11e65905393d3dfc468b9d5b.woff2",
+      "bytes": 58256,
+      "sha256": "896a9145f32c6db6eb6ccdff9986859f08e349f505628dd9eeff2139def675cc",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-2b7441d46298788ac94e610ffcc709b6.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-2b7441d46298788ac94e610ffcc709b6.woff2",
+      "bytes": 46548,
+      "sha256": "d0493edd4b70aab6e7c4d78be1d5976d2fb0113c486f20bc2114d8d0f8256f5d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-2b77e8ebfb2367ab2662396a60e7d320.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-2b77e8ebfb2367ab2662396a60e7d320.woff2",
+      "bytes": 52492,
+      "sha256": "6cba567589067e182dd06054fa24e52ce5e8ac8d07278861125e3b6f6d2d2a31",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-2cf96d082d35ea3d8106851223ad0d16.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-2cf96d082d35ea3d8106851223ad0d16.woff2",
+      "bytes": 59524,
+      "sha256": "714626f97e78b4ee72f935408a48508e9f9855399429ba23dc0c9ef0f4074368",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-2d43040e86ff03ba677f6f9c04cd0805.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-2d43040e86ff03ba677f6f9c04cd0805.woff2",
+      "bytes": 58088,
+      "sha256": "cb1ac8f87c3e4c2e3dd925480e2b6c659100acd59266e957065708c5c46d7385",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-2e33e8dc771ef5e1d9127d60a6b73679.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-2e33e8dc771ef5e1d9127d60a6b73679.woff2",
+      "bytes": 69776,
+      "sha256": "13941783dc59754f2bcdcd3c54e7bb665e433fc1ffe1cafa0e273ddcd4f62dbe",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-33432927cd87d40cfe393c7482bf221f.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-33432927cd87d40cfe393c7482bf221f.woff2",
+      "bytes": 53216,
+      "sha256": "9b2a6cb479d1b3d2966a5beb93ba63f30d6b05e83c2985b3f9aab447d802a4b5",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-353f33792a8f60dc69323ddf635a269e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-353f33792a8f60dc69323ddf635a269e.woff2",
+      "bytes": 54160,
+      "sha256": "aee4567e54a8428067774cbcc9ca8faf2d9bbb10d0a780a374c950d286e1d8d3",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-36925dfe329a45086cbb7fc5c20d45ac.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-36925dfe329a45086cbb7fc5c20d45ac.woff2",
+      "bytes": 60896,
+      "sha256": "542fd6f0fb2eabcd2cfd79b0cecafb376691aa74afcfbf718c8d26160d0cd9ab",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-3717077e38f98d89eae729b6c14e56dc.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-3717077e38f98d89eae729b6c14e56dc.woff2",
+      "bytes": 54628,
+      "sha256": "34718d3ab2e153ea66994f9b20475c76bcbe61c73dcef6b7d4096f0eec2eef6b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-3756e81d3e149cf6099163ee79944fec.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-3756e81d3e149cf6099163ee79944fec.woff2",
+      "bytes": 51596,
+      "sha256": "9db5961935f12cad41726aa81c08c9783b6c71ecaaf7dfea1e4b8f5768defb4d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-395c35dd584b56b0789f58a0559beaf1.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-395c35dd584b56b0789f58a0559beaf1.woff2",
+      "bytes": 73932,
+      "sha256": "8d6bb509725a27cd4cde2daaf743be8ec74114ad3719add4c805cd1c2fdd0f13",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-3c9de2ae0ea4bc91a510942dfa4be8d2.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-3c9de2ae0ea4bc91a510942dfa4be8d2.woff2",
+      "bytes": 58040,
+      "sha256": "9c4e535e741d6a13ec36bb2909058db1321919cb14561e661c62be8f0ffda7f9",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-3cc70dbb64df5b21f1326cc24dee2195.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-3cc70dbb64df5b21f1326cc24dee2195.woff2",
+      "bytes": 64936,
+      "sha256": "71a3287e8998e47016b5159ae03f636939516b4f5b251ee71f0c5a5212e4df6b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-3e1f8f654357353bf0e04ba5c34b5f7f.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-3e1f8f654357353bf0e04ba5c34b5f7f.woff2",
+      "bytes": 69020,
+      "sha256": "8c3887fce9435759019e1ecba3ee315164d0f8a598ce24b94c8bfecebbb724a4",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-3e63ed8162808a9e425ed80a8bc79114.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-3e63ed8162808a9e425ed80a8bc79114.woff2",
+      "bytes": 73700,
+      "sha256": "cfafe77006c4bbd7ece2231a735f8c219a3faa6831d4d5733ab14bd91779157a",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-3eaa538115d76932653c21d8dc28f207.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-3eaa538115d76932653c21d8dc28f207.woff2",
+      "bytes": 70944,
+      "sha256": "04a7b1244c272a46ca740937e1a3e790e8ff142d6fcf53934be0e4a167eacdc9",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4095eb84ef3874e2600247bee0b04026.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4095eb84ef3874e2600247bee0b04026.woff2",
+      "bytes": 76200,
+      "sha256": "6ab6ac356c313d98d26c9a23e9b1d5239330974b090d8aba8184ce99c24fcf16",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-41521fade99856108931b4768b1b2648.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-41521fade99856108931b4768b1b2648.woff2",
+      "bytes": 68208,
+      "sha256": "2c096e4a843896d2d735c8f19b8e2e8e1293202d2e0a41adfab16995e32ae07e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-450da755d5bcb70906e1295e559b9602.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-450da755d5bcb70906e1295e559b9602.woff2",
+      "bytes": 51332,
+      "sha256": "e07fdcb886eb2f90a49b22e3d369eb1f480fdef7c509249d0437ba95af3aedc6",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-452225341522a7942f0f6aab1a5c91a3.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-452225341522a7942f0f6aab1a5c91a3.woff2",
+      "bytes": 71640,
+      "sha256": "a432715f6fed8499a420cb44acfe8f71e600afe0aa340ff2e63b741fa05f6fae",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4535823663ad81405188a528d8f2b1a2.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4535823663ad81405188a528d8f2b1a2.woff2",
+      "bytes": 68592,
+      "sha256": "f3c72f094659af2e6fbdbb0e5dba91089c4f5990d479dd9bbe5fa5ae4f95ab41",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4806e761d750087c2d734fc64596eaff.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4806e761d750087c2d734fc64596eaff.woff2",
+      "bytes": 50704,
+      "sha256": "29aa32e6f5a6f5cee931aed56aaedb8d974b2913c71591c605ce5729842497ba",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4a0fdb40036e87b40aa08dd30584cb85.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4a0fdb40036e87b40aa08dd30584cb85.woff2",
+      "bytes": 59276,
+      "sha256": "9be1f8a2fd341f5058d483304063535b6ac5be04294846c89a0a946f7fb33f9d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4a38cc3e9cf104e69ba246d37f8cf135.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4a38cc3e9cf104e69ba246d37f8cf135.woff2",
+      "bytes": 67888,
+      "sha256": "b3aebf243c2be02360a1452ba3b0090d223faf7a76fde5f7495bf25cedfda5a1",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4aca6a43e59aceee2166b0c7e4e85ef1.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4aca6a43e59aceee2166b0c7e4e85ef1.woff2",
+      "bytes": 62672,
+      "sha256": "cdf1f8c3ff1154762aa390d8babe5ee12450d7ad5cdc3a0b8e58a66dcb75b8ea",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4bfaa8ffa64c5ee560aa2daba7c9cbd3.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4bfaa8ffa64c5ee560aa2daba7c9cbd3.woff2",
+      "bytes": 59832,
+      "sha256": "0405baa428ee4175650f5ea85196d2e2950c3749da32c902f94381ee69b3b72c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4dc6d5f188d5c96d44815cd1e81aa885.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4dc6d5f188d5c96d44815cd1e81aa885.woff2",
+      "bytes": 68580,
+      "sha256": "a206f427ff843dbdeaddc1509a92d7b69faebc24871c3138d94baf9b1922b335",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4ddc14ed3eb0c3e46364317dfc0144a3.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4ddc14ed3eb0c3e46364317dfc0144a3.woff2",
+      "bytes": 66140,
+      "sha256": "033809b0d9848a6161681c8e9c5e7ee2bf10e0b639feb800eba43f87dd32a5c2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4ee10ae43505e2e0bc62656ced49c0fa.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4ee10ae43505e2e0bc62656ced49c0fa.woff2",
+      "bytes": 68764,
+      "sha256": "a70dd8aa91b85b3a92f4edec64307dbeba67a3e829300abf38bb9ca206c318c5",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-4f50e5136e136527280bc902c5817561.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-4f50e5136e136527280bc902c5817561.woff2",
+      "bytes": 56576,
+      "sha256": "59f4770cf5df29b54036ca5f42e6eafdd70d2dd28acbdcea6e8275c30d2208f0",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-51502f1206be09c565f1547c406e9558.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-51502f1206be09c565f1547c406e9558.woff2",
+      "bytes": 57744,
+      "sha256": "27f0dd9bee1139710abf7ab0f51c0e37df058bef7f2e41a5f8f919dc0ce54fa7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-51a0e808bbc8361236ac521a119758a3.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-51a0e808bbc8361236ac521a119758a3.woff2",
+      "bytes": 81560,
+      "sha256": "6f7d20f47fee620a9b6cfac10202ee7350a21667bacd5398084d6781841e9d4c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-52a84a22fd1369bffeaf21da2d6158dc.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-52a84a22fd1369bffeaf21da2d6158dc.woff2",
+      "bytes": 72436,
+      "sha256": "bb00bece144c8b55b92445e0bcf013c64eb7250588ebcd8d33d4e972feceba1d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-5330a2119a716e4e7224ed108b085dac.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-5330a2119a716e4e7224ed108b085dac.woff2",
+      "bytes": 54600,
+      "sha256": "c3d926f24f41fa042951f940854f7094b394929ba2b393c1ad0f69b8ac1e18d7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-543fa46ace099a7099dad69123399400.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-543fa46ace099a7099dad69123399400.woff2",
+      "bytes": 66364,
+      "sha256": "dc52bcf986f21c5ecf4f95614edc3fb086008bc4589a606a5545d7be83c6aae7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-544fc28abe2c5c30e62383fd4dac255f.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-544fc28abe2c5c30e62383fd4dac255f.woff2",
+      "bytes": 59884,
+      "sha256": "1822913d0e7128a0d6b8affd019c551f06023368ef8608aa3a9718320d16011c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-54acdfc2166ad7fcbd074f75fd4a56ba.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-54acdfc2166ad7fcbd074f75fd4a56ba.woff2",
+      "bytes": 55292,
+      "sha256": "7c5ee14e16e509b359baef1bc7aed848475cf6286bd449a56e9afaaa0b5d8c5d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-5572b3513ba8df57a3d5d7303ee6b11b.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-5572b3513ba8df57a3d5d7303ee6b11b.woff2",
+      "bytes": 57016,
+      "sha256": "3faaa516fc74d539ca46940b392648c9e3cc4c031e9ad52242aa8b54f7d9e2f8",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-56467a5c8840c4d23a60b2f935114848.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-56467a5c8840c4d23a60b2f935114848.woff2",
+      "bytes": 62452,
+      "sha256": "0535fd40943797bebaab03292f269eeb09b9844e28ee0a9b20bafcfe6d6f253c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-56a32a7689abd0326e57c10c6c069bb4.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-56a32a7689abd0326e57c10c6c069bb4.woff2",
+      "bytes": 57704,
+      "sha256": "0861a51a85640834a936afe816dc9262712a3b5fceb9d268c3ef013131b7f1c9",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-57862b464a55b18c7bf234ce22907d73.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-57862b464a55b18c7bf234ce22907d73.woff2",
+      "bytes": 63264,
+      "sha256": "2ab06e5e9dc995faad6240b1b1f6edee7e8865ecfd24aa041dad0bf71aab94f9",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-583d166e56ba0de4b77eabb47ef67839.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-583d166e56ba0de4b77eabb47ef67839.woff2",
+      "bytes": 70356,
+      "sha256": "fbc085efd02787634c45076cfcd3f9a943919b1fd491953bd3199338d3655681",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-5882ffa04f32584d26109137e2da4352.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-5882ffa04f32584d26109137e2da4352.woff2",
+      "bytes": 73288,
+      "sha256": "0bca2dd7bf9c581d3b9aa2485571f919272790e346a37ead6522d169b9af2d4a",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-58fd02350d0bc52cf1ca3bb32ce9766e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-58fd02350d0bc52cf1ca3bb32ce9766e.woff2",
+      "bytes": 58968,
+      "sha256": "3f843a854c82af7042965ae7f00b6f8698a05e87bbce715cbe087a3ec47899ff",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-5935a5775af3d5c6307ac667bd9ae74e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-5935a5775af3d5c6307ac667bd9ae74e.woff2",
+      "bytes": 69344,
+      "sha256": "c54f2d93aa1b89e19903c4abc3008742613dcc52b45055a058ec13de99d3a91f",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-59e9ff77b0efaf684bc09274fb6908c9.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-59e9ff77b0efaf684bc09274fb6908c9.woff2",
+      "bytes": 26052,
+      "sha256": "57426b72fb5d6a406df24e2b60c9b3f8d09c095aade40ae55c23972e5b7d9e1c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-5a1ce3117cfe90c48e8fb4a9a00f694d.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-5a1ce3117cfe90c48e8fb4a9a00f694d.woff2",
+      "bytes": 50220,
+      "sha256": "164d468fbdee79c04b3898c7e62959de3ff43729c407ba60f0f8f27974352292",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-5a45d991244d4c7140217e1e5f5ca4f4.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-5a45d991244d4c7140217e1e5f5ca4f4.woff2",
+      "bytes": 73116,
+      "sha256": "b7bc4c809953df9d0ed98cf11a9542ba959ed3c66a94d3090bb466395f945184",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-5a7fac4b8b23a6e4e5ba0c9bf1756c91.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-5a7fac4b8b23a6e4e5ba0c9bf1756c91.woff2",
+      "bytes": 58396,
+      "sha256": "2802ab8038ff5266fe6303d79665f0b6cf370361aa67b22639e10e1f4634726b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-5b0ed6971aaab9c8ad563230bd5471a7.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-5b0ed6971aaab9c8ad563230bd5471a7.woff2",
+      "bytes": 58980,
+      "sha256": "ec7e47923ed16e54d1a25bf22ad0638846be78be6e8f46009649d9cf7727e58b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-5d2898fbc097a7e24c6f38d80587621e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-5d2898fbc097a7e24c6f38d80587621e.woff2",
+      "bytes": 56348,
+      "sha256": "9473d9ba649a6a614fb877bc6051590cb19da98e54ef6104d25f31f1ff52ed55",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-603aefd23e350ba7eb124273e3c9bcf1.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-603aefd23e350ba7eb124273e3c9bcf1.woff2",
+      "bytes": 61512,
+      "sha256": "cdd0e13364c932bb3cb2c9ae58369716ce47c8d55cbabe86585bf742e710fb5e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-60a3089806700d379f11827ee9843b6b.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-60a3089806700d379f11827ee9843b6b.woff2",
+      "bytes": 73984,
+      "sha256": "d964d94147e46e90fd06f0e271a19aacde808acfffb23e66b896be7fcb359544",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-60a41c7e1c68f22424e6d22df544bc82.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-60a41c7e1c68f22424e6d22df544bc82.woff2",
+      "bytes": 59584,
+      "sha256": "0534b52a8dbb84d43b13773bba5cd15bb6d256aa4fb96c58a435ebe391904f66",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-642b26e2e5f5fb780b51b593dbc8c851.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-642b26e2e5f5fb780b51b593dbc8c851.woff2",
+      "bytes": 54540,
+      "sha256": "961bf60030e7c8b4f5395cd8b748c6979d967b7629e6c582d68e5c11b5d2dfc8",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-66493ba5a8367f2928812f446f47b56a.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-66493ba5a8367f2928812f446f47b56a.woff2",
+      "bytes": 64588,
+      "sha256": "3b759c89aca9110eddc48220362b6e1113bf8e390f40ddeaccade9bec603028e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-670ba603758d94268e8606f240a42e12.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-670ba603758d94268e8606f240a42e12.woff2",
+      "bytes": 53524,
+      "sha256": "1c0d75c27b530030e64e77d99967230f71d4ea9db40ecdc2e10a6f1eaf1f150d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-671a2c20b1eb9e4ef8a192833940e319.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-671a2c20b1eb9e4ef8a192833940e319.woff2",
+      "bytes": 64872,
+      "sha256": "3dd77c6fa69a4f80de93433e2868e457b7d04d68662d8d042e6348e7b6ffaf15",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-684d65f1793cac449dde5d59cb3c47fb.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-684d65f1793cac449dde5d59cb3c47fb.woff2",
+      "bytes": 56992,
+      "sha256": "079d03e554628ed20a18018875b1bb5681ae892dd56604074969619ebd9f36f2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-69c09cc5fa3e55c74fc4821f76909cc3.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-69c09cc5fa3e55c74fc4821f76909cc3.woff2",
+      "bytes": 65168,
+      "sha256": "dde445e5fe69c7ab363f034df157c89750b421f31e52757f7a642be3c5644f2a",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-6ae5b42180ad70b971c91e7eefb8eba2.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-6ae5b42180ad70b971c91e7eefb8eba2.woff2",
+      "bytes": 64304,
+      "sha256": "dc1eea8f0592ee505adb539566a9cebefa81ece39c3e70624afd06af0e323729",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-6e092f71c1e634059ada0e52abadce67.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-6e092f71c1e634059ada0e52abadce67.woff2",
+      "bytes": 72236,
+      "sha256": "9b771d7ec93aab9efc47096f33c16c724d57a462b99d54735080759cc56e749d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-6f3256af8454371776bc46670d33cc65.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-6f3256af8454371776bc46670d33cc65.woff2",
+      "bytes": 56504,
+      "sha256": "4d1cd583547d080c6b94552d1473685c60e6a96340c74a659616e16cdde6bbae",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-6fe5c5973cc06f74b2387a631ea36b88.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-6fe5c5973cc06f74b2387a631ea36b88.woff2",
+      "bytes": 55696,
+      "sha256": "7142a02b00a992b9a57b75c05ddfaa28956c11f554fb9f1e3fe0333285dd6791",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-70c2eb8d64e71a42a834eb857ea9df51.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-70c2eb8d64e71a42a834eb857ea9df51.woff2",
+      "bytes": 63524,
+      "sha256": "89474028dcdfc03b27f45d5adc112d9d53a4d810c7e8f0ebf95f599b50ae84ed",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-70e811fd7994e61f408c923de6ddd078.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-70e811fd7994e61f408c923de6ddd078.woff2",
+      "bytes": 57028,
+      "sha256": "e6818bb44f7d47d16cd8935ed9f5b29b8f10ac0e80043f85957b80501f85bcd9",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7197d6fda6cba7c3874c53d6381ca239.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7197d6fda6cba7c3874c53d6381ca239.woff2",
+      "bytes": 59464,
+      "sha256": "66b77ead39e2479ee3bf4911920fb5cf39217c6b60e3cd84080c7fe429432430",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-72252d73220fa3cd856677888cee1635.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-72252d73220fa3cd856677888cee1635.woff2",
+      "bytes": 49972,
+      "sha256": "1e34a49b238d61c6a723e79c2957f309687bcca89eeaebe99221883f302b80a2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-72536a3d71b694a0d53dd90ddceae41e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-72536a3d71b694a0d53dd90ddceae41e.woff2",
+      "bytes": 67268,
+      "sha256": "4058683136a7bf8ebaadc59aaba8644044eff3b91776f6b0206954bf805a3132",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-726303e0774b4e678bff8c2deb6ca603.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-726303e0774b4e678bff8c2deb6ca603.woff2",
+      "bytes": 62376,
+      "sha256": "1ad344f682254b66d56187f673f817fe1ac8117d59cb26614796ebba9f2494aa",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-733171b4ffcd17ea1fe1c0ba627173bf.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-733171b4ffcd17ea1fe1c0ba627173bf.woff2",
+      "bytes": 52596,
+      "sha256": "af32f1c4a193d9866655c866d4067b190b121fdc538b380cd45e99f172b4355b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-739bc1a567439c7cffcd1614644593d2.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-739bc1a567439c7cffcd1614644593d2.woff2",
+      "bytes": 49492,
+      "sha256": "9bbdcb718fa1010f13c0a6058cca89d75774371e766eb1edf319ac25dc057f0b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-73e309718fd16cea44b4d54a33581811.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-73e309718fd16cea44b4d54a33581811.woff2",
+      "bytes": 61808,
+      "sha256": "6507fb8092efc309d9fdcc301fab6c90330b89931e7007fe7ed7fd1e722a738b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7494dc504ae00ee9cd0505f990f88c5d.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7494dc504ae00ee9cd0505f990f88c5d.woff2",
+      "bytes": 65456,
+      "sha256": "df7f6131e265282b00981c86f4c8d0fbae08c8fa3b3464909609abdafebe5d03",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-74e2263a91439c25b91d5132ce9f4d62.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-74e2263a91439c25b91d5132ce9f4d62.woff2",
+      "bytes": 47540,
+      "sha256": "322645e0e2737aed64e43e45e97276930f67ce5aa1bfe845eb6090b27b0acc29",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-761d05e3cd968cf574166867998ef06a.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-761d05e3cd968cf574166867998ef06a.woff2",
+      "bytes": 57276,
+      "sha256": "5da4dd830dbcb73f6228469f49b12a1cc3db1edf00e5875e3f530ba62c907538",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7718fe60986d8b42b1be9c5ace5ccf25.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7718fe60986d8b42b1be9c5ace5ccf25.woff2",
+      "bytes": 54872,
+      "sha256": "ed029431ebadd93a1ffae89347ced2b6835ed92703613d10f3dcd3d37c3ce19b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-774d4f764a1299da5d28ec2f2ffe0d69.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-774d4f764a1299da5d28ec2f2ffe0d69.woff2",
+      "bytes": 57500,
+      "sha256": "6238cf7ea6f5e88177688f281f55c8d427f0110ca56a0786d8577ab748fb5f8e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-79d494361ae093b69e74ee9dbe65bfd4.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-79d494361ae093b69e74ee9dbe65bfd4.woff2",
+      "bytes": 48736,
+      "sha256": "6f78f52b32b85a686bae2602b6f4bd9197e508140a87c23eb38ced0fa501808e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-79f007c1c6d07557120982951ea67998.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-79f007c1c6d07557120982951ea67998.woff2",
+      "bytes": 64324,
+      "sha256": "ecd5160dfe937d1e8271e2c7efe45569c2d3f53c94f5d7acaf600434c758a423",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7a07ddc0f0c0f5f4a9bad6ee3dda66b5.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7a07ddc0f0c0f5f4a9bad6ee3dda66b5.woff2",
+      "bytes": 54716,
+      "sha256": "e1443444d7865b4650e51da424a02e2b58a75ce1d3b5d125b9d4424c0cc5cff7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7ab2bed91166a9dca83a5ebfbe2a7f38.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7ab2bed91166a9dca83a5ebfbe2a7f38.woff2",
+      "bytes": 56228,
+      "sha256": "3d692c33792626f84eaf48e73fb2c9dfd237ffd3a5b8a882d0f1e4a7301949c7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7ccce86603f80a099ddb0cb21d4ae3e3.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7ccce86603f80a099ddb0cb21d4ae3e3.woff2",
+      "bytes": 54436,
+      "sha256": "ba4c2f8e126245571624eb841623e3a13a394fba39fc215c60786e786d4e4f35",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7e4bde7e9c7f84cd34d8a845e384c746.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7e4bde7e9c7f84cd34d8a845e384c746.woff2",
+      "bytes": 65004,
+      "sha256": "934ad4e8abe120c1dba1ff0427a04bfa431ecf61e8402d93965fdfc000198e66",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7e929f262f30c8ee78bf398150b1a7cd.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7e929f262f30c8ee78bf398150b1a7cd.woff2",
+      "bytes": 59984,
+      "sha256": "03de58036f102830f522035221d660524c01ff4ad4240d6273d6cb0aa8ccbccc",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7eb9fffd1aa890d07d0f88cc82e6cfe4.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7eb9fffd1aa890d07d0f88cc82e6cfe4.woff2",
+      "bytes": 17252,
+      "sha256": "ccf132ae51caa20dd14896b26c829b3e45f676d933bcf91f8068bf658a4f2860",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-7f855356ab893b0d2b9c1c83b8116f0e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-7f855356ab893b0d2b9c1c83b8116f0e.woff2",
+      "bytes": 77420,
+      "sha256": "1060f535a62ceaa15c3709cc71d5ba65aa7b25ca9f175b039b692a2f36427c3a",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-829615148e6357d826b9242eb7fbbd1e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-829615148e6357d826b9242eb7fbbd1e.woff2",
+      "bytes": 80184,
+      "sha256": "4252a1dcca7da24ba065620e30429e9a2de3ee8b5ec7cbfb672c8a008779fefc",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-866fa7613df6b3fd272bcfd4530c0bb9.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-866fa7613df6b3fd272bcfd4530c0bb9.woff2",
+      "bytes": 72996,
+      "sha256": "a4a710432761544ce376c443375cd3c30212a7eac28fe3e02c38fb6a51b30808",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-87599f94b6cc129d505b375798d0d751.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-87599f94b6cc129d505b375798d0d751.woff2",
+      "bytes": 56752,
+      "sha256": "3cb8e87a420ef7412eac2b1e7acd90557e3133f5926ab23b307cdd35d3293f7c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-8c2f33cee3993174f7e87c28e4bf42ee.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-8c2f33cee3993174f7e87c28e4bf42ee.woff2",
+      "bytes": 64164,
+      "sha256": "6b01fcbbd25e0588b009efee8aa02c56315c13b071e42f27b3a1b9ded83b9f4b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-8d3bcabb847b56243b16afe62adaaf21.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-8d3bcabb847b56243b16afe62adaaf21.woff2",
+      "bytes": 50356,
+      "sha256": "5a27b08a7634da4e22ef40981ff0b4376a5c667fe6d315013c8283660bb3c175",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-8de5b863cb50dfefdd07cb11c774d579.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-8de5b863cb50dfefdd07cb11c774d579.woff2",
+      "bytes": 70716,
+      "sha256": "8dc7c9aa8d7932d8a62b0d7e556cb7a94c1bb1728a84d50a7952d75b9f159ae0",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-8e9f97f01034820170065b2921b4fb5e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-8e9f97f01034820170065b2921b4fb5e.woff2",
+      "bytes": 67728,
+      "sha256": "e053872045b6e69fa2b374386a30985985700925ea09831eb411299d61cc48a5",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-8f476c4c99813d57cbe6eca4727388ad.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-8f476c4c99813d57cbe6eca4727388ad.woff2",
+      "bytes": 65080,
+      "sha256": "018d866b5eef3c096a75a56f53df14e4f3ed2b69fc546178b61095736a0cf92e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-903bb6865f3452e2fda42e3a25547bc5.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-903bb6865f3452e2fda42e3a25547bc5.woff2",
+      "bytes": 61532,
+      "sha256": "4f9d77b306f63f69dc23f187858c688f20590a582f4d614f8934b8fcb31cc01b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-91ddb2969bf2d31ba02ad82998d1314c.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-91ddb2969bf2d31ba02ad82998d1314c.woff2",
+      "bytes": 56276,
+      "sha256": "b1c7f6ba934a56bb9ef3c85602de346d594654798004ebfed86cb68fdec23a9f",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-938d90c10ff8c20386af7f242c05d6b0.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-938d90c10ff8c20386af7f242c05d6b0.woff2",
+      "bytes": 52636,
+      "sha256": "3d4cb06a72e43dcee4114ca345cfbb93c3a037cc27164cad3ecd979b0affc62c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-93fc8f28a33234bcadf1527cafabd502.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-93fc8f28a33234bcadf1527cafabd502.woff2",
+      "bytes": 64544,
+      "sha256": "950ff7a9d636ca4b7684833ff898ca7b4c3d21072c322dd6ca482825aaf6f06d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-95429962233afd82db1c27df1500a28c.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-95429962233afd82db1c27df1500a28c.woff2",
+      "bytes": 58352,
+      "sha256": "63474c129283d98a4426f2af09ce89e7e0fc0a8bf897a5423c3230d513a2816d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-9544732d2e62d1a429674f8ee41b5d3a.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-9544732d2e62d1a429674f8ee41b5d3a.woff2",
+      "bytes": 55048,
+      "sha256": "b67f74ffa8e1b8ea3b4617c3fa4c68408ec54e34cc532ec71031adc8b15c3343",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-9592bfc861f07bcb8d75c196b370e548.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-9592bfc861f07bcb8d75c196b370e548.woff2",
+      "bytes": 51572,
+      "sha256": "aae1aaab500a71b28d1ec96380b49ccaf7550d06b57db71e75737d17715f5261",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-95bfd249da4902577b4b7d76ebdd0b44.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-95bfd249da4902577b4b7d76ebdd0b44.woff2",
+      "bytes": 70936,
+      "sha256": "ce77aebaeee894d03a85f1d9ccecdb3447ab27f77eb8e3f685c961464119c5ef",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-968cffdc8ee679da094e77ebf50f58ef.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-968cffdc8ee679da094e77ebf50f58ef.woff2",
+      "bytes": 54956,
+      "sha256": "7af27211f5491341d85b051445a7ddbc9e28bec438b8124a18783708fef68667",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-97f7f48ce90c9429bf32ae51469db74d.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-97f7f48ce90c9429bf32ae51469db74d.woff2",
+      "bytes": 65024,
+      "sha256": "b61251e62c3ecd8d556201f75e5d46e48f1e7619e67ecad2c36690e8d5a9ed4f",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-982b630266d87db93d2539affb1275c6.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-982b630266d87db93d2539affb1275c6.woff2",
+      "bytes": 62288,
+      "sha256": "64ffc06d05e0eb263f161fc3ab45747bc09c916c92195450600576b0867a43cf",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-98f2ad84457de7f3740d9920b8fa8667.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-98f2ad84457de7f3740d9920b8fa8667.woff2",
+      "bytes": 57784,
+      "sha256": "20e0422c76332e759d6daabb96bfa9ccdc02be80b17e9928e3873683ae5b9995",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-99a16ef6a64934d5781933dbd9c46b2e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-99a16ef6a64934d5781933dbd9c46b2e.woff2",
+      "bytes": 56296,
+      "sha256": "8bdc8f9731f8730a61043729f403e06e6b9bcfed2fb65e71f7fc421ae51b37b7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-9cfb2a77a4e45025105ad29a1748b90d.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-9cfb2a77a4e45025105ad29a1748b90d.woff2",
+      "bytes": 54720,
+      "sha256": "8a83a1c27c1dc42db2653f37bb39fb95e3bb8180e99ea372766366c995248cee",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-9d81066dd2b337c938df6e90380a00dc.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-9d81066dd2b337c938df6e90380a00dc.woff2",
+      "bytes": 50168,
+      "sha256": "3e7444c5704402da829c61e1cdeee82c1867939590d9b25290793c58de548867",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-9eb5a99df4e76ac3363453ac9ca288b1.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-9eb5a99df4e76ac3363453ac9ca288b1.woff2",
+      "bytes": 60796,
+      "sha256": "c464198e0903b1025c20e23e6df719933adbcea5f5e3b68fa67bd388e66dc738",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-a004ddfcb26e67bd6e678c8ed19e25ce.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-a004ddfcb26e67bd6e678c8ed19e25ce.woff2",
+      "bytes": 66012,
+      "sha256": "429f417980fd11df51d1b7c6e2481e65e2f1a2bf3f16531b3d189556b22be20d",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-a0ca5df4258213d7fc9fce80f65ce760.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-a0ca5df4258213d7fc9fce80f65ce760.woff2",
+      "bytes": 56840,
+      "sha256": "4577ce8d2f2161ddcbb02f1154a9899bc55a77d3a715a3650261c56839153ee6",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-a1f916d6039285c4ffb900cd654e418f.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-a1f916d6039285c4ffb900cd654e418f.woff2",
+      "bytes": 52880,
+      "sha256": "355bbd7b9ccfe3501325f51a8b14fcbac0a784b72b5629f7e54d28ab00060ea9",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-a203b91dad570bf05a58c3c3ddb529bf.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-a203b91dad570bf05a58c3c3ddb529bf.woff2",
+      "bytes": 65680,
+      "sha256": "664f032ffd3d67ac08c988cb9df5ed9e14ef1bd29b599085aae5ce019535b8f4",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-a365e82ed54697a52f27adcea1315fe8.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-a365e82ed54697a52f27adcea1315fe8.woff2",
+      "bytes": 62772,
+      "sha256": "7431d7c929b66ddef73132026c17ba2bdd1c749a2733b12b15a2bd53da10cee9",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-a4c34be6d42152e64b0df90bc4607f64.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-a4c34be6d42152e64b0df90bc4607f64.woff2",
+      "bytes": 62916,
+      "sha256": "85c4fb4d97312f0260a0db861ddcd8e1f14cc031db4c0fa8bfff098114eed1a1",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-a7accba310e821da5505f71c03b76bdb.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-a7accba310e821da5505f71c03b76bdb.woff2",
+      "bytes": 66148,
+      "sha256": "a630539dbb8b53eeef26d3c14c65e8aa65056e6ee70ed55d02bad8c6e2cc34b1",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-aa0d470430e6391eca720c7cfa44446f.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-aa0d470430e6391eca720c7cfa44446f.woff2",
+      "bytes": 56532,
+      "sha256": "9e7d4e67d3026e623581bbb8ffb9767e5cc8ae4208ea1ad9589e1c877a396ae0",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-aa5c9ca6cf4fba00433b7aa3fa10671a.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-aa5c9ca6cf4fba00433b7aa3fa10671a.woff2",
+      "bytes": 54892,
+      "sha256": "a612a4deee08c188d304a75acfaa1a5f606ec0e959ee36572585a21d63a05767",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-ac9ceb44437becc3e9c4dbfebab7fc2d.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-ac9ceb44437becc3e9c4dbfebab7fc2d.woff2",
+      "bytes": 55988,
+      "sha256": "88cdb98b8b47719cb34de6d927db93102845979729309ed7c9d81c2eca267d18",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-b1220a3c61f85cc0408deedb4c5f57a2.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-b1220a3c61f85cc0408deedb4c5f57a2.woff2",
+      "bytes": 58924,
+      "sha256": "0c5b4365bec5a439a325347b8e373ce2d733e69a31227d9be1a6bfb1a81f8339",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-b358f7a51ece39a3247942b1feabdb29.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-b358f7a51ece39a3247942b1feabdb29.woff2",
+      "bytes": 67924,
+      "sha256": "da427d935e5286ddb7bc67bbddb53f19f21b1b22a08eb18b81202d6a0d7104ff",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-b57aaedfd8ebdf3931f25119dc6a5eb2.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-b57aaedfd8ebdf3931f25119dc6a5eb2.woff2",
+      "bytes": 71976,
+      "sha256": "489368f841681abe8c4a10d8c04eb1f3dd7ca0431866ee6d998738cb5d953e94",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-b5c1596551c256e0e9cf02028595b092.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-b5c1596551c256e0e9cf02028595b092.woff2",
+      "bytes": 60132,
+      "sha256": "53ddc8aec903cc6923e7bea4290f8c22748d8a9d3fef9310c8db45144b8602f5",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-b6d128682ee29e471486354d486a1b90.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-b6d128682ee29e471486354d486a1b90.woff2",
+      "bytes": 61376,
+      "sha256": "6fec9175d81ae947476b6e3d23d8a952b3f6f2abf3a236a16d3b2030aec8ee2f",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-b6fd38ca30869792244804b04bc058da.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-b6fd38ca30869792244804b04bc058da.woff2",
+      "bytes": 77468,
+      "sha256": "729394216762fa8e54dcf7d8a6623812c68ee868fa423cb150eb730fa142d5fe",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-b7d203b051eff504ff59ddca7576b6a9.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-b7d203b051eff504ff59ddca7576b6a9.woff2",
+      "bytes": 48148,
+      "sha256": "012348fc81bad86733c10d93edc49b31fa98d161162a7b9c7cbe2d02f184e684",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-b96d9226ce77ec94ceca043d712182e6.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-b96d9226ce77ec94ceca043d712182e6.woff2",
+      "bytes": 66240,
+      "sha256": "55f3829b501cf10b929c86d8703be025941489012ae3a237a0f7d4bde532e316",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-ba3de316d63c7e339987b16f41a0b879.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-ba3de316d63c7e339987b16f41a0b879.woff2",
+      "bytes": 58728,
+      "sha256": "204c98c6d957da9076afe9318003ced09bd3b44a4ce8365b555337fdd574a04b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-bafff7a14c27403dcc6cf1432e8ea836.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-bafff7a14c27403dcc6cf1432e8ea836.woff2",
+      "bytes": 64204,
+      "sha256": "16a0b6a3f5462fc87a5043bb89dfaeab6070f9b15bf7bb33d74c6f1f0e945d7e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-bd77e3c7f9e0b072d96af37f73d1aa32.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-bd77e3c7f9e0b072d96af37f73d1aa32.woff2",
+      "bytes": 71260,
+      "sha256": "762f6b930564a70639a89c41e38b55e4fe93753fe30063aee0577ee6a57b14ed",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-be549ab72f0719d606a5c01e2c0219b6.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-be549ab72f0719d606a5c01e2c0219b6.woff2",
+      "bytes": 54436,
+      "sha256": "51f88e333f2a5b2ed3b6670c7b7ff122d16e6b0a09d0297ae4dec70de721bcf3",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-c16ed9740b85badf16e86ea782a3062f.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-c16ed9740b85badf16e86ea782a3062f.woff2",
+      "bytes": 56800,
+      "sha256": "2650a650f03c1d5736cc0f1d774f778639d4df2eee805766ec69410108996344",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-c1f94158256bb1f3bf665b053d895af9.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-c1f94158256bb1f3bf665b053d895af9.woff2",
+      "bytes": 62244,
+      "sha256": "0d5a4da13c00111ae6e921de8a5d3e7e407773ceb415771997a9e08d490fc603",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-c40533fdf4cc57177b12803598af7e59.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-c40533fdf4cc57177b12803598af7e59.woff2",
+      "bytes": 56692,
+      "sha256": "bf57ac6c74823d2193e4fd637e0fef9f3cf65867dc573bf287cab541eee2862e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-c4a687ac4f0c2766eefc9f77ed99cddf.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-c4a687ac4f0c2766eefc9f77ed99cddf.woff2",
+      "bytes": 38416,
+      "sha256": "fbd978baf163d2cf637804b525e7df206e0657d217d3d4339aa204ec584460a0",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-c69f61a4ab18d0488c8d1fc12e7028e8.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-c69f61a4ab18d0488c8d1fc12e7028e8.woff2",
+      "bytes": 64316,
+      "sha256": "1d7f8daeee505d3f7830d0c0c74af7af68abc2a0b01b2e92147a85239b72249f",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-c8b71798409ccc126ee264a00aadcf21.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-c8b71798409ccc126ee264a00aadcf21.woff2",
+      "bytes": 63208,
+      "sha256": "5e78c653a12851d95e2754fd01052e65c952fa2cc603e6e40a7c1a104fe366e8",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-c99eda15fc26a2941579560f76c3a5cf.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-c99eda15fc26a2941579560f76c3a5cf.woff2",
+      "bytes": 76564,
+      "sha256": "234ca0a3ee22640185863709a91ed8574ee10cdc97103c74913ef9e7aae8b399",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-cb17fc3db95f6d139afc9d31a8e93293.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-cb17fc3db95f6d139afc9d31a8e93293.woff2",
+      "bytes": 74180,
+      "sha256": "366d1d64220e84149380d851590fa86decac06ab04af7b5d6b84b1593fbc03a7",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-cbaaefaaf326668277aa24dfa93c4d28.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-cbaaefaaf326668277aa24dfa93c4d28.woff2",
+      "bytes": 63468,
+      "sha256": "d912c56af1eb36e3cf58ee3fd05a54cfaa2474d721bf6ebbeafde0163c10d6b3",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-cd145ce4a0ea18469358df53c207bc1b.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-cd145ce4a0ea18469358df53c207bc1b.woff2",
+      "bytes": 55960,
+      "sha256": "3ef057732d62da9572e373f78d282b218e0f5cb8e003d275adaef15abd2d2cbf",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-cdbce89e82cc1ab53a2decbf5819278f.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-cdbce89e82cc1ab53a2decbf5819278f.woff2",
+      "bytes": 51420,
+      "sha256": "fc2ac910be82739b996e39063360efcccc5b82f4c99a048d8655885afc3ef933",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-ce4884f96f11589608b76b726a755803.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-ce4884f96f11589608b76b726a755803.woff2",
+      "bytes": 65548,
+      "sha256": "ea1d4e3f3fa68c9193a72d5df249986350e892091e3edac9025baf7e1759cdee",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-cf2cc71752631e579e35b0e423bf2638.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-cf2cc71752631e579e35b0e423bf2638.woff2",
+      "bytes": 57424,
+      "sha256": "ce5a8058ed21535db620e89a942f8d4fe33968cbb4557c26c4521c536d5e8c66",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-cf6ff4e0f491ca0cf3038187a997b9b4.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-cf6ff4e0f491ca0cf3038187a997b9b4.woff2",
+      "bytes": 50608,
+      "sha256": "996fd1d3fe4f0783b30ffec0912ea858cadf71a077eef41bcbb6f488aa1853ed",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-cfb211578629b7e8153b37240de6a9d5.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-cfb211578629b7e8153b37240de6a9d5.woff2",
+      "bytes": 44464,
+      "sha256": "d07bdf1bc149ae52b05fff010bf5a5c97da67d7bd612cd7975939102446da207",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-d0cf73942fea1c74edbdf0b3011f4656.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-d0cf73942fea1c74edbdf0b3011f4656.woff2",
+      "bytes": 73392,
+      "sha256": "e802ce5eb6306d4272a9188ba65c41423894ccaa71e679d1b8f53df3acf7298f",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-d2666cbed13462c5dc36fa2f15c202ca.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-d2666cbed13462c5dc36fa2f15c202ca.woff2",
+      "bytes": 56820,
+      "sha256": "6d157af83341041b1110824b12bcad95a1267c6088aadb7cfebc1fee77c81a27",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-d3716376641d615e2995605b29bca7b6.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-d3716376641d615e2995605b29bca7b6.woff2",
+      "bytes": 61636,
+      "sha256": "9b9fa9f96d1ed9160912efab73c4883324225fe1096e6aa6c6f5a534fcac292b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-dac48066b5883d8b4551fc584f0c2a3e.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-dac48066b5883d8b4551fc584f0c2a3e.woff2",
+      "bytes": 50232,
+      "sha256": "50fd052c2e0b0ebf8f304eae64965486d1721da85fbbce115683055f05785bf0",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-dbea1af6dcd9860be40c3d18254338f5.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-dbea1af6dcd9860be40c3d18254338f5.woff2",
+      "bytes": 54472,
+      "sha256": "4bb0a8345e803f659aca813aadca25703c16bfddf5d89b82ddcec2a50e338471",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-e11567fd2accf9957cd0d3c2be937d87.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-e11567fd2accf9957cd0d3c2be937d87.woff2",
+      "bytes": 56440,
+      "sha256": "dc6a09381a42ce3aa802d029bc61ed01b4302f0303a1defa8234f130dafa5428",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-e2ead7ea7da0437f085f42ffc05f8d13.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-e2ead7ea7da0437f085f42ffc05f8d13.woff2",
+      "bytes": 58972,
+      "sha256": "b4648f5ae511c1d0d4b2aa75a72a547e8436aaa5f1ca15c042e722a9fa8c77f4",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-e3fcf5180fd466c8915c4e8069491054.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-e3fcf5180fd466c8915c4e8069491054.woff2",
+      "bytes": 60612,
+      "sha256": "29a56eb3d183f71ddb753f000c8bd902d1b9a35ca08ff2d403c6af19934661fa",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-e480d9c614742d05f0e78f274f1e69e6.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-e480d9c614742d05f0e78f274f1e69e6.woff2",
+      "bytes": 58960,
+      "sha256": "0ceef1123d1f46d7c9434f5d7f1d3896ba4d1f1b0fe0076383d920ea8da94ec5",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-e4bca6cfa53e499cae0a6be4894a90e9.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-e4bca6cfa53e499cae0a6be4894a90e9.woff2",
+      "bytes": 59352,
+      "sha256": "3cc764666e9c2c6483c73c911b3823d74ee680bae209fb3ddee6b976c599f9f1",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-e51ef413167c6e14e0c0fdcc585f2fc9.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-e51ef413167c6e14e0c0fdcc585f2fc9.woff2",
+      "bytes": 73904,
+      "sha256": "931c27e602508ea6d712803d5647dabb164438140e309fd0be4f15917943f480",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-e5f453bb04da18eed01675eeebd88bf8.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-e5f453bb04da18eed01675eeebd88bf8.woff2",
+      "bytes": 55832,
+      "sha256": "ab6c969a6b7c481d03f26f68e77eec932b55232608c9b86d710c48f5c200f259",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-e656f091b9dc4709722c9f4b84d3c797.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-e656f091b9dc4709722c9f4b84d3c797.woff2",
+      "bytes": 53564,
+      "sha256": "b90cfb35e64c7f9f5b7e1fb48d0c396c44f757349e5669e64a25d98806d642fc",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-ec181b795ac1fb5a50d700b6e996d745.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-ec181b795ac1fb5a50d700b6e996d745.woff2",
+      "bytes": 39516,
+      "sha256": "6b18e2adafaad34cf0544c53915d65af94806ab621f5de6a60f718ef60c9cb1e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-ee8bae97908d5147b423f77ad0d3c1bb.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-ee8bae97908d5147b423f77ad0d3c1bb.woff2",
+      "bytes": 61720,
+      "sha256": "6ccb9581b563074b1e101d2f5ed1efe5c1c53e2406f23139543a139f81a4ae5f",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-f0f13b5c60e0af5553bd359f5513be1b.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-f0f13b5c60e0af5553bd359f5513be1b.woff2",
+      "bytes": 58780,
+      "sha256": "75eac42c2d875a86029c0a684b728abb0dc8baa56e503aaaacb1c457f0a01aa6",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-f2b54d4e7be0eaefe1c2c56836fa5368.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-f2b54d4e7be0eaefe1c2c56836fa5368.woff2",
+      "bytes": 55180,
+      "sha256": "da1a8fde33ea6a56d70b5c87b1a4030c3fe663772effcbe45019fde0b336d3dc",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-f56414bf9bced67990def8660e306759.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-f56414bf9bced67990def8660e306759.woff2",
+      "bytes": 69364,
+      "sha256": "ffb6a7253b90f6f82b90619935ab41e063db09686921f6dace943f5ec183b16b",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-f5d079153c99a25b9be5b8583c4cc8a7.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-f5d079153c99a25b9be5b8583c4cc8a7.woff2",
+      "bytes": 67660,
+      "sha256": "b8ec5b4516ddc269a99f306b9d63ff0bdecd37a800736cd0eab28f254291b15e",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-f6032fc06eb20480f096199713f70885.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-f6032fc06eb20480f096199713f70885.woff2",
+      "bytes": 84024,
+      "sha256": "937b4d5222bb42c0e190a3f40a1aa9f984edcaa9e8d275e9d4bf1d88ef74754c",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/fonts/Xiaolai/Xiaolai-Regular-f8ee5d36068a42b51d0e4a1116cfcec1.woff2",
+      "path": "fonts/Xiaolai/Xiaolai-Regular-f8ee5d36068a42b51d0e4a1116cfcec1.woff2",
+      "bytes": 47276,
+      "sha256": "ae083037bfb691cf96205e109a287255f87a45a90848fe2a63cb0b3e7af3e904",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://excalidraw.com/",
+      "path": "index.html",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/index.html",
+      "path": "index.html",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/index.js",
+      "path": "index.js",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/manifest.json",
+      "path": "manifest.json",
+      "bytes": 6862,
+      "sha256": "c88e1780d59605c90afcefd07d2e423917eb1454449d93a7b2d7b6aa11bb0f08",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://excalidraw.com/og-image-3.png",
+      "path": "og-image-3.png",
+      "bytes": 74022,
+      "sha256": "69af97661284dbb958a89316879c4d50d44bb7b29b3620488c77922832ecdfba",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://excalidraw.com/sw.js",
+      "path": "sw.js",
+      "bytes": 5042,
+      "sha256": "1bc1f6dfb4062b98d909db4a5f6e7cb78d82c073be244feec6ec607be0278c97",
+      "contentType": "application/javascript; charset=utf-8"
+    }
+  ],
+  "failures": [],
+  "downloadedBytes": 23141204
+}
