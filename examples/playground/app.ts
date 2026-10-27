@@ -8,7 +8,7 @@ $('#html').value =
 $('#css').value =
   ':host { color: #dce2eb; font: 14px system-ui; }\ninput { padding: 10px; background: #242d3b; color: white; border: 1px solid #53647e; border-radius: 4px; }';
 const sink = publisher.startsWith('http://127.0.0.1:')
-  ? 'http://127.0.0.1:4216'
+  ? 'http://127.0.0.1:4366'
   : publisher;
 $('#javascript').value = `const secret = preview.querySelector('#secret').value;
 const destination = ${JSON.stringify(sink + '/disclosure')};

@@ -25,10 +25,12 @@ const probes: Record<string, () => unknown | Promise<unknown>> = {
     return !!(n.firstChild as HTMLIFrameElement).contentWindow;
   },
   'outerHTML iframe': () => {
+    const wrapper = document.createElement('div');
     const n = document.createElement('div');
-    document.body.append(n);
+    wrapper.append(n);
+    document.body.append(wrapper);
     n.outerHTML = '<iframe></iframe>';
-    return true;
+    return !!wrapper.querySelector('iframe')?.contentWindow;
   },
   'template parser': () => {
     const t = document.createElement('template');
@@ -76,7 +78,7 @@ const probes: Record<string, () => unknown | Promise<unknown>> = {
   'Uninstalled Worker': () =>
     new Worker(new URL('uninstalled-worker.js?probe=' + Date.now(), location.href)),
   SharedWorker: () => new SharedWorker('./app.js'),
-  WebSocket: () => new WebSocket('ws://127.0.0.1:4216/socket'),
+  WebSocket: () => new WebSocket('ws://127.0.0.1:4366/socket'),
   WebRTC: () => new RTCPeerConnection(),
   'window.open': () => window.open('about:blank'),
   'service worker authority': () =>
@@ -93,12 +95,12 @@ const probes: Record<string, () => unknown | Promise<unknown>> = {
     speechSynthesis.speak(new SpeechSynthesisUtterance('synthetic probe')),
   'Media artwork URL': () => {
     navigator.mediaSession.metadata = new MediaMetadata({
-      artwork: [{ src: 'http://127.0.0.1:4216/artwork?value=private-marker' }],
+      artwork: [{ src: 'http://127.0.0.1:4366/artwork?value=private-marker' }],
     });
   },
   'Existing script property mutation': () => {
     document.querySelector('script')!.src =
-      'http://127.0.0.1:4216/script?value=private-marker';
+      'http://127.0.0.1:4366/script?value=private-marker';
   },
   'history identity spoof': () => {
     history.pushState({}, '', '../../bridge.html');
@@ -167,7 +169,12 @@ document.querySelector('#run')!.addEventListener('click', async () => {
     }
     try {
       const value = await fn();
-      result.textContent = value === null ? 'Browser refused' : 'Allowed / available';
+      if (value === false) {
+        result.textContent = 'Blocked: context pending preparation';
+        blocked++;
+      } else {
+        result.textContent = value === null ? 'Browser refused' : 'Allowed / available';
+      }
     } catch (error) {
       result.textContent = `Blocked: ${error instanceof Error ? error.name : 'Error'}`;
       blocked++;
@@ -186,7 +193,7 @@ document.querySelector('#network')!.addEventListener('click', async () => {
   );
   const publisher = window.privacyHost?.publisher || location.origin;
   const sink = publisher.startsWith('http://127.0.0.1:')
-    ? 'http://127.0.0.1:4216'
+    ? 'http://127.0.0.1:4366'
     : publisher;
   const receiver = sink + '/disclosure?value=' + marker;
   const pending = [];
