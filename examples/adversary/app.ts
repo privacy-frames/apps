@@ -100,7 +100,7 @@ const probes: Record<string, () => unknown | Promise<unknown>> = {
   },
   'Existing script property mutation': () => {
     document.querySelector('script')!.src =
-      'http://127.0.0.1:4366/script?value=private-marker';
+      'http://127.0.0.1:4366/script?value=' + crypto.randomUUID();
   },
   'history identity spoof': () => {
     history.pushState({}, '', '../../bridge.html');
