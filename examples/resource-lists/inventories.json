@@ -1,0 +1,144 @@
+{
+  "format": "text/uri-list",
+  "entries": {
+    "squoosh": {
+      "source": {
+        "inventory": "mirrors/squoosh-snapshot.json",
+        "archive": "snapshots-2026-10-27",
+        "filter": "HTML fallback responses at non-document asset paths omitted"
+      },
+      "urls": 76,
+      "bytes": 26027963,
+      "http200": true,
+      "cors": "*"
+    },
+    "stackedit": {
+      "source": {
+        "inventory": "mirrors/stackedit-snapshot.json",
+        "archive": "snapshots-2026-10-27",
+        "filter": "HTML fallback responses at non-document asset paths omitted"
+      },
+      "urls": 127,
+      "bytes": 7648088,
+      "http200": true,
+      "cors": "*"
+    },
+    "excalidraw": {
+      "source": {
+        "inventory": "mirrors/excalidraw-snapshot.json",
+        "archive": "snapshots-2026-10-27",
+        "filter": "HTML fallback responses at non-document asset paths omitted"
+      },
+      "urls": 351,
+      "bytes": 22054469,
+      "http200": true,
+      "cors": "*"
+    },
+    "drawio": {
+      "source": {
+        "inventory": "privacy-frames/host results/evaluation/drawio-installation-snapshot.json",
+        "scope": "Successful unchanged-app diagram editing/offline capture; includes precache revision keys",
+        "bytes": 71174742
+      },
+      "urls": 128,
+      "bytes": 71178046,
+      "http200": true,
+      "cors": "*"
+    },
+    "cyberchef": {
+      "source": {
+        "repository": "gchq/CyberChef",
+        "branch": "gh-pages",
+        "tree": "584b744a59e52b92d0ecee85453586ac5c0322cc",
+        "scope": "Released executable modules/assets/images; compressed JS alternatives and download archive omitted",
+        "bytes": 60991485
+      },
+      "urls": 69,
+      "bytes": 60991485,
+      "http200": true,
+      "cors": "*"
+    },
+    "pitch-training": {
+      "source": {
+        "source": "https://damenh.github.io/pitch-training/sw.js",
+        "sha256": "68cc74174f0223912c77e1af2a818296dbfc0ca51a79a425e655e44be4be57cb",
+        "scope": "Published FILES inventory plus the published worker script; no execution"
+      },
+      "urls": 41,
+      "bytes": 1074282,
+      "http200": true,
+      "cors": "*"
+    },
+    "photocraft": {
+      "source": {
+        "source": "https://share.damenh.com/craft/hVO5F2d3gEg2c4hY5/",
+        "scope": "Published module and explicit module_or_path Wasm URL; no external worker assets in this build"
+      },
+      "urls": 2,
+      "bytes": 24872920,
+      "http200": true,
+      "cors": "*"
+    },
+    "notes": {
+      "source": {
+        "scope": "Maintained example static build files",
+        "source": "examples/notes"
+      },
+      "urls": 7,
+      "bytes": 681731,
+      "http200": true,
+      "cors": "*"
+    },
+    "image": {
+      "source": {
+        "scope": "Maintained example static build files",
+        "source": "examples/image"
+      },
+      "urls": 3,
+      "bytes": 4963,
+      "http200": true,
+      "cors": "*"
+    },
+    "adversary": {
+      "source": {
+        "scope": "Maintained example static build files",
+        "source": "examples/adversary"
+      },
+      "urls": 4,
+      "bytes": 11430,
+      "http200": true,
+      "cors": "*"
+    },
+    "playground": {
+      "source": {
+        "scope": "Maintained example static build files",
+        "source": "examples/playground"
+      },
+      "urls": 3,
+      "bytes": 5166,
+      "http200": true,
+      "cors": "*"
+    },
+    "ordinary": {
+      "source": {
+        "scope": "Maintained example static build files",
+        "source": "examples/ordinary"
+      },
+      "urls": 15,
+      "bytes": 5868,
+      "http200": true,
+      "cors": "*"
+    }
+  },
+  "verification": {
+    "method": "Credential-free HEAD with Origin header; redirects refused",
+    "verifiedAt": "2026-10-29T09:57:04.811550+00:00",
+    "origin": "https://install.pf.damenh.com",
+    "uniqueURLs": 826,
+    "allHTTP200": true,
+    "allCORSReadable": true,
+    "mirrorFilesUnchanged": 3803,
+    "evidence": "mirrors/resource-list-verification.json",
+    "mirrorManifestSHA256": "36962948cb822129840b3d0ceb19147e4a65eb9e5f8e211f1acb943ab851abf3"
+  }
+}

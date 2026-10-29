@@ -21,3 +21,9 @@ Squoosh's `/editor` client route is declared as an additional relocation path.
 Application behavior is evaluated after relocation; this packaging grants no host
 capabilities. The site includes links to externally hosted PhotoCraft, Pitch
 Training, Wikipedia HTML and CyberChef.
+
+Supplemental URI lists live in `examples/resource-lists/`. They name released
+assets that HTML, CSS and literal module imports do not enumerate, including
+worker modules and piano samples. The host downloads these URLs as data without
+executing an application installer. `inventories.json` records each list's source.
+Refresh the affected list when an upstream build changes its resource names.
