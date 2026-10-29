@@ -61,11 +61,12 @@
     "pitch-training": {
       "source": {
         "source": "https://damenh.github.io/pitch-training/sw.js",
-        "sha256": "68cc74174f0223912c77e1af2a818296dbfc0ca51a79a425e655e44be4be57cb",
-        "scope": "Published FILES inventory plus the published worker script; no execution"
+        "sha256": "9bbe40f76b382c14cbd319395e767b869f4a384fee8e9c2da3ce7f5a824128bf",
+        "scope": "Published FILES inventory plus the published worker script; no execution",
+        "inventory": "mirrors/pitch-training-inventory.json"
       },
       "urls": 41,
-      "bytes": 1074282,
+      "bytes": 1076173,
       "http200": true,
       "cors": "*"
     },

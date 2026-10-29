@@ -1,0 +1,296 @@
+{
+  "verifiedAt": "2026-10-29T22:19:41.804026+00:00",
+  "method": "Credential-free GET with Origin header; redirects refused; published JSON FILES array read without executing publisher code",
+  "source": "https://damenh.github.io/pitch-training/sw.js",
+  "sourceSHA256": "9bbe40f76b382c14cbd319395e767b869f4a384fee8e9c2da3ce7f5a824128bf",
+  "resources": [
+    {
+      "url": "https://damenh.github.io/pitch-training/",
+      "status": 200,
+      "bytes": 1154,
+      "sha256": "2a21bfa7b70c4ceec28dc495f0b9f1c2d8e840640b61c5b984dc911370903ebd",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/agents.txt",
+      "status": 200,
+      "bytes": 11945,
+      "sha256": "cda6c12767aed2e470f6f35f6dc24cf3ddcffd8f4f92ea632d4f460874cce220",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/apple-touch-icon.png",
+      "status": 200,
+      "bytes": 2246,
+      "sha256": "5ae9a0e15fceae76e8661eea68fde425fd8c3e70bf34d5628e5fbc921d1ba6be",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/assets/index-BvkNtD_8.js",
+      "status": 200,
+      "bytes": 245777,
+      "sha256": "19f36372a1f4b908dc9a2be95089409d701cba17061d5624a325873bfc6ac717",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/assets/index-DqXB1q9b.css",
+      "status": 200,
+      "bytes": 46499,
+      "sha256": "36104d4adeb78cf422b2e12b36319f48bd873929b85cdf56b7bac69f7d3c3c06",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/icon-192.png",
+      "status": 200,
+      "bytes": 4075,
+      "sha256": "97729ec2c3f8465e7cbdfe29b124453653fd48f722a1fad0e4fddf0ea0821d45",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/icon-512.png",
+      "status": 200,
+      "bytes": 11654,
+      "sha256": "7de53b2e834bda9374ea4e786df376317995a6a3878496f70fa5221e66dd270d",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/icon-maskable-512.png",
+      "status": 200,
+      "bytes": 6589,
+      "sha256": "94912761947abc729129b1e4f7a420930d509f644aab80b4d04867e6a0fc4b1c",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/icon.svg",
+      "status": 200,
+      "bytes": 624,
+      "sha256": "a636d60e103a1068bafc2afad701887c03512bbd2e458b607b579278e36a8dcf",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/index.html",
+      "status": 200,
+      "bytes": 1154,
+      "sha256": "2a21bfa7b70c4ceec28dc495f0b9f1c2d8e840640b61c5b984dc911370903ebd",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/manifest.webmanifest",
+      "status": 200,
+      "bytes": 1590,
+      "sha256": "fcf2e601eca9a6210a4de8cdbe7a7e092dced6f7346ece7037e064a7b0f8f295",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/A1.mp3",
+      "status": 200,
+      "bytes": 32270,
+      "sha256": "2cb522aba9d756111498e8e4cd67bed072286306c8f8630e8e86599e63629671",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/A2.mp3",
+      "status": 200,
+      "bytes": 31491,
+      "sha256": "35735ac9ba60a88d2ab086b3050dd0461121753c3e08a66a904f67c1a4bc34a2",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/A3.mp3",
+      "status": 200,
+      "bytes": 29773,
+      "sha256": "db488eda0a10eceaa8b14f62486a302d41106a79698d37fec734617cab53efde",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/A4.mp3",
+      "status": 200,
+      "bytes": 25807,
+      "sha256": "a0cc8c4eb77e05e1204629d34842a35499ba54b292acc3b7000b5e16edfb879b",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/A5.mp3",
+      "status": 200,
+      "bytes": 21534,
+      "sha256": "6dae75cce7953054cd299d73f2dce6c71c76f21c90e6c8e453619f6eb7499548",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/A6.mp3",
+      "status": 200,
+      "bytes": 20673,
+      "sha256": "7bb0977093555c0ece717dea9fe0515694a62c8d79d53ff7a350dbb3e34f3e02",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/A7.mp3",
+      "status": 200,
+      "bytes": 18230,
+      "sha256": "ec7b42ce612fde2666445f5f8fc35244ec8c685c824a364651e85b398195b11d",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/C1.mp3",
+      "status": 200,
+      "bytes": 28916,
+      "sha256": "4269b98f2e6a6106ec1e7a1221db44079f8e72b078df6dceeaae55896d21a90e",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/C2.mp3",
+      "status": 200,
+      "bytes": 31284,
+      "sha256": "ec400d589e1aa9df6725d98686137cf06113f55979c2f7c5aea95f638e452600",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/C3.mp3",
+      "status": 200,
+      "bytes": 30319,
+      "sha256": "e172ab43b2bd732d136c55c8869a224b74e04d168d82e1d65d1f025aeda76fac",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/C4.mp3",
+      "status": 200,
+      "bytes": 31703,
+      "sha256": "434675a99d38e3e82110f7c58098fa11b61d0b55cdeda5b116372c49b3442d8c",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/C5.mp3",
+      "status": 200,
+      "bytes": 24739,
+      "sha256": "e2861af9da188a644cd17b26206eb81aef27b2618b97d41ca72997d3bcb5b368",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/C6.mp3",
+      "status": 200,
+      "bytes": 21013,
+      "sha256": "56cf09ce1967b4cac695429e8dd9243e7e1bf86124a639e2d4c52f2c1d6004b7",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/C7.mp3",
+      "status": 200,
+      "bytes": 18463,
+      "sha256": "4b1820b47d0c445949cffdba1eeccd24619c2758ae7b9b437e7752436ff74927",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Ds1.mp3",
+      "status": 200,
+      "bytes": 30424,
+      "sha256": "3a30a25ae3b211f60ac6d4ca45ab70fc43f5b6e8dcdc3c81980ae04dca4d7d37",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Ds2.mp3",
+      "status": 200,
+      "bytes": 31385,
+      "sha256": "54585acca215c658612c03d916b985a1ba9e50a78a71a9b2f40018c7e1122881",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Ds3.mp3",
+      "status": 200,
+      "bytes": 30740,
+      "sha256": "24533ad495bd44f8834b03663958cdd41dfee5dda18b9f5cc25e0bec9ead1f79",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Ds4.mp3",
+      "status": 200,
+      "bytes": 28298,
+      "sha256": "1a8f92fd7c855d9f7949291c01eb4225110ab7d28bb7aa1e7075908c66524915",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Ds5.mp3",
+      "status": 200,
+      "bytes": 24398,
+      "sha256": "a9df11d550a859cb492ca9167b28dab5b5b3aa5301113a779c8adaf9cbfa9cc5",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Ds6.mp3",
+      "status": 200,
+      "bytes": 22471,
+      "sha256": "140bdc54bef7a5d7862a4cba29207264e8495fe8f94f098b13e0806acc02e509",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Ds7.mp3",
+      "status": 200,
+      "bytes": 20492,
+      "sha256": "a63c82c7bb072ffc01a66ce10228fc252127b86b920fe26d2fc39c4bea53164e",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Fs1.mp3",
+      "status": 200,
+      "bytes": 31621,
+      "sha256": "612d139688ee19ce9a1b49368941a8464c84f0089eecb6691d83fcb1b171647b",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Fs2.mp3",
+      "status": 200,
+      "bytes": 30657,
+      "sha256": "0cb8be63ccf47c791c9dc6a9f13d0caeea0e29bd29f0ab19cd3713625b8063e2",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Fs3.mp3",
+      "status": 200,
+      "bytes": 30736,
+      "sha256": "8966af63ea159f386cb49c88093a8b8afd0373cb68ae781abb549de10c84d6ef",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Fs4.mp3",
+      "status": 200,
+      "bytes": 27470,
+      "sha256": "0819f2529ee8127eb55517a446a852d2792b5f892b103e6fdf5f34ae94c61346",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Fs5.mp3",
+      "status": 200,
+      "bytes": 21872,
+      "sha256": "8b4f2511c2aa70209fda6cab00015d29fea74774feb84b06b32742aefa1a16b8",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Fs6.mp3",
+      "status": 200,
+      "bytes": 20986,
+      "sha256": "1611d8bde7d0b8908052caaacce83177fcedc2c678e43a7aea115b230e0f2015",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/Fs7.mp3",
+      "status": 200,
+      "bytes": 21273,
+      "sha256": "ae9fa6819b54a1c47206ab0edb61faca022df50dce69125e66d4f3c9645c5a66",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/samples/piano/LICENSE.txt",
+      "status": 200,
+      "bytes": 665,
+      "sha256": "8a6414076dfce59bac8f8485f645d8ca1dd5d65fd3de8f497b59bc70c02df16e",
+      "cors": "*"
+    },
+    {
+      "url": "https://damenh.github.io/pitch-training/sw.js",
+      "status": 200,
+      "bytes": 3163,
+      "sha256": "9bbe40f76b382c14cbd319395e767b869f4a384fee8e9c2da3ce7f5a824128bf",
+      "cors": "*"
+    }
+  ],
+  "bytes": 1076173
+}
